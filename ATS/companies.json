@@ -21,6 +21,39 @@
             "guymon",
             "dodge_city",
             "colby"
+        ],
+        "cargoOut": [
+            "cargo.food",
+            "cargo.grain_b",
+            "cargo.dry_fruit",
+            "cargo.potatoes_b",
+            "cargo.fruit_juic_t",
+            "cargo.grain",
+            "cargo.flour",
+            "cargo.hay",
+            "cargo.scaffolding",
+            "cargo.frozen_veget",
+            "cargo.sugar_beet_b",
+            "null",
+            "cargo.fruits",
+            "cargo.moving_cont",
+            "cargo.almond_box",
+            "cargo.frozen_fruit",
+            "cargo.frozen_food",
+            "cargo.potatoes",
+            "cargo.soybean_b"
+        ],
+        "cargoIn": [
+            "cargo.hay",
+            "cargo.fert_tank",
+            "cargo.wshavings",
+            "cargo.lumber",
+            "cargo.plows",
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.hipresstank",
+            "cargo.emptytank",
+            "cargo.lumber_b"
         ]
     },
     {
@@ -60,6 +93,25 @@
             "havre",
             "enid",
             "beaumont"
+        ],
+        "cargoOut": [
+            "cargo.grain",
+            "cargo.corn_b",
+            "cargo.soybean_b",
+            "null",
+            "cargo.moving_cont",
+            "cargo.grain_b",
+            "cargo.scaffolding",
+            "cargo.flour"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.soybean_b",
+            "cargo.corn_b",
+            "cargo.grain_b",
+            "cargo.scaffolding",
+            "cargo.grain",
+            "cargo.pipes"
         ]
     },
     {
@@ -75,6 +127,18 @@
             "garden_city",
             "topeka",
             "hutchinson"
+        ],
+        "cargoOut": [
+            "cargo.corn_b",
+            "cargo.grain",
+            "null",
+            "cargo.soybean_b",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.corn_b",
+            "cargo.soybean_b",
+            "cargo.pipes"
         ]
     },
     {
@@ -93,7 +157,9 @@
             "salina_ks",
             "sacramento"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [],
+        "cargoIn": []
     },
     {
         "code": "sc_frm",
@@ -170,6 +236,43 @@
             "yuma",
             "burns",
             "huron"
+        ],
+        "cargoOut": [
+            "cargo.almond_box",
+            "cargo.dry_fruit",
+            "cargo.grain",
+            "cargo.fruit_juic_t",
+            "null",
+            "cargo.grain_b",
+            "cargo.nuts",
+            "cargo.moving_cont",
+            "cargo.flour",
+            "cargo.soybean_b",
+            "cargo.potatoes",
+            "cargo.hay",
+            "cargo.sugar_beet_b",
+            "cargo.potatoes_b",
+            "cargo.vegetable",
+            "cargo.scaffolding",
+            "cargo.corn_b",
+            "cargo.fruits",
+            "cargo.frozen_veget",
+            "cargo.trees",
+            "cargo.plows",
+            "cargo.frozen_fruit"
+        ],
+        "cargoIn": [
+            "cargo.hay",
+            "cargo.plows",
+            "cargo.moving_cont",
+            "cargo.wshavings",
+            "cargo.fertilizer",
+            "cargo.lumber_b",
+            "cargo.hipresstank",
+            "cargo.lumber_p",
+            "cargo.scaffolding",
+            "cargo.emptytank",
+            "cargo.lumber"
         ]
     },
     {
@@ -224,6 +327,36 @@
             "el_centro",
             "artesia",
             "phoenix"
+        ],
+        "cargoOut": [
+            "cargo.rawmilk",
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "null",
+            "cargo.yogurt",
+            "cargo.milk",
+            "cargo.cheese",
+            "cargo.milk_t",
+            "cargo.food",
+            "cargo.meat",
+            "cargo.frozen_food",
+            "cargo.dry_milk",
+            "cargo.buttermilk",
+            "cargo.butter"
+        ],
+        "cargoIn": [
+            "cargo.hay",
+            "cargo.soybean_b",
+            "cargo.sugar_beet_b",
+            "cargo.scaffolding",
+            "cargo.fertilizer",
+            "cargo.moving_cont",
+            "cargo.wshavings",
+            "cargo.pellet_afd_b",
+            "cargo.pellet_afood",
+            "cargo.soda_ash",
+            "cargo.ventilation",
+            "cargo.cool_tower"
         ]
     },
     {
@@ -245,7 +378,9 @@
             "burlington",
             "las_vegas"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [],
+        "cargoIn": []
     },
     {
         "code": "wp_oil_gst",
@@ -255,7 +390,9 @@
             "barstow",
             "redding"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [],
+        "cargoIn": []
     },
     {
         "code": "gal_oil_gst",
@@ -291,7 +428,9 @@
             "las_cruces",
             "alamogordo"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [],
+        "cargoIn": []
     },
     {
         "code": "hau_oil_gst",
@@ -311,7 +450,9 @@
             "odessa",
             "lubbock"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [],
+        "cargoIn": []
     },
     {
         "code": "h_castle",
@@ -319,7 +460,11 @@
         "output": [
             "h_bracken"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [
+            "null"
+        ],
+        "cargoIn": []
     },
     {
         "code": "st_met_whs",
@@ -369,6 +514,47 @@
             "ontario",
             "hays",
             "pittsburg"
+        ],
+        "cargoOut": [
+            "cargo.scaffolding",
+            "cargo.alu_profile",
+            "cargo.ventilation",
+            "cargo.scrap_metals",
+            "cargo.largetubes",
+            "cargo.train_part",
+            "cargo.oil_pipes",
+            "cargo.scrap_cars",
+            "cargo.hipresstank",
+            "cargo.alu_ingot",
+            "cargo.moor_buoy",
+            "null",
+            "cargo.moving_cont",
+            "cargo.guard_rails",
+            "cargo.rails",
+            "cargo.aircon",
+            "cargo.fert_tank",
+            "cargo.mtl_coil",
+            "cargo.pipes",
+            "cargo.emptytank"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "cargo.train_part",
+            "cargo.scrap_cars",
+            "cargo.scrap_metals",
+            "cargo.largetubes",
+            "cargo.hipresstank",
+            "cargo.moor_buoy",
+            "cargo.alu_ingot",
+            "cargo.rails",
+            "cargo.fert_tank",
+            "cargo.mtl_coil",
+            "cargo.emptytank",
+            "cargo.aircon",
+            "cargo.ventilation",
+            "cargo.alu_profile",
+            "cargo.guard_rails"
         ]
     },
     {
@@ -419,6 +605,25 @@
             "modesto",
             "oakland",
             "junction_cty"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "cargo.scrap_cars",
+            "cargo.scrap_metals",
+            "cargo.battery",
+            "cargo.scaffolding",
+            "null"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.scrap_cars",
+            "cargo.scrap_metals",
+            "cargo.scaffolding",
+            "cargo.dumpster",
+            "cargo.hipresstank",
+            "cargo.oil_pipes",
+            "cargo.fert_tank",
+            "cargo.pipes"
         ]
     },
     {
@@ -447,6 +652,33 @@
             "waco",
             "dalhart",
             "san_antonio"
+        ],
+        "cargoOut": [
+            "cargo.milk_t",
+            "cargo.scaffolding",
+            "cargo.milk",
+            "null",
+            "cargo.rawmilk",
+            "cargo.buttermilk",
+            "cargo.yogurt",
+            "cargo.cheese",
+            "cargo.moving_cont",
+            "cargo.frozen_food",
+            "cargo.dry_milk",
+            "cargo.food",
+            "cargo.butter"
+        ],
+        "cargoIn": [
+            "cargo.hay",
+            "cargo.sugar_beet_b",
+            "cargo.moving_cont",
+            "cargo.fertilizer",
+            "cargo.aircon",
+            "cargo.soybean_b",
+            "cargo.wshavings",
+            "cargo.scaffolding",
+            "cargo.soda_ash",
+            "cargo.pellet_afd_b"
         ]
     },
     {
@@ -553,6 +785,45 @@
             "topeka",
             "wichita",
             "brownsville"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "cargo.empty_palet",
+            "cargo.scaffolding",
+            "cargo.used_pack",
+            "cargo.waste_paper"
+        ],
+        "cargoIn": [
+            "cargo.frozen_fruit",
+            "cargo.flour",
+            "cargo.frozen_veget",
+            "cargo.almond_box",
+            "cargo.vegetable",
+            "cargo.potatoes",
+            "cargo.dry_fruit",
+            "cargo.frozen_food",
+            "cargo.milk",
+            "cargo.yogurt",
+            "cargo.meat",
+            "cargo.cheese",
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.dry_milk",
+            "cargo.butter",
+            "cargo.paper",
+            "cargo.furniture",
+            "cargo.food",
+            "cargo.fruits",
+            "cargo.cans",
+            "cargo.buttermilk",
+            "cargo.office_suppl",
+            "cargo.pellet_afood",
+            "cargo.home_acc",
+            "cargo.nuts",
+            "cargo.icecream",
+            "cargo.salt",
+            "cargo.sugar",
+            "cargo.colors"
         ]
     },
     {
@@ -614,6 +885,36 @@
             "great_falls",
             "sandpoint",
             "san_diego"
+        ],
+        "cargoOut": [
+            "cargo.plows",
+            "cargo.volvo_rims",
+            "cargo.gen_set",
+            "cargo.mixtank",
+            "cargo.pumpjack",
+            "cargo.moving_cont",
+            "cargo.frac_tank",
+            "cargo.jet_wing",
+            "cargo.big_tyres",
+            "cargo.aircraft_eng",
+            "null",
+            "cargo.air_eng2",
+            "cargo.scaffolding"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.plows",
+            "cargo.moving_cont",
+            "cargo.volvo_rims",
+            "cargo.gen_set",
+            "cargo.mixtank",
+            "cargo.jet_wing",
+            "cargo.pumpjack",
+            "cargo.frac_tank",
+            "cargo.aircraft_eng",
+            "cargo.air_eng2",
+            "cargo.big_tyres",
+            "cargo.machine_pts"
         ]
     },
     {
@@ -622,7 +923,11 @@
         "output": [
             "san_antonio"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [
+            "null"
+        ],
+        "cargoIn": []
     },
     {
         "code": "fb_farm_mkt",
@@ -658,6 +963,27 @@
             "grangeville",
             "woodward",
             "huron"
+        ],
+        "cargoOut": [
+            "cargo.empty_palet",
+            "cargo.fertilizer",
+            "cargo.used_pack",
+            "cargo.dumpster",
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.waste_paper",
+            "null",
+            "cargo.ind_palet"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "cargo.dumpster",
+            "cargo.roof_tiles",
+            "cargo.pellet_afood",
+            "cargo.sawpanels",
+            "cargo.lumber_b",
+            "cargo.ins_panel"
         ]
     },
     {
@@ -695,6 +1021,26 @@
             "lufkin",
             "laredo",
             "junction"
+        ],
+        "cargoOut": [
+            "cargo.volvo_rims",
+            "cargo.big_tyres",
+            "cargo.wire_rod",
+            "cargo.coil",
+            "cargo.mixtank",
+            "cargo.cable",
+            "cargo.conc_barr"
+        ],
+        "cargoIn": [
+            "cargo.largetubes",
+            "cargo.volvo_rims",
+            "cargo.mixtank",
+            "cargo.big_tyres",
+            "cargo.cable",
+            "cargo.wire_rod",
+            "cargo.conc_barr",
+            "cargo.soil",
+            "cargo.guard_rails"
         ]
     },
     {
@@ -723,6 +1069,28 @@
             "hutchinson",
             "lawton",
             "oxnard"
+        ],
+        "cargoOut": [
+            "cargo.ind_palet",
+            "cargo.moving_cont",
+            "cargo.empty_palet",
+            "cargo.paper",
+            "cargo.scaffolding"
+        ],
+        "cargoIn": [
+            "cargo.waste_paper",
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "cargo.wshavings",
+            "cargo.logs",
+            "cargo.cott_lint",
+            "cargo.colors",
+            "cargo.wire_rod",
+            "cargo.gypsum",
+            "cargo.soda_ash",
+            "cargo.talc_pwdr",
+            "cargo.hipresstank",
+            "cargo.ventilation"
         ]
     },
     {
@@ -752,6 +1120,24 @@
             "beaumont",
             "del_rio",
             "sidney"
+        ],
+        "cargoOut": [
+            "cargo.battery",
+            "cargo.scaffolding",
+            "cargo.carcomp",
+            "cargo.big_tyres",
+            "cargo.glass_rack",
+            "cargo.tyres",
+            "cargo.machine_pts",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.battery",
+            "cargo.moving_cont",
+            "cargo.carcomp",
+            "cargo.glass_rack",
+            "cargo.scaffolding",
+            "cargo.big_tyres"
         ]
     },
     {
@@ -766,6 +1152,15 @@
         ],
         "input": [
             "fresno"
+        ],
+        "cargoOut": [
+            "cargo.frac_tank",
+            "cargo.scaffolding",
+            "null"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.frac_tank"
         ]
     },
     {
@@ -807,6 +1202,15 @@
             "colorado_spr",
             "durango",
             "lewistown"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "null"
+        ],
+        "cargoIn": [
+            "cargo.carcomp",
+            "cargo.moving_cont",
+            "cargo.office_suppl"
         ]
     },
     {
@@ -823,6 +1227,23 @@
             "lufkin",
             "longview_tx",
             "garden_city"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.ibc_cont",
+            "cargo.const_house",
+            "cargo.emptytank",
+            "cargo.glass_rack"
+        ],
+        "cargoIn": [
+            "cargo.wire_rod",
+            "cargo.scaffolding",
+            "cargo.const_house",
+            "cargo.colors",
+            "cargo.cement",
+            "cargo.sawpanels",
+            "cargo.moving_cont"
         ]
     },
     {
@@ -849,6 +1270,28 @@
             "mojave",
             "ontario",
             "twin_falls"
+        ],
+        "cargoOut": [
+            "cargo.sand",
+            "cargo.gypsum",
+            "cargo.scaffolding",
+            "cargo.cement",
+            "cargo.soil",
+            "cargo.stones",
+            "cargo.gravel",
+            "cargo.limestone",
+            "cargo.mortar"
+        ],
+        "cargoIn": [
+            "cargo.sand",
+            "cargo.gravel",
+            "cargo.soil",
+            "cargo.stones",
+            "cargo.limestone",
+            "cargo.moving_cont",
+            "cargo.emptytank",
+            "cargo.scaffolding",
+            "cargo.borates"
         ]
     },
     {
@@ -887,6 +1330,16 @@
             "alamogordo",
             "oxnard",
             "santa_maria"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "null"
+        ],
+        "cargoIn": [
+            "cargo.tyres",
+            "cargo.carcomp",
+            "cargo.office_suppl",
+            "cargo.moving_cont"
         ]
     },
     {
@@ -910,7 +1363,13 @@
             "aberdeen_wa",
             "newport"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [
+            "cargo.logs",
+            "cargo.wshavings",
+            "null"
+        ],
+        "cargoIn": []
     },
     {
         "code": "wld_frm_str",
@@ -930,6 +1389,26 @@
             "modesto",
             "amarillo",
             "ardmore"
+        ],
+        "cargoOut": [
+            "cargo.wshavings",
+            "cargo.gravel",
+            "cargo.fertilizer",
+            "cargo.sand",
+            "cargo.hay",
+            "cargo.trees",
+            "cargo.scaffolding",
+            "cargo.ibc_cont"
+        ],
+        "cargoIn": [
+            "cargo.hay",
+            "cargo.moving_cont",
+            "cargo.wshavings",
+            "cargo.lumber_b",
+            "cargo.hipresstank",
+            "cargo.scaffolding",
+            "cargo.lumber",
+            "cargo.ibc_cont"
         ]
     },
     {
@@ -1002,6 +1481,101 @@
             "cody",
             "santa_maria",
             "oakland"
+        ],
+        "cargoOut": [
+            "cargo.dry_fruit",
+            "cargo.frozen_fruit",
+            "cargo.vegetable",
+            "cargo.roof_tiles",
+            "cargo.guard_rails",
+            "cargo.cheese",
+            "cargo.butter",
+            "cargo.empty_palet",
+            "cargo.furniture",
+            "cargo.paper",
+            "cargo.colors",
+            "cargo.milk",
+            "cargo.frozen_food",
+            "cargo.borates",
+            "cargo.almond_box",
+            "cargo.grain",
+            "cargo.scaffolding",
+            "cargo.cans",
+            "cargo.buttermilk",
+            "cargo.meat",
+            "cargo.frozen_veget",
+            "cargo.cool_tower",
+            "cargo.rice",
+            "cargo.battery",
+            "cargo.used_pack",
+            "cargo.salt",
+            "cargo.cott_lint",
+            "cargo.food",
+            "cargo.toys",
+            "cargo.machine_pts",
+            "cargo.curtains",
+            "cargo.waste_paper",
+            "cargo.ins_panel",
+            "cargo.moving_cont",
+            "cargo.ibc_cont",
+            "cargo.icecream",
+            "cargo.sugar",
+            "cargo.office_suppl",
+            "cargo.mortar",
+            "cargo.gypsum",
+            "cargo.glass_rack",
+            "cargo.dumpster",
+            "cargo.aircon",
+            "cargo.fertilizer",
+            "cargo.soda_ash",
+            "cargo.pellet_afood",
+            "cargo.nuts",
+            "cargo.fruits"
+        ],
+        "cargoIn": [
+            "cargo.vegetable",
+            "cargo.almond_box",
+            "cargo.cheese",
+            "cargo.milk",
+            "cargo.yogurt",
+            "cargo.moving_cont",
+            "cargo.frozen_food",
+            "cargo.scaffolding",
+            "cargo.empty_palet",
+            "cargo.fertilizer",
+            "cargo.paper",
+            "cargo.gypsum",
+            "cargo.mortar",
+            "cargo.frozen_fruit",
+            "cargo.colors",
+            "cargo.aircon",
+            "cargo.cool_tower",
+            "cargo.grain",
+            "cargo.cott_lint",
+            "cargo.sugar",
+            "cargo.roof_tiles",
+            "cargo.buttermilk",
+            "cargo.dumpster",
+            "cargo.ins_panel",
+            "cargo.ibc_cont",
+            "cargo.office_suppl",
+            "cargo.furniture",
+            "cargo.food",
+            "cargo.toys",
+            "cargo.pellet_afood",
+            "cargo.clothes",
+            "cargo.glass_rack",
+            "cargo.nuts",
+            "cargo.borates",
+            "cargo.meat",
+            "cargo.home_acc",
+            "cargo.battery",
+            "cargo.sawpanels",
+            "cargo.fruits",
+            "cargo.machine_pts",
+            "cargo.dry_fruit",
+            "cargo.potatoes",
+            "cargo.butter"
         ]
     },
     {
@@ -1027,6 +1601,14 @@
         "input": [
             "albuquerque",
             "medford"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.office_suppl",
+            "cargo.tyres"
         ]
     },
     {
@@ -1053,6 +1635,33 @@
             "nogales",
             "vernal",
             "elko"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "cargo.cable",
+            "cargo.soil",
+            "cargo.stones",
+            "cargo.big_tyres",
+            "cargo.limestone",
+            "cargo.gravel",
+            "cargo.scaffolding",
+            "cargo.wire_rod",
+            "cargo.silica",
+            "cargo.const_house",
+            "cargo.gen_set"
+        ],
+        "cargoIn": [
+            "cargo.volvo_rims",
+            "cargo.mixtank",
+            "cargo.gen_set",
+            "cargo.cable",
+            "cargo.moving_cont",
+            "cargo.emptytank",
+            "cargo.largetubes",
+            "cargo.big_tyres",
+            "cargo.wire_rod",
+            "cargo.const_house",
+            "cargo.scaffolding"
         ]
     },
     {
@@ -1094,6 +1703,45 @@
             "hobbs",
             "raton",
             "san_jose"
+        ],
+        "cargoOut": [
+            "cargo.emptytank",
+            "cargo.largetubes",
+            "cargo.lumber",
+            "cargo.util_pole",
+            "cargo.ins_panel",
+            "cargo.cool_tower",
+            "cargo.hipresstank",
+            "cargo.lumber_b",
+            "cargo.ctubes_b",
+            "cargo.cement",
+            "cargo.const_house",
+            "cargo.sawpanels",
+            "cargo.ctubes",
+            "cargo.lumber_p",
+            "cargo.fert_tank",
+            "cargo.gypsum",
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.mortar",
+            "cargo.roof_tiles",
+            "cargo.aircon",
+            "null"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "cargo.const_house",
+            "cargo.util_pole",
+            "cargo.lumber",
+            "cargo.cement",
+            "cargo.largetubes",
+            "cargo.gypsum",
+            "cargo.lumber_b",
+            "cargo.roof_tiles",
+            "cargo.mortar",
+            "cargo.glass_rack",
+            "cargo.ctubes_b"
         ]
     },
     {
@@ -1173,6 +1821,29 @@
             "salem",
             "corpus_chris",
             "huntsville"
+        ],
+        "cargoOut": [
+            "cargo.waste_paper",
+            "cargo.used_pack",
+            "cargo.moving_cont",
+            "cargo.empty_palet",
+            "cargo.scaffolding",
+            "cargo.dumpster"
+        ],
+        "cargoIn": [
+            "cargo.trees",
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.dumpster",
+            "cargo.curtains",
+            "cargo.mortar",
+            "cargo.cement",
+            "cargo.lumber_p",
+            "cargo.gypsum",
+            "cargo.furniture",
+            "cargo.home_acc",
+            "cargo.lumber",
+            "cargo.lumber_b"
         ]
     },
     {
@@ -1198,6 +1869,21 @@
             "emporia",
             "longview_tx",
             "idabel"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "cargo.const_house",
+            "cargo.scaffolding",
+            "cargo.ibc_cont"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "cargo.ibc_cont",
+            "cargo.const_house",
+            "cargo.cable",
+            "cargo.util_pole",
+            "cargo.wire_rod"
         ]
     },
     {
@@ -1291,6 +1977,114 @@
             "albuquerque",
             "kingman",
             "redding"
+        ],
+        "cargoOut": [
+            "cargo.ibc_cont",
+            "cargo.yogurt",
+            "cargo.toys",
+            "cargo.fruits",
+            "cargo.ins_panel",
+            "cargo.frozen_veget",
+            "cargo.cheese",
+            "cargo.office_suppl",
+            "cargo.soda_ash",
+            "cargo.empty_palet",
+            "cargo.sawpanels",
+            "cargo.curtains",
+            "cargo.flour",
+            "cargo.sugar",
+            "cargo.used_pack",
+            "cargo.battery",
+            "cargo.milk",
+            "cargo.machine_pts",
+            "cargo.cott_lint",
+            "cargo.colors",
+            "cargo.dry_fruit",
+            "cargo.gypsum",
+            "cargo.grain",
+            "cargo.dry_milk",
+            "cargo.food",
+            "cargo.borates",
+            "cargo.almond_box",
+            "cargo.furniture",
+            "cargo.fertilizer",
+            "cargo.mortar",
+            "cargo.guard_rails",
+            "cargo.cans",
+            "cargo.clothes",
+            "cargo.buttermilk",
+            "cargo.pellet_afood",
+            "cargo.dumpster",
+            "cargo.vegetable",
+            "cargo.roof_tiles",
+            "cargo.glass_rack",
+            "cargo.waste_paper",
+            "cargo.paper",
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.frozen_food",
+            "cargo.cool_tower",
+            "cargo.frozen_fruit",
+            "cargo.meat",
+            "cargo.nuts",
+            "cargo.home_acc",
+            "cargo.butter",
+            "cargo.aircon",
+            "cargo.potatoes"
+        ],
+        "cargoIn": [
+            "cargo.food",
+            "cargo.almond_box",
+            "cargo.potatoes",
+            "cargo.flour",
+            "cargo.grain",
+            "cargo.frozen_veget",
+            "cargo.vegetable",
+            "cargo.dry_fruit",
+            "cargo.yogurt",
+            "cargo.dry_milk",
+            "cargo.meat",
+            "cargo.scaffolding",
+            "cargo.aircon",
+            "cargo.guard_rails",
+            "cargo.moving_cont",
+            "cargo.milk",
+            "cargo.empty_palet",
+            "cargo.fertilizer",
+            "cargo.paper",
+            "cargo.glass_rack",
+            "cargo.gypsum",
+            "cargo.roof_tiles",
+            "cargo.borates",
+            "cargo.cans",
+            "cargo.battery",
+            "cargo.cheese",
+            "cargo.salt",
+            "cargo.sugar",
+            "cargo.toys",
+            "cargo.mortar",
+            "cargo.cott_lint",
+            "cargo.soda_ash",
+            "cargo.machine_pts",
+            "cargo.pellet_afood",
+            "cargo.cool_tower",
+            "cargo.dumpster",
+            "cargo.fruits",
+            "cargo.colors",
+            "cargo.sawpanels",
+            "cargo.home_acc",
+            "cargo.nuts",
+            "cargo.frozen_food",
+            "cargo.ins_panel",
+            "cargo.clothes",
+            "cargo.ibc_cont",
+            "cargo.butter",
+            "cargo.office_suppl",
+            "cargo.buttermilk",
+            "cargo.frozen_fruit",
+            "cargo.furniture",
+            "cargo.icecream",
+            "cargo.rice"
         ]
     },
     {
@@ -1314,6 +2108,22 @@
             "flagstaff",
             "san_francisc",
             "los_angeles"
+        ],
+        "cargoOut": [
+            "cargo.scaffolding",
+            "cargo.volvo_rims",
+            "cargo.mixtank",
+            "cargo.moving_cont",
+            "cargo.big_tyres"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.mixtank",
+            "cargo.tyres",
+            "cargo.big_tyres",
+            "cargo.scaffolding",
+            "cargo.machine_pts",
+            "cargo.volvo_rims"
         ]
     },
     {
@@ -1338,6 +2148,20 @@
             "ely",
             "oxnard",
             "oakland"
+        ],
+        "cargoOut": [
+            "cargo.frac_tank",
+            "null"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.ventilation",
+            "cargo.largetubes",
+            "cargo.fert_tank",
+            "cargo.frac_tank",
+            "cargo.hipresstank",
+            "cargo.scaffolding",
+            "cargo.transformer"
         ]
     },
     {
@@ -1373,6 +2197,35 @@
             "odessa",
             "tyler",
             "idabel"
+        ],
+        "cargoOut": [
+            "cargo.cable",
+            "cargo.soil",
+            "cargo.stones",
+            "cargo.sand",
+            "cargo.gravel",
+            "cargo.wire_rod",
+            "cargo.moving_cont",
+            "cargo.volvo_rims",
+            "cargo.silica",
+            "cargo.limestone",
+            "cargo.big_tyres",
+            "cargo.const_house",
+            "cargo.scaffolding",
+            "cargo.gen_set"
+        ],
+        "cargoIn": [
+            "cargo.largetubes",
+            "cargo.scaffolding",
+            "cargo.mixtank",
+            "cargo.big_tyres",
+            "cargo.gen_set",
+            "cargo.cable",
+            "cargo.moving_cont",
+            "cargo.emptytank",
+            "cargo.const_house",
+            "cargo.volvo_rims",
+            "cargo.wire_rod"
         ]
     },
     {
@@ -1401,6 +2254,19 @@
             "corpus_chris",
             "odessa",
             "san_angelo"
+        ],
+        "cargoOut": [
+            "cargo.frac_tank",
+            "cargo.scaffolding",
+            "cargo.const_house"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.big_tyres",
+            "cargo.volvo_rims",
+            "cargo.frac_tank",
+            "cargo.mixtank",
+            "cargo.emptytank"
         ]
     },
     {
@@ -1413,6 +2279,18 @@
         "input": [
             "oklahoma_cit",
             "wichita"
+        ],
+        "cargoOut": [
+            "cargo.gen_set",
+            "cargo.battery",
+            "cargo.glass_rack"
+        ],
+        "cargoIn": [
+            "cargo.paper",
+            "cargo.empty_palet",
+            "cargo.moving_cont",
+            "cargo.cable",
+            "cargo.ind_palet"
         ]
     },
     {
@@ -1437,6 +2315,24 @@
             "gallup",
             "phoenix",
             "ogden"
+        ],
+        "cargoOut": [
+            "cargo.fertilizer",
+            "cargo.moving_cont",
+            "cargo.boric_acid",
+            "cargo.colors",
+            "cargo.scaffolding"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.oil_pipes",
+            "cargo.fert_tank",
+            "cargo.hipresstank",
+            "cargo.soda_ash",
+            "cargo.salt",
+            "cargo.aircon",
+            "cargo.moving_cont",
+            "cargo.transform2"
         ]
     },
     {
@@ -1471,6 +2367,38 @@
             "fort_collins",
             "guymon",
             "sterling"
+        ],
+        "cargoOut": [
+            "cargo.scaffolding",
+            "cargo.grain",
+            "cargo.soybean_b",
+            "null",
+            "cargo.waste_paper",
+            "cargo.pellet_afd_b",
+            "cargo.pellet_afood",
+            "cargo.grain_b",
+            "cargo.used_pack",
+            "cargo.corn_b",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.hay",
+            "cargo.corn_b",
+            "cargo.grain_b",
+            "cargo.potatoes",
+            "cargo.sugar_beet_b",
+            "cargo.potatoes_b",
+            "cargo.soybean_b",
+            "cargo.rawmilk",
+            "cargo.milk_t",
+            "cargo.empty_palet",
+            "cargo.ind_palet",
+            "cargo.moving_cont",
+            "cargo.grain",
+            "cargo.milk",
+            "cargo.flour",
+            "cargo.cott_seed"
         ]
     },
     {
@@ -1496,6 +2424,33 @@
             "klamath_f",
             "medford",
             "lakeview"
+        ],
+        "cargoOut": [
+            "cargo.home_acc",
+            "cargo.furniture",
+            "cargo.wshavings",
+            "cargo.waste_paper",
+            "cargo.used_pack",
+            "cargo.moving_cont",
+            "null",
+            "cargo.glass_rack",
+            "cargo.scaffolding",
+            "cargo.house_pref",
+            "cargo.office_suppl"
+        ],
+        "cargoIn": [
+            "cargo.empty_palet",
+            "cargo.scaffolding",
+            "cargo.ind_palet",
+            "cargo.moving_cont",
+            "cargo.wshavings",
+            "cargo.ins_panel",
+            "cargo.lumber_p",
+            "cargo.roof_tiles",
+            "cargo.lumber",
+            "cargo.lumber_b",
+            "cargo.aircon",
+            "cargo.boric_acid"
         ]
     },
     {
@@ -1510,7 +2465,9 @@
             "tonopah",
             "fresno"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [],
+        "cargoIn": []
     },
     {
         "code": "mon_farm",
@@ -1531,6 +2488,18 @@
             "san_diego",
             "ukiah",
             "camp_verde"
+        ],
+        "cargoOut": [
+            "cargo.dry_fruit",
+            "cargo.fruit_juic_t",
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "cargo.fruits"
+        ],
+        "cargoIn": [
+            "cargo.hay",
+            "cargo.scaffolding",
+            "cargo.moving_cont"
         ]
     },
     {
@@ -1611,6 +2580,109 @@
             "gillette",
             "junction",
             "steamboat_sp"
+        ],
+        "cargoOut": [
+            "cargo.rice",
+            "cargo.cool_tower",
+            "cargo.potatoes",
+            "cargo.empty_palet",
+            "cargo.grain",
+            "cargo.paper",
+            "cargo.moving_cont",
+            "cargo.battery",
+            "cargo.fertilizer",
+            "cargo.cheese",
+            "cargo.toys",
+            "cargo.ibc_cont",
+            "cargo.sawpanels",
+            "cargo.sugar",
+            "cargo.office_suppl",
+            "cargo.vegetable",
+            "cargo.dry_fruit",
+            "cargo.curtains",
+            "cargo.aircon",
+            "cargo.nuts",
+            "cargo.mortar",
+            "cargo.butter",
+            "cargo.dry_milk",
+            "cargo.home_acc",
+            "cargo.glass_rack",
+            "cargo.waste_paper",
+            "cargo.frozen_veget",
+            "cargo.fruits",
+            "cargo.frozen_food",
+            "cargo.dumpster",
+            "cargo.yogurt",
+            "cargo.scaffolding",
+            "cargo.milk",
+            "cargo.borates",
+            "cargo.salt",
+            "cargo.buttermilk",
+            "cargo.colors",
+            "cargo.clothes",
+            "cargo.almond_box",
+            "cargo.pellet_afood",
+            "cargo.food",
+            "cargo.soda_ash",
+            "cargo.cans",
+            "cargo.gypsum",
+            "cargo.used_pack",
+            "cargo.cott_lint",
+            "cargo.guard_rails",
+            "cargo.icecream",
+            "cargo.frozen_fruit",
+            "cargo.meat",
+            "cargo.ins_panel",
+            "cargo.furniture",
+            "cargo.machine_pts"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.grain",
+            "cargo.frozen_veget",
+            "cargo.milk",
+            "cargo.meat",
+            "cargo.food",
+            "cargo.buttermilk",
+            "cargo.butter",
+            "cargo.dry_milk",
+            "cargo.battery",
+            "cargo.yogurt",
+            "cargo.cheese",
+            "cargo.frozen_food",
+            "cargo.empty_palet",
+            "cargo.dumpster",
+            "cargo.fertilizer",
+            "cargo.paper",
+            "cargo.machine_pts",
+            "cargo.glass_rack",
+            "cargo.ibc_cont",
+            "cargo.guard_rails",
+            "cargo.nuts",
+            "cargo.sugar",
+            "cargo.pellet_afood",
+            "cargo.mortar",
+            "cargo.cool_tower",
+            "cargo.dry_fruit",
+            "cargo.gypsum",
+            "cargo.cott_lint",
+            "cargo.toys",
+            "cargo.aircon",
+            "cargo.colors",
+            "cargo.furniture",
+            "cargo.fruits",
+            "cargo.sawpanels",
+            "cargo.potatoes",
+            "cargo.borates",
+            "cargo.soda_ash",
+            "cargo.salt",
+            "cargo.roof_tiles",
+            "cargo.curtains",
+            "cargo.vegetable",
+            "cargo.cans",
+            "cargo.home_acc",
+            "cargo.icecream"
         ]
     },
     {
@@ -1675,6 +2747,40 @@
             "cheyenne",
             "alamogordo",
             "san_diego"
+        ],
+        "cargoOut": [
+            "cargo.empty_palet",
+            "cargo.waste_paper",
+            "cargo.moving_cont",
+            "cargo.used_pack"
+        ],
+        "cargoIn": [
+            "cargo.nuts",
+            "cargo.dry_fruit",
+            "cargo.fruits",
+            "cargo.potatoes",
+            "cargo.moving_cont",
+            "cargo.cheese",
+            "cargo.meat",
+            "cargo.dry_milk",
+            "cargo.yogurt",
+            "cargo.milk",
+            "cargo.buttermilk",
+            "cargo.rice",
+            "cargo.toys",
+            "cargo.vegetable",
+            "cargo.salt",
+            "cargo.sugar",
+            "cargo.paper",
+            "cargo.flour",
+            "cargo.food",
+            "cargo.almond_box",
+            "cargo.butter",
+            "cargo.office_suppl",
+            "cargo.pellet_afood",
+            "cargo.home_acc",
+            "cargo.frozen_veget",
+            "cargo.frozen_fruit"
         ]
     },
     {
@@ -1701,6 +2807,12 @@
             "hobbs",
             "missoula",
             "los_angeles"
+        ],
+        "cargoOut": [
+            "null"
+        ],
+        "cargoIn": [
+            "cargo.tyres"
         ]
     },
     {
@@ -1722,6 +2834,27 @@
             "carlsbad_nm",
             "los_angeles",
             "carson_city"
+        ],
+        "cargoOut": [
+            "cargo.emptytank",
+            "cargo.scaffolding",
+            "cargo.const_house",
+            "cargo.ibc_cont",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.largetubes",
+            "cargo.gravel",
+            "cargo.soil",
+            "cargo.cement",
+            "cargo.const_house",
+            "cargo.colors",
+            "cargo.ins_panel",
+            "cargo.scaffolding",
+            "cargo.util_pole",
+            "cargo.sawpanels",
+            "cargo.ctubes",
+            "cargo.moving_cont"
         ]
     },
     {
@@ -1768,6 +2901,21 @@
             "burns",
             "moab",
             "provo"
+        ],
+        "cargoOut": [
+            "cargo.limestone",
+            "cargo.silica",
+            "cargo.mortar",
+            "cargo.gypsum",
+            "cargo.cement"
+        ],
+        "cargoIn": [
+            "cargo.soil",
+            "cargo.sand",
+            "cargo.limestone",
+            "cargo.coil",
+            "cargo.transformer",
+            "cargo.transform2"
         ]
     },
     {
@@ -1794,6 +2942,28 @@
             "lubbock",
             "fort_worth",
             "mcalester"
+        ],
+        "cargoOut": [
+            "cargo.corn_b",
+            "cargo.soybean_b",
+            "cargo.plows",
+            "cargo.scaffolding",
+            "cargo.grain_b",
+            "cargo.empty_palet",
+            "cargo.moving_cont",
+            "cargo.grain",
+            "cargo.ind_palet"
+        ],
+        "cargoIn": [
+            "cargo.soybean_b",
+            "cargo.grain_b",
+            "cargo.corn_b",
+            "cargo.plows",
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "cargo.grain",
+            "cargo.pellet_afd_b",
+            "cargo.wshavings"
         ]
     },
     {
@@ -1843,6 +3013,34 @@
             "grand_coulee",
             "pocatello",
             "helena"
+        ],
+        "cargoOut": [
+            "cargo.ibc_cont",
+            "cargo.glass_rack",
+            "cargo.emptytank",
+            "cargo.moving_cont",
+            "cargo.const_house",
+            "cargo.scaffolding"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.cement",
+            "cargo.soil",
+            "cargo.stones",
+            "cargo.ibc_cont",
+            "cargo.lumber_b",
+            "cargo.const_house",
+            "cargo.ins_panel",
+            "cargo.sawpanels",
+            "cargo.colors",
+            "cargo.house_pref",
+            "cargo.util_pole",
+            "cargo.roof_tiles",
+            "cargo.cable",
+            "cargo.lumber",
+            "cargo.gravel",
+            "cargo.wire_rod"
         ]
     },
     {
@@ -1853,6 +3051,16 @@
         ],
         "input": [
             "seattle"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "cargo.grain",
+            "cargo.toys"
+        ],
+        "cargoIn": [
+            "cargo.milk_t",
+            "cargo.carcomp",
+            "cargo.ctubes_b"
         ]
     },
     {
@@ -1864,7 +3072,9 @@
             "woodward",
             "stockton"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [],
+        "cargoIn": []
     },
     {
         "code": "apa_car_whs",
@@ -1910,6 +3120,25 @@
             "las_vegas",
             "yuma",
             "nogales"
+        ],
+        "cargoOut": [
+            "cargo.carcomp",
+            "cargo.machine_pts",
+            "cargo.tyres",
+            "cargo.battery",
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.glass_rack"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "cargo.battery",
+            "cargo.office_suppl",
+            "cargo.machine_pts",
+            "cargo.carcomp",
+            "cargo.tyres",
+            "cargo.glass_rack"
         ]
     },
     {
@@ -1959,6 +3188,41 @@
             "yakima",
             "lufkin",
             "albuquerque"
+        ],
+        "cargoOut": [
+            "cargo.dry_fruit",
+            "cargo.almond_box",
+            "cargo.moving_cont",
+            "cargo.nuts",
+            "cargo.food",
+            "cargo.scaffolding",
+            "cargo.frozen_food"
+        ],
+        "cargoIn": [
+            "cargo.grain_b",
+            "cargo.potatoes_b",
+            "cargo.fruit_juic_t",
+            "cargo.dry_fruit",
+            "cargo.corn_b",
+            "cargo.flour",
+            "cargo.soybean_b",
+            "cargo.grain",
+            "cargo.moving_cont",
+            "cargo.sugar_beet_b",
+            "cargo.milk_t",
+            "cargo.yogurt",
+            "cargo.butter",
+            "cargo.rawmilk",
+            "cargo.aircon",
+            "cargo.almond_box",
+            "cargo.salt",
+            "cargo.talc_pwdr",
+            "cargo.nuts",
+            "cargo.scaffolding",
+            "cargo.soda_ash",
+            "cargo.sugar",
+            "cargo.frozen_fruit",
+            "cargo.rice"
         ]
     },
     {
@@ -1975,6 +3239,22 @@
             "dodge_city",
             "idabel",
             "enid"
+        ],
+        "cargoOut": [
+            "cargo.fertilizer",
+            "cargo.borates",
+            "cargo.boric_acid",
+            "cargo.soda_ash",
+            "cargo.colors",
+            "cargo.moving_cont",
+            "cargo.ibc_cont"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.colors",
+            "cargo.moving_cont",
+            "cargo.boric_acid",
+            "cargo.soda_ash"
         ]
     },
     {
@@ -1988,6 +3268,20 @@
         "input": [
             "hutchinson",
             "pueblo"
+        ],
+        "cargoOut": [
+            "cargo.scaffolding",
+            "cargo.glass_rack",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.alu_ingot",
+            "cargo.ventilation",
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.transformer",
+            "cargo.coil",
+            "cargo.train_part"
         ]
     },
     {
@@ -2008,6 +3302,23 @@
             "corpus_chris",
             "san_antonio",
             "victoria"
+        ],
+        "cargoOut": [
+            "cargo.cott_seed",
+            "cargo.used_pack",
+            "cargo.moving_cont",
+            "null",
+            "cargo.plows",
+            "cargo.scaffolding",
+            "cargo.cott_lint"
+        ],
+        "cargoIn": [
+            "cargo.emptytank",
+            "cargo.scaffolding",
+            "cargo.plows",
+            "cargo.cott_lint",
+            "cargo.moving_cont",
+            "cargo.machine_pts"
         ]
     },
     {
@@ -2020,6 +3331,15 @@
         ],
         "input": [
             "everett"
+        ],
+        "cargoOut": [
+            "cargo.used_pack",
+            "cargo.glass_rack",
+            "cargo.scrap_metals",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont"
         ]
     },
     {
@@ -2061,6 +3381,34 @@
             "thompson_f",
             "truckee",
             "montrose"
+        ],
+        "cargoOut": [
+            "cargo.wshavings",
+            "cargo.sawpanels",
+            "cargo.scaffolding",
+            "null",
+            "cargo.util_pole",
+            "cargo.moving_cont",
+            "cargo.lumber",
+            "cargo.ind_palet",
+            "cargo.lumber_b",
+            "cargo.empty_palet",
+            "cargo.lumber_p",
+            "cargo.roof_tiles",
+            "cargo.ins_panel"
+        ],
+        "cargoIn": [
+            "cargo.hipresstank",
+            "cargo.ventilation",
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "cargo.logs",
+            "cargo.cool_tower",
+            "cargo.emptytank",
+            "cargo.fert_tank",
+            "cargo.borates",
+            "cargo.aircon",
+            "cargo.machine_pts"
         ]
     },
     {
@@ -2081,6 +3429,21 @@
             "victoria",
             "mcalester",
             "enid"
+        ],
+        "cargoOut": [
+            "cargo.mixtank",
+            "cargo.volvo_rims",
+            "cargo.big_tyres",
+            "cargo.frac_tank"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "cargo.frac_tank",
+            "cargo.boric_acid",
+            "cargo.volvo_rims",
+            "cargo.machine_pts",
+            "cargo.tyres"
         ]
     },
     {
@@ -2099,6 +3462,24 @@
             "albuquerque",
             "los_angeles",
             "fort_worth"
+        ],
+        "cargoOut": [
+            "cargo.air_eng2",
+            "cargo.vegetable",
+            "cargo.paper",
+            "cargo.aircon",
+            "cargo.sugar",
+            "cargo.potatoes",
+            "cargo.dry_milk",
+            "cargo.transformer",
+            "cargo.aircraft_eng",
+            "cargo.carcomp"
+        ],
+        "cargoIn": [
+            "cargo.machine_pts",
+            "cargo.food",
+            "cargo.potatoes",
+            "cargo.transform2"
         ]
     },
     {
@@ -2139,6 +3520,25 @@
             "riverton",
             "burlington",
             "raton"
+        ],
+        "cargoOut": [
+            "cargo.gypsum",
+            "cargo.mortar",
+            "cargo.limestone",
+            "cargo.cement",
+            "cargo.silica",
+            "null"
+        ],
+        "cargoIn": [
+            "cargo.coil",
+            "cargo.sand",
+            "cargo.limestone",
+            "cargo.soil",
+            "cargo.gravel",
+            "cargo.stones",
+            "cargo.transformer",
+            "cargo.emptytank",
+            "cargo.transform2"
         ]
     },
     {
@@ -2154,6 +3554,22 @@
             "raton",
             "albuquerque",
             "austin"
+        ],
+        "cargoOut": [
+            "cargo.silica",
+            "cargo.cement",
+            "cargo.scaffolding",
+            "cargo.soil",
+            "cargo.sand",
+            "cargo.mortar",
+            "cargo.stones",
+            "cargo.gypsum",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.limestone",
+            "cargo.moving_cont"
         ]
     },
     {
@@ -2190,6 +3606,89 @@
             "dodge_city",
             "enid",
             "beaumont"
+        ],
+        "cargoOut": [
+            "cargo.nuts",
+            "cargo.waste_paper",
+            "cargo.meat",
+            "cargo.moving_cont",
+            "cargo.colors",
+            "cargo.borates",
+            "cargo.aircon",
+            "cargo.frozen_food",
+            "cargo.empty_palet",
+            "cargo.cott_lint",
+            "cargo.clothes",
+            "cargo.dry_milk",
+            "cargo.pellet_afood",
+            "cargo.rice",
+            "cargo.cheese",
+            "cargo.mortar",
+            "cargo.potatoes",
+            "cargo.yogurt",
+            "cargo.dumpster",
+            "cargo.machine_pts",
+            "cargo.toys",
+            "cargo.cans",
+            "cargo.frozen_veget",
+            "cargo.almond_box",
+            "cargo.frozen_fruit",
+            "cargo.grain",
+            "cargo.battery",
+            "cargo.soda_ash",
+            "cargo.roof_tiles",
+            "cargo.sugar",
+            "cargo.buttermilk",
+            "cargo.furniture",
+            "cargo.guard_rails",
+            "cargo.dry_fruit",
+            "cargo.used_pack",
+            "cargo.sawpanels",
+            "cargo.paper",
+            "cargo.glass_rack",
+            "cargo.office_suppl",
+            "cargo.ibc_cont",
+            "cargo.curtains",
+            "cargo.food",
+            "cargo.icecream"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.buttermilk",
+            "cargo.yogurt",
+            "cargo.empty_palet",
+            "cargo.dumpster",
+            "cargo.battery",
+            "cargo.cott_lint",
+            "cargo.mortar",
+            "cargo.cans",
+            "cargo.glass_rack",
+            "cargo.office_suppl",
+            "cargo.dry_fruit",
+            "cargo.cool_tower",
+            "cargo.grain",
+            "cargo.salt",
+            "cargo.colors",
+            "cargo.food",
+            "cargo.almond_box",
+            "cargo.fertilizer",
+            "cargo.moving_cont",
+            "cargo.potatoes",
+            "cargo.nuts",
+            "cargo.aircon",
+            "cargo.frozen_veget",
+            "cargo.meat",
+            "cargo.frozen_fruit",
+            "cargo.furniture",
+            "cargo.soda_ash",
+            "cargo.roof_tiles",
+            "cargo.gypsum",
+            "cargo.fruits",
+            "cargo.ibc_cont",
+            "cargo.toys",
+            "cargo.home_acc",
+            "cargo.pellet_afood",
+            "cargo.guard_rails"
         ]
     },
     {
@@ -2285,6 +3784,46 @@
             "primm",
             "corpus_chris",
             "evanston"
+        ],
+        "cargoOut": [
+            "cargo.empty_palet",
+            "cargo.waste_paper",
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "cargo.used_pack"
+        ],
+        "cargoIn": [
+            "cargo.dry_fruit",
+            "cargo.food",
+            "cargo.frozen_veget",
+            "cargo.flour",
+            "cargo.potatoes",
+            "cargo.yogurt",
+            "cargo.buttermilk",
+            "cargo.frozen_food",
+            "cargo.milk",
+            "cargo.moving_cont",
+            "cargo.icecream",
+            "cargo.frozen_fruit",
+            "cargo.scaffolding",
+            "cargo.colors",
+            "cargo.fruits",
+            "cargo.dry_milk",
+            "cargo.clothes",
+            "cargo.pellet_afood",
+            "cargo.toys",
+            "cargo.vegetable",
+            "cargo.sugar",
+            "cargo.office_suppl",
+            "cargo.nuts",
+            "cargo.almond_box",
+            "cargo.meat",
+            "cargo.butter",
+            "cargo.cans",
+            "cargo.salt",
+            "cargo.paper",
+            "cargo.furniture",
+            "cargo.cheese"
         ]
     },
     {
@@ -2330,6 +3869,36 @@
             "kayenta",
             "butte",
             "rangely"
+        ],
+        "cargoOut": [
+            "cargo.used_pack",
+            "cargo.empty_palet",
+            "cargo.moving_cont",
+            "cargo.waste_paper"
+        ],
+        "cargoIn": [
+            "cargo.flour",
+            "cargo.almond_box",
+            "cargo.nuts",
+            "cargo.potatoes",
+            "cargo.frozen_veget",
+            "cargo.yogurt",
+            "cargo.cheese",
+            "cargo.meat",
+            "cargo.butter",
+            "cargo.frozen_food",
+            "cargo.moving_cont",
+            "cargo.salt",
+            "cargo.dry_fruit",
+            "cargo.toys",
+            "cargo.sugar",
+            "cargo.vegetable",
+            "cargo.dry_milk",
+            "cargo.fruits",
+            "cargo.food",
+            "cargo.paper",
+            "cargo.frozen_fruit",
+            "cargo.home_acc"
         ]
     },
     {
@@ -2386,6 +3955,95 @@
             "newport",
             "carson_city",
             "albuquerque"
+        ],
+        "cargoOut": [
+            "cargo.cott_lint",
+            "cargo.clothes",
+            "cargo.paper",
+            "cargo.butter",
+            "cargo.flour",
+            "cargo.gypsum",
+            "cargo.borates",
+            "cargo.milk",
+            "cargo.moving_cont",
+            "cargo.cool_tower",
+            "cargo.almond_box",
+            "cargo.frozen_fruit",
+            "cargo.machine_pts",
+            "cargo.potatoes",
+            "cargo.guard_rails",
+            "cargo.sawpanels",
+            "cargo.icecream",
+            "cargo.meat",
+            "cargo.buttermilk",
+            "cargo.frozen_veget",
+            "cargo.sugar",
+            "cargo.ins_panel",
+            "cargo.fruits",
+            "cargo.dumpster",
+            "cargo.soda_ash",
+            "cargo.cheese",
+            "cargo.colors",
+            "cargo.ibc_cont",
+            "cargo.mortar",
+            "cargo.fertilizer",
+            "cargo.empty_palet",
+            "cargo.toys",
+            "cargo.cans",
+            "cargo.food",
+            "cargo.salt",
+            "cargo.office_suppl",
+            "cargo.grain",
+            "cargo.furniture",
+            "cargo.pellet_afood",
+            "cargo.used_pack",
+            "cargo.vegetable",
+            "cargo.scaffolding",
+            "cargo.frozen_food"
+        ],
+        "cargoIn": [
+            "cargo.grain",
+            "cargo.dry_fruit",
+            "cargo.nuts",
+            "cargo.potatoes",
+            "cargo.moving_cont",
+            "cargo.frozen_veget",
+            "cargo.milk",
+            "cargo.dry_milk",
+            "cargo.frozen_food",
+            "cargo.aircon",
+            "cargo.battery",
+            "cargo.empty_palet",
+            "cargo.scaffolding",
+            "cargo.paper",
+            "cargo.glass_rack",
+            "cargo.gypsum",
+            "cargo.roof_tiles",
+            "cargo.sugar",
+            "cargo.buttermilk",
+            "cargo.soda_ash",
+            "cargo.pellet_afood",
+            "cargo.cheese",
+            "cargo.rice",
+            "cargo.mortar",
+            "cargo.ibc_cont",
+            "cargo.curtains",
+            "cargo.colors",
+            "cargo.sawpanels",
+            "cargo.fruits",
+            "cargo.clothes",
+            "cargo.cans",
+            "cargo.toys",
+            "cargo.machine_pts",
+            "cargo.borates",
+            "cargo.butter",
+            "cargo.icecream",
+            "cargo.ins_panel",
+            "cargo.almond_box",
+            "cargo.guard_rails",
+            "cargo.fertilizer",
+            "cargo.salt",
+            "cargo.flour"
         ]
     },
     {
@@ -2404,6 +4062,21 @@
             "oklahoma_cit",
             "ardmore",
             "lawton"
+        ],
+        "cargoOut": [
+            "cargo.furniture",
+            "cargo.home_acc",
+            "cargo.waste_paper",
+            "cargo.moving_cont",
+            "cargo.empty_palet",
+            "cargo.used_pack",
+            "cargo.scaffolding"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.empty_palet",
+            "cargo.moving_cont",
+            "cargo.home_acc"
         ]
     },
     {
@@ -2422,6 +4095,24 @@
             "los_angeles",
             "pittsburg",
             "great_falls"
+        ],
+        "cargoOut": [
+            "cargo.paper",
+            "cargo.scaffolding",
+            "cargo.cans",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.waste_paper",
+            "cargo.used_pack",
+            "cargo.battery",
+            "cargo.roof_tiles",
+            "cargo.boric_acid",
+            "cargo.moving_cont",
+            "cargo.ins_panel",
+            "cargo.paper",
+            "cargo.scaffolding",
+            "cargo.alu_ingot"
         ]
     },
     {
@@ -2438,6 +4129,21 @@
             "laurel",
             "bakersfield",
             "cheyenne"
+        ],
+        "cargoOut": [
+            "cargo.wire_rod",
+            "cargo.train_part",
+            "cargo.rails",
+            "cargo.cable",
+            "cargo.gravel",
+            "cargo.const_house",
+            "cargo.coil"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.cable",
+            "cargo.const_house"
         ]
     },
     {
@@ -2448,6 +4154,14 @@
         ],
         "input": [
             "casper"
+        ],
+        "cargoOut": [
+            "cargo.glass_rack",
+            "cargo.used_pack",
+            "cargo.waste_paper"
+        ],
+        "cargoIn": [
+            "cargo.volvo_rims"
         ]
     },
     {
@@ -2458,6 +4172,16 @@
         ],
         "input": [
             "bakersfield"
+        ],
+        "cargoOut": [
+            "cargo.scaffolding",
+            "cargo.const_house",
+            "cargo.frac_tank"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.frac_tank",
+            "cargo.emptytank"
         ]
     },
     {
@@ -2468,6 +4192,16 @@
         ],
         "input": [
             "hutchinson"
+        ],
+        "cargoOut": [
+            "cargo.big_tyres",
+            "cargo.soil",
+            "cargo.salt"
+        ],
+        "cargoIn": [
+            "cargo.largetubes",
+            "cargo.scaffolding",
+            "cargo.wire_rod"
         ]
     },
     {
@@ -2496,6 +4230,66 @@
             "clinton",
             "mcallen",
             "brownsville"
+        ],
+        "cargoOut": [
+            "cargo.frozen_fruit",
+            "cargo.roof_tiles",
+            "cargo.meat",
+            "cargo.sugar",
+            "cargo.gypsum",
+            "cargo.nuts",
+            "cargo.pellet_afood",
+            "cargo.furniture",
+            "cargo.aircon",
+            "cargo.cott_lint",
+            "cargo.sawpanels",
+            "cargo.buttermilk",
+            "cargo.moving_cont",
+            "cargo.cheese",
+            "cargo.machine_pts",
+            "cargo.clothes",
+            "cargo.frozen_food",
+            "cargo.soda_ash",
+            "cargo.fertilizer",
+            "cargo.dry_fruit",
+            "cargo.waste_paper",
+            "cargo.curtains",
+            "cargo.icecream",
+            "cargo.yogurt",
+            "cargo.cans"
+        ],
+        "cargoIn": [
+            "cargo.flour",
+            "cargo.fruits",
+            "cargo.grain",
+            "cargo.dry_milk",
+            "cargo.guard_rails",
+            "cargo.buttermilk",
+            "cargo.scaffolding",
+            "cargo.dumpster",
+            "cargo.glass_rack",
+            "cargo.almond_box",
+            "cargo.gypsum",
+            "cargo.home_acc",
+            "cargo.furniture",
+            "cargo.empty_palet",
+            "cargo.yogurt",
+            "cargo.rice",
+            "cargo.curtains",
+            "cargo.toys",
+            "cargo.frozen_fruit",
+            "cargo.dry_fruit",
+            "cargo.ibc_cont",
+            "cargo.cott_lint",
+            "cargo.colors",
+            "cargo.aircon",
+            "cargo.pellet_afood",
+            "cargo.icecream",
+            "cargo.moving_cont",
+            "cargo.food",
+            "cargo.mortar",
+            "cargo.machine_pts",
+            "cargo.battery"
         ]
     },
     {
@@ -2506,6 +4300,24 @@
         ],
         "input": [
             "el_paso"
+        ],
+        "cargoOut": [
+            "cargo.sugar",
+            "cargo.emptytank",
+            "cargo.office_suppl",
+            "cargo.aircon",
+            "cargo.ctubes"
+        ],
+        "cargoIn": [
+            "cargo.grain",
+            "cargo.frozen_veget",
+            "cargo.emptytank",
+            "cargo.sugar",
+            "cargo.toys",
+            "cargo.frozen_food",
+            "cargo.frozen_fruit",
+            "cargo.aircraft_eng",
+            "cargo.oil_pipes"
         ]
     },
     {
@@ -2529,6 +4341,14 @@
             "wichita",
             "hays",
             "galveston"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "null"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.tyres"
         ]
     },
     {
@@ -2589,6 +4409,150 @@
             "butte",
             "gallup",
             "socorro"
+        ],
+        "cargoOut": [
+            "cargo.soda_ash",
+            "cargo.fertilizer",
+            "cargo.ibc_cont",
+            "cargo.office_suppl",
+            "cargo.buttermilk",
+            "cargo.util_pole",
+            "cargo.rawmilk",
+            "cargo.lumber_p",
+            "cargo.cans",
+            "cargo.fert_tank",
+            "cargo.ctubes_b",
+            "cargo.lumber_b",
+            "cargo.waste_paper",
+            "cargo.ctubes",
+            "cargo.food",
+            "cargo.windml_tube",
+            "cargo.flour",
+            "cargo.ventilation",
+            "cargo.frozen_food",
+            "cargo.milk",
+            "cargo.carcomp",
+            "cargo.grain",
+            "cargo.butter",
+            "cargo.grain_b",
+            "cargo.transformer",
+            "cargo.hipresstank",
+            "cargo.cott_lint",
+            "cargo.frozen_fruit",
+            "cargo.glass_rack",
+            "cargo.corn_b",
+            "cargo.furniture",
+            "cargo.transform2",
+            "cargo.moving_cont",
+            "cargo.cable",
+            "cargo.battery",
+            "cargo.cool_tower",
+            "cargo.largetubes",
+            "cargo.cheese",
+            "cargo.aircon",
+            "null",
+            "cargo.train_part",
+            "cargo.home_acc",
+            "cargo.ins_panel",
+            "cargo.scaffolding",
+            "cargo.machine_pts",
+            "cargo.roof_tiles",
+            "cargo.wshavings",
+            "cargo.talc_pwdr",
+            "cargo.salt",
+            "cargo.almond_box",
+            "cargo.dumpster",
+            "cargo.rails",
+            "cargo.cott_seed",
+            "cargo.emptytank",
+            "cargo.nuts",
+            "cargo.potatoes_b",
+            "cargo.wire_rod",
+            "cargo.aircraft_eng",
+            "cargo.oil_pipes",
+            "cargo.lumber",
+            "cargo.pumpjack",
+            "cargo.potatoes",
+            "cargo.sugar_beet_b"
+        ],
+        "cargoIn": [
+            "cargo.fruit_juic_t",
+            "cargo.grain",
+            "cargo.soybean_b",
+            "cargo.corn_b",
+            "cargo.flour",
+            "cargo.potatoes_b",
+            "cargo.grain_b",
+            "cargo.sugar_beet_b",
+            "cargo.nuts",
+            "cargo.moving_cont",
+            "cargo.vegetable",
+            "cargo.trees",
+            "cargo.milk_t",
+            "cargo.rawmilk",
+            "cargo.meat",
+            "cargo.milk",
+            "cargo.scrap_metals",
+            "cargo.train_part",
+            "cargo.oil_pipes",
+            "cargo.largetubes",
+            "cargo.alu_ingot",
+            "cargo.battery",
+            "cargo.used_pack",
+            "cargo.waste_paper",
+            "cargo.pumpjack",
+            "cargo.frac_tank",
+            "cargo.jet_wing",
+            "cargo.aircraft_eng",
+            "cargo.fertilizer",
+            "cargo.dumpster",
+            "cargo.cable",
+            "cargo.frozen_fruit",
+            "cargo.rice",
+            "cargo.almond_box",
+            "cargo.fruits",
+            "cargo.silica",
+            "cargo.lumber_b",
+            "cargo.ctubes_b",
+            "cargo.ctubes",
+            "cargo.util_pole",
+            "cargo.lumber",
+            "cargo.scaffolding",
+            "cargo.frozen_veget",
+            "cargo.soda_ash",
+            "cargo.buttermilk",
+            "cargo.ibc_cont",
+            "cargo.guard_rails",
+            "cargo.borates",
+            "cargo.gravel",
+            "cargo.stones",
+            "cargo.soil",
+            "cargo.const_house",
+            "cargo.colors",
+            "cargo.pellet_afd_b",
+            "cargo.pellet_afood",
+            "cargo.house_pref",
+            "cargo.dry_fruit",
+            "cargo.glass_rack",
+            "cargo.machine_pts",
+            "cargo.cott_seed",
+            "cargo.cott_lint",
+            "cargo.potatoes",
+            "cargo.cans",
+            "cargo.rails",
+            "cargo.windml_tube",
+            "cargo.transform2",
+            "cargo.salt",
+            "cargo.lumber_p",
+            "cargo.talc_pwdr",
+            "cargo.pipes",
+            "cargo.conc_barr",
+            "cargo.sand",
+            "cargo.wire_rod",
+            "cargo.coil",
+            "cargo.transformer",
+            "cargo.sq_tub",
+            "cargo.clothes"
         ]
     },
     {
@@ -2609,6 +4573,21 @@
             "missoula",
             "modesto",
             "cody"
+        ],
+        "cargoOut": [
+            "cargo.scrap_metals",
+            "cargo.dumpster",
+            "cargo.waste_paper",
+            "cargo.used_pack",
+            "cargo.scaffolding",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.alu_profile",
+            "cargo.scrap_metals",
+            "cargo.carcomp",
+            "cargo.moving_cont",
+            "cargo.scaffolding"
         ]
     },
     {
@@ -2649,6 +4628,32 @@
             "oakland",
             "yuma",
             "spokane"
+        ],
+        "cargoOut": [
+            "cargo.ibc_cont",
+            "cargo.scaffolding",
+            "cargo.emptytank",
+            "cargo.moving_cont",
+            "cargo.const_house"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "cargo.largetubes",
+            "cargo.aircon",
+            "cargo.soil",
+            "cargo.util_pole",
+            "cargo.sawpanels",
+            "cargo.ctubes",
+            "cargo.cool_tower",
+            "cargo.ibc_cont",
+            "cargo.const_house",
+            "cargo.lumber_p",
+            "cargo.roof_tiles",
+            "cargo.ins_panel",
+            "cargo.lumber_b",
+            "cargo.colors",
+            "cargo.gravel"
         ]
     },
     {
@@ -2663,6 +4668,20 @@
             "los_angeles",
             "brownsville",
             "bellingham"
+        ],
+        "cargoOut": [
+            "cargo.frozen_food",
+            "cargo.meat",
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.food"
+        ],
+        "cargoIn": [
+            "cargo.fruits",
+            "cargo.moving_cont",
+            "cargo.ind_palet",
+            "cargo.empty_palet",
+            "cargo.frozen_food"
         ]
     },
     {
@@ -2684,6 +4703,14 @@
             "salina_ks",
             "corpus_chris",
             "helena"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.tyres",
+            "cargo.moving_cont",
+            "cargo.office_suppl"
         ]
     },
     {
@@ -2710,6 +4737,25 @@
             "bend",
             "redding",
             "medford"
+        ],
+        "cargoOut": [
+            "cargo.lumber_p",
+            "cargo.roof_tiles",
+            "cargo.wshavings",
+            "cargo.lumber",
+            "cargo.lumber_b",
+            "null",
+            "cargo.moving_cont",
+            "cargo.ins_panel",
+            "cargo.scaffolding",
+            "cargo.util_pole"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.logs",
+            "cargo.empty_palet",
+            "cargo.ind_palet",
+            "cargo.scaffolding"
         ]
     },
     {
@@ -2725,6 +4771,20 @@
             "ardmore",
             "salina_ks",
             "corpus_chris"
+        ],
+        "cargoOut": [
+            "cargo.frac_tank",
+            "cargo.scaffolding",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.largetubes",
+            "cargo.pipes",
+            "cargo.frac_tank",
+            "cargo.transformer",
+            "cargo.scaffolding",
+            "cargo.transform2",
+            "cargo.ventilation"
         ]
     },
     {
@@ -2741,6 +4801,28 @@
             "salina_ks",
             "hays",
             "topeka"
+        ],
+        "cargoOut": [
+            "cargo.icecream",
+            "cargo.dry_fruit",
+            "cargo.nuts",
+            "cargo.moving_cont",
+            "cargo.almond_box",
+            "cargo.frozen_food",
+            "cargo.fruits",
+            "cargo.scaffolding",
+            "cargo.food"
+        ],
+        "cargoIn": [
+            "cargo.grain",
+            "cargo.sugar_beet_b",
+            "cargo.rawmilk",
+            "cargo.milk_t",
+            "cargo.moving_cont",
+            "cargo.grain_b",
+            "cargo.almond_box",
+            "cargo.soybean_b",
+            "cargo.corn_b"
         ]
     },
     {
@@ -2758,6 +4840,18 @@
             "amarillo",
             "laredo",
             "junction"
+        ],
+        "cargoOut": [
+            "cargo.scaffolding",
+            "cargo.ibc_cont",
+            "cargo.frac_tank",
+            "cargo.const_house"
+        ],
+        "cargoIn": [
+            "cargo.mixtank",
+            "cargo.volvo_rims",
+            "cargo.frac_tank",
+            "cargo.util_pole"
         ]
     },
     {
@@ -2774,6 +4868,23 @@
             "indio",
             "modesto",
             "stockton"
+        ],
+        "cargoOut": [
+            "cargo.waste_paper",
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "cargo.used_pack"
+        ],
+        "cargoIn": [
+            "cargo.ind_palet",
+            "cargo.empty_palet",
+            "cargo.moving_cont",
+            "cargo.cool_tower",
+            "cargo.fruit_juic_t",
+            "cargo.fruits",
+            "cargo.salt",
+            "cargo.ventilation",
+            "cargo.yogurt"
         ]
     },
     {
@@ -2788,6 +4899,37 @@
             "san_diego",
             "laredo",
             "del_rio"
+        ],
+        "cargoOut": [
+            "cargo.food",
+            "cargo.fert_tank",
+            "cargo.transform2",
+            "cargo.hipresstank",
+            "cargo.pellet_afd_b",
+            "cargo.scaffolding",
+            "cargo.grain_b",
+            "cargo.transformer",
+            "cargo.ventilation",
+            "cargo.clothes",
+            "cargo.borates"
+        ],
+        "cargoIn": [
+            "cargo.fruit_juic_t",
+            "cargo.grain_b",
+            "cargo.dry_fruit",
+            "cargo.frozen_fruit",
+            "cargo.rawmilk",
+            "cargo.wire_rod",
+            "cargo.frac_tank",
+            "cargo.soybean_b",
+            "cargo.scaffolding",
+            "cargo.office_suppl",
+            "cargo.meat",
+            "cargo.transformer",
+            "cargo.transform2",
+            "cargo.const_house",
+            "cargo.cable",
+            "cargo.milk_t"
         ]
     },
     {
@@ -2812,6 +4954,23 @@
             "abilene",
             "rock_springs",
             "redding"
+        ],
+        "cargoOut": [
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "null",
+            "cargo.used_pack",
+            "cargo.waste_paper"
+        ],
+        "cargoIn": [
+            "cargo.fruit_juic_t",
+            "cargo.moving_cont",
+            "cargo.yogurt",
+            "cargo.scaffolding",
+            "cargo.rawmilk",
+            "cargo.empty_palet",
+            "cargo.paper",
+            "cargo.ind_palet"
         ]
     },
     {
@@ -2833,6 +4992,27 @@
             "coos_bay",
             "clinton",
             "san_antonio"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.house_pref",
+            "cargo.glass_rack",
+            "cargo.waste_paper",
+            "cargo.empty_palet"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.curtains",
+            "cargo.gypsum",
+            "cargo.sawpanels",
+            "cargo.scaffolding",
+            "cargo.cable",
+            "cargo.aircon",
+            "cargo.lumber_b",
+            "cargo.gen_set",
+            "cargo.ins_panel",
+            "cargo.furniture"
         ]
     },
     {
@@ -2848,6 +5028,22 @@
             "gillette",
             "billings",
             "colorado_spr"
+        ],
+        "cargoOut": [
+            "cargo.big_tyres",
+            "cargo.mixtank",
+            "cargo.volvo_rims",
+            "cargo.moving_cont",
+            "cargo.frac_tank",
+            "cargo.scaffolding"
+        ],
+        "cargoIn": [
+            "cargo.mixtank",
+            "cargo.volvo_rims",
+            "cargo.frac_tank",
+            "cargo.big_tyres",
+            "cargo.machine_pts",
+            "cargo.moving_cont"
         ]
     },
     {
@@ -2866,6 +5062,16 @@
             "coeur_dalene",
             "port_angeles",
             "aberdeen_wa"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.moor_buoy"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.moor_buoy",
+            "cargo.scaffolding"
         ]
     },
     {
@@ -2881,6 +5087,18 @@
             "victoria",
             "junction_cty",
             "amarillo"
+        ],
+        "cargoOut": [
+            "null",
+            "cargo.coil",
+            "cargo.transformer",
+            "cargo.transform2",
+            "cargo.scaffolding",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.scaffolding"
         ]
     },
     {
@@ -2906,6 +5124,34 @@
             "stockton",
             "gillette",
             "sterling"
+        ],
+        "cargoOut": [
+            "null",
+            "cargo.hipresstank",
+            "cargo.moving_cont",
+            "cargo.scrap_metals",
+            "cargo.largetubes",
+            "cargo.oil_pipes",
+            "cargo.aircon",
+            "cargo.machine_pts",
+            "cargo.scrap_cars",
+            "cargo.train_part",
+            "cargo.fert_tank",
+            "cargo.pipes",
+            "cargo.guard_rails",
+            "cargo.cool_tower",
+            "cargo.scaffolding",
+            "cargo.rails",
+            "cargo.moor_buoy",
+            "cargo.ventilation"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.train_part",
+            "cargo.boric_acid",
+            "cargo.sq_tub",
+            "cargo.mtl_coil"
         ]
     },
     {
@@ -2928,6 +5174,32 @@
             "amarillo",
             "enid",
             "fort_stockto"
+        ],
+        "cargoOut": [
+            "cargo.gen_set",
+            "cargo.moving_cont",
+            "cargo.pumpjack",
+            "cargo.air_eng2",
+            "cargo.aircraft_eng",
+            "cargo.scaffolding",
+            "cargo.big_tyres",
+            "cargo.jet_wing",
+            "cargo.mixtank",
+            "cargo.volvo_rims"
+        ],
+        "cargoIn": [
+            "cargo.big_tyres",
+            "cargo.machine_pts",
+            "cargo.frac_tank",
+            "cargo.scaffolding",
+            "cargo.mixtank",
+            "cargo.air_eng2",
+            "cargo.pumpjack",
+            "cargo.moving_cont",
+            "cargo.tyres",
+            "cargo.jet_wing",
+            "cargo.aircraft_eng",
+            "cargo.volvo_rims"
         ]
     },
     {
@@ -2950,6 +5222,33 @@
             "tyler",
             "del_rio",
             "guymon"
+        ],
+        "cargoOut": [
+            "cargo.mortar",
+            "cargo.hipresstank",
+            "cargo.moving_cont",
+            "cargo.largetubes",
+            "cargo.ctubes_b",
+            "cargo.fert_tank",
+            "cargo.util_pole",
+            "cargo.aircon",
+            "cargo.ctubes",
+            "cargo.scaffolding",
+            "null",
+            "cargo.roof_tiles",
+            "cargo.sawpanels",
+            "cargo.gypsum",
+            "cargo.ventilation"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.const_house",
+            "cargo.gypsum",
+            "cargo.cement",
+            "cargo.mortar",
+            "cargo.ctubes",
+            "cargo.util_pole",
+            "cargo.moving_cont"
         ]
     },
     {
@@ -2960,6 +5259,14 @@
         ],
         "input": [
             "fort_worth"
+        ],
+        "cargoOut": [
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "null"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont"
         ]
     },
     {
@@ -2968,7 +5275,13 @@
         "output": [
             "rock_springs"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [
+            "cargo.fertilizer",
+            "cargo.gravel",
+            "cargo.scaffolding"
+        ],
+        "cargoIn": []
     },
     {
         "code": "gas_che_str",
@@ -2985,6 +5298,23 @@
             "el_centro",
             "primm",
             "santa_maria"
+        ],
+        "cargoOut": [
+            "cargo.soda_ash",
+            "cargo.colors",
+            "cargo.ibc_cont",
+            "cargo.scaffolding",
+            "cargo.borates",
+            "cargo.fertilizer",
+            "cargo.moving_cont",
+            "cargo.boric_acid"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.borates",
+            "cargo.boric_acid",
+            "cargo.ibc_cont",
+            "cargo.scaffolding"
         ]
     },
     {
@@ -3043,6 +5373,39 @@
             "san_jose",
             "fort_collins",
             "las_vegas"
+        ],
+        "cargoOut": [
+            "cargo.gravel",
+            "cargo.wire_rod",
+            "cargo.cable",
+            "cargo.volvo_rims",
+            "cargo.conc_barr",
+            "cargo.mixtank",
+            "cargo.pipes",
+            "cargo.moving_cont",
+            "cargo.big_tyres",
+            "cargo.guard_rails",
+            "cargo.sand",
+            "cargo.scaffolding",
+            "cargo.stones",
+            "cargo.largetubes"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.largetubes",
+            "cargo.scaffolding",
+            "cargo.big_tyres",
+            "cargo.mixtank",
+            "cargo.volvo_rims",
+            "cargo.tyres",
+            "cargo.stones",
+            "cargo.guard_rails",
+            "cargo.cable",
+            "cargo.sand",
+            "cargo.gravel",
+            "cargo.pipes",
+            "cargo.wire_rod",
+            "cargo.conc_barr"
         ]
     },
     {
@@ -3052,7 +5415,9 @@
             "portland",
             "colorado_spr"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [],
+        "cargoIn": []
     },
     {
         "code": "vp_epw_sit",
@@ -3087,6 +5452,19 @@
             "garden_city",
             "amarillo",
             "fort_stockto"
+        ],
+        "cargoOut": [
+            "cargo.const_house",
+            "cargo.scaffolding",
+            "cargo.ibc_cont",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.util_pole",
+            "cargo.const_house",
+            "cargo.ibc_cont"
         ]
     },
     {
@@ -3100,6 +5478,16 @@
         "input": [
             "modesto",
             "bakersfield"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "cargo.almond_box",
+            "cargo.nuts",
+            "cargo.scaffolding"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.hay"
         ]
     },
     {
@@ -3115,6 +5503,23 @@
             "fort_stockto",
             "oklahoma_cit",
             "woodward"
+        ],
+        "cargoOut": [
+            "cargo.volvo_rims",
+            "cargo.big_tyres",
+            "cargo.const_house",
+            "cargo.ibc_cont",
+            "cargo.mixtank",
+            "cargo.frac_tank",
+            "cargo.scaffolding"
+        ],
+        "cargoIn": [
+            "cargo.oil_pipes",
+            "cargo.const_house",
+            "cargo.frac_tank",
+            "cargo.mixtank",
+            "cargo.ibc_cont",
+            "cargo.volvo_rims"
         ]
     },
     {
@@ -3125,6 +5530,16 @@
         ],
         "input": [
             "tulsa"
+        ],
+        "cargoOut": [
+            "cargo.scaffolding",
+            "cargo.scrap_cars",
+            "cargo.used_pack",
+            "cargo.scrap_metals",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.tyres"
         ]
     },
     {
@@ -3140,6 +5555,26 @@
             "junction",
             "huntsville",
             "lufkin"
+        ],
+        "cargoOut": [
+            "cargo.wshavings",
+            "cargo.sawpanels",
+            "cargo.lumber_p",
+            "null",
+            "cargo.lumber_b",
+            "cargo.moving_cont",
+            "cargo.util_pole",
+            "cargo.roof_tiles",
+            "cargo.scaffolding",
+            "cargo.ins_panel",
+            "cargo.lumber"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.fert_tank",
+            "cargo.moving_cont",
+            "cargo.boric_acid",
+            "cargo.logs"
         ]
     },
     {
@@ -3172,6 +5607,30 @@
             "wichita",
             "idabel",
             "fresno"
+        ],
+        "cargoOut": [
+            "cargo.used_pack",
+            "cargo.ibc_cont",
+            "cargo.scrap_metals",
+            "null",
+            "cargo.waste_paper",
+            "cargo.moving_cont",
+            "cargo.glass_rack",
+            "cargo.dumpster",
+            "cargo.conc_barr"
+        ],
+        "cargoIn": [
+            "cargo.scrap_metals",
+            "cargo.used_pack",
+            "cargo.waste_paper",
+            "cargo.empty_palet",
+            "cargo.conc_barr",
+            "cargo.ibc_cont",
+            "cargo.moving_cont",
+            "cargo.dumpster",
+            "cargo.paper",
+            "cargo.tyres",
+            "cargo.furniture"
         ]
     },
     {
@@ -3196,6 +5655,25 @@
             "ardmore",
             "idabel",
             "van_horn"
+        ],
+        "cargoOut": [
+            "cargo.scaffolding",
+            "cargo.const_house",
+            "cargo.moving_cont",
+            "cargo.emptytank",
+            "cargo.ibc_cont"
+        ],
+        "cargoIn": [
+            "cargo.largetubes",
+            "cargo.scaffolding",
+            "cargo.const_house",
+            "cargo.stones",
+            "cargo.sand",
+            "cargo.sawpanels",
+            "cargo.ctubes_b",
+            "cargo.moving_cont",
+            "cargo.lumber",
+            "cargo.util_pole"
         ]
     },
     {
@@ -3211,6 +5689,25 @@
             "fresno",
             "dallas",
             "waco"
+        ],
+        "cargoOut": [
+            "cargo.used_pack",
+            "cargo.emptytank",
+            "null",
+            "cargo.waste_paper",
+            "cargo.moving_cont",
+            "cargo.glass_rack"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.cable",
+            "cargo.moving_cont",
+            "cargo.silica",
+            "cargo.borates",
+            "cargo.glass_rack",
+            "cargo.sand",
+            "cargo.colors",
+            "cargo.transform2"
         ]
     },
     {
@@ -3243,6 +5740,34 @@
             "fort_collins",
             "grand_juncti",
             "sheridan"
+        ],
+        "cargoOut": [
+            "cargo.ind_palet",
+            "cargo.grain",
+            "cargo.soybean_b",
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.corn_b",
+            "cargo.grain_b",
+            "cargo.plows",
+            "null",
+            "cargo.empty_palet"
+        ],
+        "cargoIn": [
+            "cargo.soybean_b",
+            "cargo.corn_b",
+            "cargo.grain_b",
+            "cargo.hay",
+            "cargo.fertilizer",
+            "cargo.scaffolding",
+            "cargo.gravel",
+            "cargo.grain",
+            "cargo.pellet_afd_b",
+            "cargo.wshavings",
+            "cargo.moving_cont",
+            "cargo.lumber_b",
+            "cargo.lumber_p",
+            "cargo.plows"
         ]
     },
     {
@@ -3261,6 +5786,84 @@
             "laredo",
             "dallas",
             "texarkana"
+        ],
+        "cargoOut": [
+            "cargo.frac_tank",
+            "cargo.corn_b",
+            "cargo.pipes",
+            "cargo.soybean_b",
+            "cargo.flour",
+            "cargo.cable",
+            "cargo.lumber_b",
+            "cargo.ctubes_b",
+            "cargo.pellet_afd_b",
+            "cargo.machine_pts",
+            "null",
+            "cargo.salt",
+            "cargo.grain",
+            "cargo.battery",
+            "cargo.scrap_cars",
+            "cargo.oil_pipes",
+            "cargo.wire_rod",
+            "cargo.potatoes_b",
+            "cargo.cott_seed",
+            "cargo.paper",
+            "cargo.waste_paper",
+            "cargo.cott_lint",
+            "cargo.furniture",
+            "cargo.boric_acid",
+            "cargo.largetubes",
+            "cargo.butter",
+            "cargo.yogurt",
+            "cargo.emptytank",
+            "cargo.ins_panel"
+        ],
+        "cargoIn": [
+            "cargo.corn_b",
+            "cargo.grain_b",
+            "cargo.flour",
+            "cargo.scrap_metals",
+            "cargo.dry_milk",
+            "cargo.used_pack",
+            "cargo.waste_paper",
+            "cargo.coil",
+            "cargo.ibc_cont",
+            "cargo.dumpster",
+            "cargo.curtains",
+            "cargo.borates",
+            "cargo.pellet_afood",
+            "cargo.gravel",
+            "cargo.silica",
+            "cargo.sand",
+            "cargo.soil",
+            "cargo.pellet_afd_b",
+            "cargo.house_pref",
+            "cargo.rice",
+            "cargo.buttermilk",
+            "cargo.cott_lint",
+            "cargo.grain",
+            "cargo.scaffolding",
+            "cargo.nuts",
+            "cargo.moving_cont",
+            "cargo.fertilizer",
+            "cargo.aircraft_eng",
+            "cargo.largetubes",
+            "cargo.ctubes_b",
+            "cargo.lumber_p",
+            "cargo.lumber_b",
+            "cargo.const_house",
+            "cargo.boric_acid",
+            "cargo.glass_rack",
+            "cargo.guard_rails",
+            "cargo.util_pole",
+            "cargo.alu_ingot",
+            "cargo.train_part",
+            "cargo.sq_tub",
+            "cargo.mtl_coil",
+            "cargo.cans",
+            "cargo.frac_tank",
+            "cargo.sugar",
+            "cargo.jet_wing"
         ]
     },
     {
@@ -3279,6 +5882,28 @@
             "kansas_ci_ks",
             "emporia",
             "enid"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "cargo.mixtank",
+            "cargo.scaffolding",
+            "cargo.conc_barr",
+            "cargo.coil",
+            "cargo.cable",
+            "cargo.wire_rod"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.wire_rod",
+            "cargo.ibc_cont",
+            "cargo.cable",
+            "cargo.gravel",
+            "cargo.mixtank",
+            "cargo.soil",
+            "cargo.moving_cont",
+            "cargo.ctubes_b",
+            "cargo.rails",
+            "cargo.conc_barr"
         ]
     },
     {
@@ -3291,6 +5916,23 @@
         "input": [
             "indio",
             "san_diego"
+        ],
+        "cargoOut": [
+            "cargo.mixtank",
+            "cargo.big_tyres",
+            "cargo.dumpster",
+            "cargo.util_pole",
+            "cargo.moving_cont",
+            "cargo.volvo_rims",
+            "null"
+        ],
+        "cargoIn": [
+            "cargo.soil",
+            "cargo.mixtank",
+            "cargo.ibc_cont",
+            "cargo.conc_barr",
+            "cargo.scaffolding",
+            "cargo.util_pole"
         ]
     },
     {
@@ -3305,6 +5947,21 @@
             "longview_tx",
             "tulsa",
             "houston"
+        ],
+        "cargoOut": [
+            "cargo.boric_acid",
+            "cargo.fertilizer",
+            "cargo.moving_cont",
+            "cargo.colors"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.transformer",
+            "cargo.hipresstank",
+            "cargo.fert_tank",
+            "cargo.largetubes",
+            "cargo.oil_pipes"
         ]
     },
     {
@@ -3321,6 +5978,20 @@
             "mcalester",
             "wichita",
             "mcallen"
+        ],
+        "cargoOut": [
+            "cargo.machine_pts",
+            "cargo.glass_rack",
+            "cargo.tyres",
+            "cargo.scaffolding",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.carcomp",
+            "cargo.battery",
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "cargo.glass_rack"
         ]
     },
     {
@@ -3337,6 +6008,25 @@
             "thompson_f",
             "barstow",
             "rock_springs"
+        ],
+        "cargoOut": [
+            "cargo.coil",
+            "cargo.wire_rod",
+            "cargo.ibc_cont",
+            "cargo.scaffolding",
+            "cargo.conc_barr",
+            "cargo.cable"
+        ],
+        "cargoIn": [
+            "cargo.mixtank",
+            "cargo.moving_cont",
+            "cargo.sand",
+            "cargo.scaffolding",
+            "cargo.ibc_cont",
+            "cargo.ctubes",
+            "cargo.conc_barr",
+            "cargo.wire_rod",
+            "cargo.train_part"
         ]
     },
     {
@@ -3352,6 +6042,25 @@
             "van_horn",
             "colby",
             "fort_worth"
+        ],
+        "cargoOut": [
+            "cargo.guard_rails",
+            "cargo.cable",
+            "cargo.sand",
+            "cargo.scaffolding",
+            "cargo.wire_rod",
+            "cargo.pipes",
+            "cargo.big_tyres",
+            "cargo.volvo_rims",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.big_tyres",
+            "cargo.gravel",
+            "cargo.volvo_rims",
+            "cargo.tyres"
         ]
     },
     {
@@ -3385,6 +6094,26 @@
             "stockton",
             "kingman",
             "huron"
+        ],
+        "cargoOut": [
+            "cargo.coil",
+            "cargo.cable",
+            "cargo.conc_barr",
+            "cargo.mixtank",
+            "cargo.wire_rod",
+            "cargo.volvo_rims",
+            "cargo.big_tyres"
+        ],
+        "cargoIn": [
+            "cargo.cable",
+            "cargo.ctubes",
+            "cargo.volvo_rims",
+            "cargo.big_tyres",
+            "cargo.ctubes_b",
+            "cargo.wire_rod",
+            "cargo.mixtank",
+            "cargo.largetubes",
+            "cargo.conc_barr"
         ]
     },
     {
@@ -3411,6 +6140,23 @@
             "farmington",
             "kingman",
             "provo"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.transformer",
+            "cargo.coil",
+            "cargo.transform2",
+            "null"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "cargo.tyres",
+            "cargo.machine_pts",
+            "cargo.coil",
+            "cargo.transform2",
+            "cargo.transformer"
         ]
     },
     {
@@ -3429,6 +6175,19 @@
             "rangely",
             "price",
             "moab"
+        ],
+        "cargoOut": [
+            "cargo.ibc_cont",
+            "cargo.frac_tank",
+            "cargo.const_house"
+        ],
+        "cargoIn": [
+            "cargo.volvo_rims",
+            "cargo.big_tyres",
+            "cargo.util_pole",
+            "cargo.emptytank",
+            "cargo.ibc_cont",
+            "cargo.frac_tank"
         ]
     },
     {
@@ -3441,6 +6200,22 @@
         "input": [
             "portland",
             "houston"
+        ],
+        "cargoOut": [
+            "cargo.hipresstank",
+            "cargo.moving_cont",
+            "null",
+            "cargo.frac_tank",
+            "cargo.dumpster",
+            "cargo.machine_pts",
+            "cargo.scrap_metals"
+        ],
+        "cargoIn": [
+            "cargo.scrap_metals",
+            "cargo.lumber_b",
+            "cargo.ibc_cont",
+            "cargo.sq_tub",
+            "cargo.alu_profile"
         ]
     },
     {
@@ -3474,6 +6249,19 @@
             "oxnard",
             "san_simon",
             "nogales"
+        ],
+        "cargoOut": [
+            "cargo.tyres",
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.fertilizer",
+            "cargo.plows"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "cargo.plows",
+            "cargo.tyres"
         ]
     },
     {
@@ -3485,6 +6273,18 @@
         ],
         "input": [
             "wichita"
+        ],
+        "cargoOut": [
+            "cargo.cement",
+            "cargo.fert_tank",
+            "cargo.largetubes",
+            "cargo.glass_rack",
+            "cargo.ventilation",
+            "cargo.emptytank"
+        ],
+        "cargoIn": [
+            "cargo.const_house",
+            "cargo.scaffolding"
         ]
     },
     {
@@ -3495,6 +6295,17 @@
         ],
         "input": [
             "los_angeles"
+        ],
+        "cargoOut": [
+            "cargo.ctubes_b",
+            "cargo.sawpanels",
+            "cargo.soybean_b"
+        ],
+        "cargoIn": [
+            "cargo.grain",
+            "cargo.moor_buoy",
+            "cargo.clothes",
+            "cargo.almond_box"
         ]
     },
     {
@@ -3505,6 +6316,15 @@
         ],
         "input": [
             "portland"
+        ],
+        "cargoOut": [
+            "cargo.empty_palet",
+            "cargo.used_pack",
+            "cargo.glass_rack",
+            "cargo.ind_palet"
+        ],
+        "cargoIn": [
+            "cargo.aircon"
         ]
     },
     {
@@ -3515,6 +6335,13 @@
         ],
         "input": [
             "oxnard"
+        ],
+        "cargoOut": [
+            "cargo.sand",
+            "cargo.hay"
+        ],
+        "cargoIn": [
+            "cargo.emptytank"
         ]
     },
     {
@@ -3528,6 +6355,16 @@
         "input": [
             "kansas_ci_ks",
             "dodge_city"
+        ],
+        "cargoOut": [
+            "cargo.coil",
+            "cargo.rails",
+            "cargo.wire_rod",
+            "cargo.train_part"
+        ],
+        "cargoIn": [
+            "cargo.rails",
+            "cargo.scaffolding"
         ]
     },
     {
@@ -3540,6 +6377,17 @@
         "input": [
             "portland",
             "barstow"
+        ],
+        "cargoOut": [
+            "cargo.soda_ash",
+            "cargo.boric_acid",
+            "cargo.colors",
+            "cargo.borates",
+            "cargo.fertilizer"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.fertilizer"
         ]
     },
     {
@@ -3552,6 +6400,21 @@
         "input": [
             "salina_ks",
             "wichita"
+        ],
+        "cargoOut": [
+            "cargo.glass_rack",
+            "cargo.jet_wing",
+            "cargo.aircraft_eng",
+            "cargo.emptytank",
+            "cargo.ind_palet",
+            "cargo.scrap_metals"
+        ],
+        "cargoIn": [
+            "cargo.coil",
+            "cargo.transformer",
+            "cargo.air_eng2",
+            "cargo.jet_wing",
+            "cargo.cable"
         ]
     },
     {
@@ -3567,6 +6430,19 @@
             "tulsa",
             "boise",
             "salina_ks"
+        ],
+        "cargoOut": [
+            "cargo.ind_palet",
+            "cargo.scrap_metals",
+            "cargo.moving_cont",
+            "cargo.battery",
+            "cargo.empty_palet",
+            "cargo.home_acc",
+            "cargo.toys"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.machine_pts"
         ]
     },
     {
@@ -3579,6 +6455,20 @@
         "input": [
             "billings",
             "sidney"
+        ],
+        "cargoOut": [
+            "cargo.sugar",
+            "cargo.scaffolding",
+            "null",
+            "cargo.sugar_beet_b",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.ind_palet",
+            "cargo.empty_palet",
+            "cargo.moving_cont",
+            "cargo.limestone",
+            "cargo.sugar_beet_b"
         ]
     },
     {
@@ -3600,6 +6490,26 @@
             "moab",
             "rock_springs",
             "price"
+        ],
+        "cargoOut": [
+            "cargo.frac_tank",
+            "cargo.scaffolding",
+            "cargo.mixtank",
+            "cargo.ibc_cont",
+            "cargo.volvo_rims",
+            "cargo.const_house"
+        ],
+        "cargoIn": [
+            "cargo.alu_profile",
+            "cargo.frac_tank",
+            "cargo.gravel",
+            "cargo.scaffolding",
+            "cargo.wire_rod",
+            "cargo.emptytank",
+            "cargo.ibc_cont",
+            "cargo.mixtank",
+            "cargo.const_house",
+            "cargo.volvo_rims"
         ]
     },
     {
@@ -3608,7 +6518,13 @@
         "output": [
             "oklahoma_cit"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [
+            "cargo.scaffolding",
+            "cargo.frac_tank",
+            "null"
+        ],
+        "cargoIn": []
     },
     {
         "code": "port_bea",
@@ -3616,7 +6532,18 @@
         "output": [
             "beaumont"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [
+            "cargo.flour",
+            "null",
+            "cargo.machine_pts",
+            "cargo.butter",
+            "cargo.toys",
+            "cargo.frozen_veget",
+            "cargo.home_acc",
+            "cargo.grain_b"
+        ],
+        "cargoIn": []
     },
     {
         "code": "ele_epw_sit",
@@ -3628,6 +6555,16 @@
         "input": [
             "mojave",
             "san_diego"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.ibc_cont"
+        ],
+        "cargoIn": [
+            "cargo.const_house",
+            "cargo.cable",
+            "cargo.coil"
         ]
     },
     {
@@ -3650,6 +6587,17 @@
             "las_cruces",
             "hobbs",
             "phoenix"
+        ],
+        "cargoOut": [
+            "cargo.waste_paper",
+            "cargo.used_pack",
+            "cargo.empty_palet",
+            "null"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.home_acc"
         ]
     },
     {
@@ -3668,6 +6616,20 @@
             "amarillo",
             "victoria",
             "lubbock"
+        ],
+        "cargoOut": [
+            "cargo.scaffolding",
+            "cargo.tyres",
+            "cargo.fertilizer",
+            "cargo.moving_cont",
+            "cargo.plows"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.plows",
+            "cargo.tyres",
+            "cargo.machine_pts"
         ]
     },
     {
@@ -3686,6 +6648,21 @@
             "the_dalles",
             "coeur_dalene",
             "salem"
+        ],
+        "cargoOut": [
+            "cargo.scaffolding",
+            "cargo.const_house",
+            "cargo.emptytank",
+            "cargo.ibc_cont"
+        ],
+        "cargoIn": [
+            "cargo.alu_profile",
+            "cargo.mtl_coil",
+            "cargo.soil",
+            "cargo.moving_cont",
+            "cargo.const_house",
+            "cargo.cable",
+            "cargo.scaffolding"
         ]
     },
     {
@@ -3702,6 +6679,29 @@
             "salina_ks",
             "ardmore",
             "oklahoma_cit"
+        ],
+        "cargoOut": [
+            "cargo.dumpster",
+            "cargo.volvo_rims",
+            "cargo.util_pole",
+            "null",
+            "cargo.moving_cont",
+            "cargo.conc_barr",
+            "cargo.gen_set",
+            "cargo.scaffolding"
+        ],
+        "cargoIn": [
+            "cargo.conc_barr",
+            "cargo.tyres",
+            "cargo.stones",
+            "cargo.moving_cont",
+            "cargo.mixtank",
+            "cargo.big_tyres",
+            "cargo.volvo_rims",
+            "cargo.gen_set",
+            "cargo.ibc_cont",
+            "cargo.util_pole",
+            "cargo.scaffolding"
         ]
     },
     {
@@ -3725,6 +6725,29 @@
             "hays",
             "colby",
             "junction"
+        ],
+        "cargoOut": [
+            "cargo.empty_palet",
+            "cargo.waste_paper",
+            "cargo.moving_cont",
+            "cargo.used_pack"
+        ],
+        "cargoIn": [
+            "cargo.frozen_food",
+            "cargo.dry_milk",
+            "cargo.moving_cont",
+            "cargo.clothes",
+            "cargo.milk",
+            "cargo.yogurt",
+            "cargo.butter",
+            "cargo.dry_fruit",
+            "cargo.almond_box",
+            "cargo.nuts",
+            "cargo.cheese",
+            "cargo.office_suppl",
+            "cargo.potatoes",
+            "cargo.frozen_fruit",
+            "cargo.sugar"
         ]
     },
     {
@@ -3735,7 +6758,13 @@
             "beaumont",
             "longview_tx"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [
+            "cargo.logs",
+            "null",
+            "cargo.wshavings"
+        ],
+        "cargoIn": []
     },
     {
         "code": "sf_port",
@@ -3745,6 +6774,25 @@
         ],
         "input": [
             "san_francisc"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.yogurt",
+            "cargo.hipresstank",
+            "cargo.rice",
+            "cargo.battery",
+            "cargo.cans",
+            "cargo.machine_pts"
+        ],
+        "cargoIn": [
+            "cargo.fruit_juic_t",
+            "cargo.potatoes_b",
+            "cargo.scrap_metals",
+            "cargo.used_pack",
+            "cargo.cans",
+            "cargo.waste_paper",
+            "cargo.sugar"
         ]
     },
     {
@@ -3753,7 +6801,11 @@
         "output": [
             "san_jose"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [
+            "null"
+        ],
+        "cargoIn": []
     },
     {
         "code": "port_gal",
@@ -3763,6 +6815,24 @@
         ],
         "input": [
             "galveston"
+        ],
+        "cargoOut": [
+            "cargo.buttermilk",
+            "cargo.cans",
+            "cargo.food",
+            "cargo.scaffolding",
+            "cargo.gen_set",
+            "cargo.home_acc",
+            "cargo.pellet_afood",
+            "cargo.boric_acid"
+        ],
+        "cargoIn": [
+            "cargo.corn_b",
+            "cargo.moor_buoy",
+            "cargo.pumpjack",
+            "cargo.flour",
+            "cargo.frozen_veget",
+            "cargo.largetubes"
         ]
     },
     {
@@ -3783,6 +6853,26 @@
             "salem",
             "longview_tx",
             "beaumont"
+        ],
+        "cargoOut": [
+            "cargo.train_part",
+            "cargo.alu_profile",
+            "cargo.rails",
+            "cargo.mtl_coil",
+            "cargo.sq_tub",
+            "cargo.alu_ingot",
+            "cargo.moor_buoy",
+            "cargo.scaffolding",
+            "cargo.guard_rails",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.scrap_cars",
+            "cargo.moving_cont",
+            "cargo.scrap_metals",
+            "cargo.limestone",
+            "cargo.cool_tower"
         ]
     },
     {
@@ -3793,6 +6883,17 @@
         ],
         "input": [
             "tacoma"
+        ],
+        "cargoOut": [
+            "cargo.scaffolding",
+            "cargo.home_acc"
+        ],
+        "cargoIn": [
+            "cargo.gen_set",
+            "cargo.sugar",
+            "cargo.office_suppl",
+            "cargo.cott_lint",
+            "cargo.cans"
         ]
     },
     {
@@ -3803,6 +6904,20 @@
         ],
         "input": [
             "portland"
+        ],
+        "cargoOut": [
+            "cargo.salt",
+            "cargo.frozen_fruit",
+            "cargo.ctubes_b"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.aircraft_eng",
+            "cargo.grain",
+            "cargo.fert_tank",
+            "cargo.carcomp",
+            "cargo.lumber_p",
+            "cargo.jet_wing"
         ]
     },
     {
@@ -3817,6 +6932,21 @@
             "los_angeles",
             "everett",
             "wichita"
+        ],
+        "cargoOut": [
+            "cargo.used_pack",
+            "cargo.waste_paper",
+            "cargo.jet_wing",
+            "cargo.scrap_metals",
+            "cargo.emptytank",
+            "cargo.glass_rack"
+        ],
+        "cargoIn": [
+            "cargo.jet_wing",
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.boric_acid",
+            "cargo.coil"
         ]
     },
     {
@@ -3827,6 +6957,16 @@
         ],
         "input": [
             "san_jose"
+        ],
+        "cargoOut": [
+            "cargo.scrap_metals",
+            "cargo.ind_palet",
+            "cargo.scrap_cars",
+            "cargo.scaffolding"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.moving_cont"
         ]
     },
     {
@@ -3843,6 +6983,25 @@
             "guymon",
             "topeka",
             "butte"
+        ],
+        "cargoOut": [
+            "cargo.transformer",
+            "cargo.util_pole",
+            "cargo.const_house",
+            "cargo.scaffolding",
+            "cargo.wire_rod",
+            "null",
+            "cargo.transform2"
+        ],
+        "cargoIn": [
+            "cargo.battery",
+            "cargo.wire_rod",
+            "cargo.util_pole",
+            "cargo.const_house",
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.coil",
+            "cargo.transformer"
         ]
     },
     {
@@ -3853,6 +7012,21 @@
         ],
         "input": [
             "tulsa"
+        ],
+        "cargoOut": [
+            "cargo.ctubes_b",
+            "cargo.frozen_veget",
+            "cargo.rice",
+            "cargo.grain"
+        ],
+        "cargoIn": [
+            "cargo.corn_b",
+            "cargo.moor_buoy",
+            "cargo.scrap_metals",
+            "cargo.gravel",
+            "cargo.cement",
+            "cargo.limestone",
+            "cargo.transform2"
         ]
     },
     {
@@ -3863,6 +7037,21 @@
         ],
         "input": [
             "brownsville"
+        ],
+        "cargoOut": [
+            "cargo.emptytank",
+            "cargo.nuts",
+            "cargo.milk_t",
+            "cargo.flour",
+            "cargo.battery",
+            "cargo.cans",
+            "cargo.pellet_afd_b",
+            "cargo.furniture"
+        ],
+        "cargoIn": [
+            "cargo.soybean_b",
+            "cargo.silica",
+            "cargo.cans"
         ]
     },
     {
@@ -3872,7 +7061,14 @@
             "oxnard",
             "oklahoma_cit"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.ind_palet",
+            "cargo.scrap_metals"
+        ],
+        "cargoIn": []
     },
     {
         "code": "aport_gtf",
@@ -3882,6 +7078,18 @@
         ],
         "input": [
             "great_falls"
+        ],
+        "cargoOut": [
+            "cargo.waste_paper",
+            "cargo.battery",
+            "cargo.ctubes_b",
+            "cargo.oil_pipes"
+        ],
+        "cargoIn": [
+            "cargo.soybean_b",
+            "cargo.used_pack",
+            "cargo.largetubes",
+            "cargo.wire_rod"
         ]
     },
     {
@@ -3894,6 +7102,20 @@
         "input": [
             "oklahoma_cit",
             "dallas"
+        ],
+        "cargoOut": [
+            "cargo.ibc_cont",
+            "cargo.const_house",
+            "cargo.emptytank",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.ibc_cont",
+            "cargo.roof_tiles",
+            "cargo.sand",
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "cargo.const_house"
         ]
     },
     {
@@ -3904,6 +7126,18 @@
         ],
         "input": [
             "tulsa"
+        ],
+        "cargoOut": [
+            "cargo.ctubes",
+            "cargo.hipresstank",
+            "cargo.corn_b",
+            "cargo.ventilation"
+        ],
+        "cargoIn": [
+            "cargo.hipresstank",
+            "cargo.paper",
+            "cargo.const_house",
+            "cargo.moving_cont"
         ]
     },
     {
@@ -3914,6 +7148,21 @@
         ],
         "input": [
             "los_angeles"
+        ],
+        "cargoOut": [
+            "cargo.almond_box",
+            "cargo.nuts",
+            "cargo.ventilation"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.gen_set",
+            "cargo.air_eng2",
+            "cargo.carcomp",
+            "cargo.paper",
+            "cargo.furniture",
+            "cargo.const_house",
+            "cargo.cable"
         ]
     },
     {
@@ -3926,6 +7175,18 @@
         "input": [
             "brownsville",
             "corpus_chris"
+        ],
+        "cargoOut": [
+            "cargo.glass_rack",
+            "cargo.frac_tank",
+            "cargo.scrap_metals",
+            "cargo.plows",
+            "cargo.aircon"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.boric_acid",
+            "cargo.gen_set"
         ]
     },
     {
@@ -3936,6 +7197,15 @@
         ],
         "input": [
             "butte"
+        ],
+        "cargoOut": [
+            "cargo.colors",
+            "cargo.scaffolding",
+            "cargo.fertilizer"
+        ],
+        "cargoIn": [
+            "cargo.cool_tower",
+            "cargo.scaffolding"
         ]
     },
     {
@@ -3948,6 +7218,17 @@
         "input": [
             "lawton",
             "ardmore"
+        ],
+        "cargoOut": [
+            "cargo.used_pack",
+            "cargo.empty_palet",
+            "cargo.moving_cont",
+            "cargo.volvo_rims",
+            "cargo.emptytank"
+        ],
+        "cargoIn": [
+            "cargo.conc_barr",
+            "cargo.coil"
         ]
     },
     {
@@ -3960,6 +7241,18 @@
         "input": [
             "bozeman",
             "butte"
+        ],
+        "cargoOut": [
+            "cargo.scaffolding",
+            "cargo.cement",
+            "cargo.moving_cont",
+            "cargo.gravel",
+            "cargo.silica"
+        ],
+        "cargoIn": [
+            "cargo.empty_palet",
+            "cargo.boric_acid",
+            "cargo.moving_cont"
         ]
     },
     {
@@ -3970,6 +7263,18 @@
         ],
         "input": [
             "fort_worth"
+        ],
+        "cargoOut": [
+            "cargo.tyres",
+            "cargo.food",
+            "cargo.transform2",
+            "cargo.grain",
+            "cargo.machine_pts",
+            "cargo.carcomp"
+        ],
+        "cargoIn": [
+            "cargo.nuts",
+            "cargo.lumber_b"
         ]
     },
     {
@@ -3978,7 +7283,9 @@
         "output": [
             "glendive"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [],
+        "cargoIn": []
     },
     {
         "code": "wds_wst_whs",
@@ -3988,6 +7295,20 @@
         ],
         "input": [
             "oxnard"
+        ],
+        "cargoOut": [
+            "cargo.dumpster",
+            "cargo.used_pack",
+            "cargo.conc_barr",
+            "cargo.waste_paper"
+        ],
+        "cargoIn": [
+            "cargo.scrap_metals",
+            "cargo.moving_cont",
+            "cargo.empty_palet",
+            "cargo.waste_paper",
+            "cargo.ibc_cont",
+            "cargo.used_pack"
         ]
     },
     {
@@ -3998,6 +7319,24 @@
         ],
         "input": [
             "oakland"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "cargo.flour",
+            "cargo.roof_tiles"
+        ],
+        "cargoIn": [
+            "cargo.potatoes_b",
+            "cargo.soybean_b",
+            "cargo.corn_b",
+            "cargo.milk_t",
+            "cargo.moving_cont",
+            "cargo.used_pack",
+            "cargo.buttermilk",
+            "cargo.waste_paper",
+            "cargo.sugar",
+            "cargo.coil",
+            "cargo.conc_barr"
         ]
     },
     {
@@ -4008,6 +7347,20 @@
         ],
         "input": [
             "wichita"
+        ],
+        "cargoOut": [
+            "cargo.sugar",
+            "cargo.furniture",
+            "cargo.wire_rod",
+            "cargo.transform2"
+        ],
+        "cargoIn": [
+            "cargo.corn_b",
+            "cargo.food",
+            "cargo.furniture",
+            "cargo.nuts",
+            "cargo.ventilation",
+            "cargo.pipes"
         ]
     },
     {
@@ -4020,6 +7373,13 @@
         ],
         "input": [
             "price"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "null"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont"
         ]
     },
     {
@@ -4030,6 +7390,16 @@
         ],
         "input": [
             "kansas_ci_ks"
+        ],
+        "cargoOut": [
+            "cargo.used_pack",
+            "cargo.glass_rack",
+            "cargo.empty_palet",
+            "cargo.scrap_cars",
+            "cargo.waste_paper"
+        ],
+        "cargoIn": [
+            "cargo.battery"
         ]
     },
     {
@@ -4040,6 +7410,25 @@
         ],
         "input": [
             "corpus_chris"
+        ],
+        "cargoOut": [
+            "cargo.largetubes",
+            "cargo.food",
+            "cargo.pellet_afd_b",
+            "cargo.pumpjack",
+            "cargo.sugar",
+            "cargo.machine_pts",
+            "cargo.scaffolding",
+            "cargo.boric_acid"
+        ],
+        "cargoIn": [
+            "cargo.milk_t",
+            "cargo.frozen_fruit",
+            "cargo.cott_seed",
+            "cargo.dry_milk",
+            "cargo.almond_box",
+            "cargo.frozen_food",
+            "cargo.pellet_afd_b"
         ]
     },
     {
@@ -4049,7 +7438,9 @@
             "el_paso",
             "colby"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [],
+        "cargoIn": []
     },
     {
         "code": "port_hou",
@@ -4059,6 +7450,19 @@
         ],
         "input": [
             "houston"
+        ],
+        "cargoOut": [
+            "cargo.transform2",
+            "cargo.almond_box",
+            "cargo.sugar"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont",
+            "cargo.sugar",
+            "cargo.grain",
+            "cargo.cott_seed",
+            "cargo.scaffolding",
+            "cargo.pumpjack"
         ]
     },
     {
@@ -4069,6 +7473,24 @@
         ],
         "input": [
             "houston"
+        ],
+        "cargoOut": [
+            "cargo.grain",
+            "cargo.food",
+            "cargo.aircon",
+            "cargo.grain_b",
+            "cargo.jet_wing"
+        ],
+        "cargoIn": [
+            "cargo.food",
+            "cargo.scaffolding",
+            "cargo.battery",
+            "cargo.const_house",
+            "cargo.sawpanels",
+            "cargo.coil",
+            "cargo.emptytank",
+            "cargo.home_acc",
+            "cargo.transform2"
         ]
     },
     {
@@ -4077,7 +7499,13 @@
         "output": [
             "bakersfield"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [
+            "cargo.mixtank",
+            "cargo.frac_tank",
+            "cargo.big_tyres"
+        ],
+        "cargoIn": []
     },
     {
         "code": "42p_print",
@@ -4092,6 +7520,17 @@
             "eugene",
             "albuquerque",
             "las_vegas"
+        ],
+        "cargoOut": [
+            "cargo.moving_cont",
+            "cargo.scaffolding",
+            "cargo.clothes",
+            "cargo.paper"
+        ],
+        "cargoIn": [
+            "cargo.paper",
+            "cargo.scaffolding",
+            "cargo.moving_cont"
         ]
     },
     {
@@ -4101,7 +7540,15 @@
             "fort_worth",
             "san_antonio"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [
+            "cargo.scrap_metals",
+            "cargo.glass_rack",
+            "cargo.used_pack",
+            "cargo.waste_paper",
+            "cargo.empty_palet"
+        ],
+        "cargoIn": []
     },
     {
         "code": "kw_trk_pln",
@@ -4111,6 +7558,15 @@
         ],
         "input": [
             "seattle"
+        ],
+        "cargoOut": [
+            "cargo.empty_palet",
+            "cargo.glass_rack",
+            "cargo.used_pack",
+            "cargo.ind_palet"
+        ],
+        "cargoIn": [
+            "cargo.alu_profile"
         ]
     },
     {
@@ -4119,7 +7575,11 @@
         "output": [
             "kansas_ci_ks"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [
+            "null"
+        ],
+        "cargoIn": []
     },
     {
         "code": "cm_min_svc",
@@ -4127,7 +7587,13 @@
         "output": [
             "salt_lake"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [
+            "cargo.mixtank",
+            "cargo.volvo_rims",
+            "cargo.scaffolding"
+        ],
+        "cargoIn": []
     },
     {
         "code": "aport_den",
@@ -4137,6 +7603,17 @@
         ],
         "input": [
             "denver"
+        ],
+        "cargoOut": [
+            "null",
+            "cargo.sugar",
+            "cargo.curtains",
+            "cargo.furniture"
+        ],
+        "cargoIn": [
+            "cargo.paper",
+            "cargo.windml_tube",
+            "cargo.scaffolding"
         ]
     },
     {
@@ -4145,7 +7622,13 @@
         "output": [
             "houston"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [
+            "cargo.empty_palet",
+            "cargo.moving_cont",
+            "cargo.used_pack"
+        ],
+        "cargoIn": []
     },
     {
         "code": "plu_el_mkt",
@@ -4153,7 +7636,12 @@
         "output": [
             "wichita_fall"
         ],
-        "input": []
+        "input": [],
+        "cargoOut": [
+            "cargo.waste_paper",
+            "cargo.used_pack"
+        ],
+        "cargoIn": []
     },
     {
         "code": "cm_min_qryp",
@@ -4163,6 +7651,14 @@
         ],
         "input": [
             "moab"
+        ],
+        "cargoOut": [
+            "cargo.volvo_rims",
+            "cargo.scaffolding",
+            "cargo.salt"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont"
         ]
     },
     {
@@ -4173,6 +7669,13 @@
         ],
         "input": [
             "lubbock"
+        ],
+        "cargoOut": [
+            "cargo.ibc_cont",
+            "cargo.scaffolding"
+        ],
+        "cargoIn": [
+            "cargo.moving_cont"
         ]
     },
     {
@@ -4183,6 +7686,16 @@
         ],
         "input": [
             "albuquerque"
+        ],
+        "cargoOut": [
+            "cargo.frozen_veget",
+            "cargo.frozen_fruit",
+            "cargo.paper",
+            "cargo.lumber"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.nuts"
         ]
     },
     {
@@ -4193,6 +7706,15 @@
         ],
         "input": [
             "barstow"
+        ],
+        "cargoOut": [
+            "cargo.transformer",
+            "cargo.util_pole",
+            "cargo.transform2"
+        ],
+        "cargoIn": [
+            "cargo.const_house",
+            "cargo.scaffolding"
         ]
     },
     {
@@ -4203,6 +7725,15 @@
         ],
         "input": [
             "clovis"
+        ],
+        "cargoOut": [
+            "cargo.milk_t",
+            "cargo.butter",
+            "cargo.yogurt",
+            "cargo.moving_cont"
+        ],
+        "cargoIn": [
+            "cargo.almond_box"
         ]
     },
     {
@@ -4213,6 +7744,19 @@
         ],
         "input": [
             "phoenix"
+        ],
+        "cargoOut": [
+            "cargo.pipes",
+            "cargo.machine_pts",
+            "cargo.windml_tube"
+        ],
+        "cargoIn": [
+            "cargo.stones",
+            "cargo.silica",
+            "cargo.fruits",
+            "cargo.nuts",
+            "cargo.const_house",
+            "cargo.gravel"
         ]
     },
     {
@@ -4223,6 +7767,18 @@
         ],
         "input": [
             "barstow"
+        ],
+        "cargoOut": [
+            "cargo.sand",
+            "cargo.frac_tank",
+            "cargo.volvo_rims"
+        ],
+        "cargoIn": [
+            "cargo.scaffolding",
+            "cargo.moving_cont",
+            "cargo.mixtank",
+            "cargo.big_tyres",
+            "cargo.empty_palet"
         ]
     }
 ]

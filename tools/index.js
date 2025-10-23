@@ -20,7 +20,9 @@ for (const entry of economyEntry.section.companies) {
       code: name,
       name: "?",
       output: [location],
-      input: []
+      input: [],
+      cargoOut: [],
+      cargoIn: [],
     });
     continue
   }
@@ -113,25 +115,42 @@ for (const comp of companiesResult) {
     if (!compInfo || !compInfo.job_offer) continue;
 
     for (let jobOffer of compInfo.job_offer) {
-      console.log(jobOffer)
-
       let jobInfo = parsed[jobOffer];
+
       let target = jobInfo.target.replaceAll('"', "");
-      console.log(jobInfo);
-
-      const [compCode, location] = target.split(".");
-
-      let compResult = companiesResult.find(v => v.code == compCode)
-      if (compResult) {
-        if (!compResult.input.includes(location)) {
-          compResult.input.push(location);
-        }
-      }
-
       let truck = jobInfo.company_truck;
       let cargo = jobInfo.cargo;
       let trailer = jobInfo.trailer_variant;
       let trailer2 = jobInfo.trailer_definition;
+
+      const [compCode, location] = target.split(".");
+
+
+      console.log(jobOffer)
+
+      console.log(jobInfo);
+
+
+      let compCargoResult = companiesResult.find(v=> v.code == comp.code);
+      if (compCargoResult) {
+        if (!compCargoResult.cargoOut.includes(cargo)) {
+          compCargoResult.cargoOut.push(cargo)
+        }
+      }
+
+      let compResult = companiesResult.find(v => v.code == compCode);
+
+      if (compResult) {
+        if (!compResult.input.includes(location)) {
+          compResult.input.push(location);
+        }
+
+        if (!compResult.cargoIn.includes(cargo)) {
+          compResult.cargoIn.push(cargo)
+        }
+      }
+
+      
 
       if (cargo && !cargos.includes(cargo)) cargos.push(cargo);
       if (truck && !trucks.includes(truck)) trucks.push(truck);
