@@ -1,0 +1,4228 @@
+[
+    {
+        "code": "gld_frm",
+        "name": "?",
+        "output": [
+            "dodge_city",
+            "marysville",
+            "colby",
+            "wichita_fall",
+            "lubbock",
+            "dalhart",
+            "amarillo",
+            "guymon"
+        ],
+        "input": [
+            "dalhart",
+            "wichita_fall",
+            "marysville",
+            "lubbock",
+            "amarillo",
+            "guymon",
+            "dodge_city",
+            "colby"
+        ]
+    },
+    {
+        "code": "gm_food_str",
+        "name": "?",
+        "output": [
+            "junction_cty",
+            "dodge_city",
+            "clinton",
+            "sidney",
+            "stockton",
+            "corpus_chris",
+            "beaumont",
+            "emporia",
+            "glasgow_mt",
+            "glendive",
+            "brownsville",
+            "enid",
+            "havre",
+            "lubbock",
+            "amarillo",
+            "guymon"
+        ],
+        "input": [
+            "lubbock",
+            "dodge_city",
+            "glasgow_mt",
+            "corpus_chris",
+            "guymon",
+            "amarillo",
+            "junction_cty",
+            "emporia",
+            "stockton",
+            "clinton",
+            "glendive",
+            "sidney",
+            "havre",
+            "enid",
+            "beaumont"
+        ]
+    },
+    {
+        "code": "flv_food_str",
+        "name": "?",
+        "output": [
+            "hutchinson",
+            "topeka",
+            "garden_city",
+            "kansas_ci_ks"
+        ],
+        "input": [
+            "garden_city",
+            "topeka",
+            "hutchinson"
+        ]
+    },
+    {
+        "code": "dri_oil_gst",
+        "name": "?",
+        "output": [
+            "san_diego",
+            "missoula",
+            "ogden",
+            "kalispell",
+            "lufkin",
+            "evanston",
+            "van_horn",
+            "butte",
+            "miles_city",
+            "salina_ks",
+            "sacramento"
+        ],
+        "input": []
+    },
+    {
+        "code": "sc_frm",
+        "name": "?",
+        "output": [
+            "indio",
+            "santa_maria",
+            "oxnard",
+            "nampa",
+            "bozeman",
+            "salina",
+            "colville",
+            "burns",
+            "provo",
+            "price",
+            "twin_falls",
+            "sacramento",
+            "winnemucca",
+            "kennewick",
+            "glasgow_mt",
+            "huron",
+            "modesto",
+            "fort_collins",
+            "pocatello",
+            "havre",
+            "sterling",
+            "santa_cruz",
+            "the_dalles",
+            "grangeville",
+            "riverton",
+            "ontario",
+            "omak",
+            "jackpot",
+            "yakima",
+            "roswell",
+            "cedar_city",
+            "burlington",
+            "san_simon",
+            "yuma",
+            "lamar",
+            "camp_verde",
+            "tucumcari"
+        ],
+        "input": [
+            "jackpot",
+            "glasgow_mt",
+            "the_dalles",
+            "sterling",
+            "riverton",
+            "modesto",
+            "oxnard",
+            "ontario",
+            "grangeville",
+            "roswell",
+            "havre",
+            "santa_maria",
+            "yakima",
+            "colville",
+            "fort_collins",
+            "santa_cruz",
+            "salina",
+            "cedar_city",
+            "san_simon",
+            "provo",
+            "burlington",
+            "price",
+            "sacramento",
+            "omak",
+            "nampa",
+            "lamar",
+            "camp_verde",
+            "bozeman",
+            "indio",
+            "yuma",
+            "burns",
+            "huron"
+        ]
+    },
+    {
+        "code": "bn_farm",
+        "name": "?",
+        "output": [
+            "el_centro",
+            "havre",
+            "the_dalles",
+            "medford",
+            "colville",
+            "jackson",
+            "yakima",
+            "miles_city",
+            "artesia",
+            "bend",
+            "salmon",
+            "huron",
+            "salina",
+            "lewistown",
+            "modesto",
+            "wenatchee",
+            "fort_collins",
+            "sterling",
+            "fresno",
+            "redding",
+            "rawlins",
+            "gillette",
+            "phoenix",
+            "burlington",
+            "lamar",
+            "holbrook"
+        ],
+        "input": [
+            "burlington",
+            "fresno",
+            "huron",
+            "yakima",
+            "modesto",
+            "rawlins",
+            "colville",
+            "wenatchee",
+            "salmon",
+            "redding",
+            "jackson",
+            "lamar",
+            "sterling",
+            "medford",
+            "the_dalles",
+            "lewistown",
+            "bend",
+            "el_centro",
+            "artesia",
+            "phoenix"
+        ]
+    },
+    {
+        "code": "pho_oil_gst",
+        "name": "?",
+        "output": [
+            "indio",
+            "dallas",
+            "enid",
+            "tacoma",
+            "fort_stockto",
+            "fort_worth",
+            "billings",
+            "topeka",
+            "idaho_falls",
+            "lamar",
+            "pueblo",
+            "cedar_city",
+            "burlington",
+            "las_vegas"
+        ],
+        "input": []
+    },
+    {
+        "code": "wp_oil_gst",
+        "name": "?",
+        "output": [
+            "bakersfield",
+            "barstow",
+            "redding"
+        ],
+        "input": []
+    },
+    {
+        "code": "gal_oil_gst",
+        "name": "?",
+        "output": [
+            "los_angeles",
+            "el_centro",
+            "modesto",
+            "junction_cty",
+            "laredo",
+            "omak",
+            "colville",
+            "havre",
+            "huntsville",
+            "pittsburg",
+            "grand_coulee",
+            "wenatchee",
+            "medford",
+            "yakima",
+            "tulsa",
+            "elko",
+            "hutchinson",
+            "farmington",
+            "g_canyon_vlg",
+            "clifton",
+            "nogales",
+            "holbrook",
+            "phoenix",
+            "san_simon",
+            "kayenta",
+            "flagstaff",
+            "socorro",
+            "las_cruces",
+            "alamogordo"
+        ],
+        "input": []
+    },
+    {
+        "code": "hau_oil_gst",
+        "name": "?",
+        "output": [
+            "primm",
+            "twin_falls",
+            "grand_juncti",
+            "rawlins",
+            "spokane",
+            "emporia",
+            "denver",
+            "waco",
+            "ardmore",
+            "cheyenne",
+            "abilene",
+            "odessa",
+            "lubbock"
+        ],
+        "input": []
+    },
+    {
+        "code": "h_castle",
+        "name": "?",
+        "output": [
+            "h_bracken"
+        ],
+        "input": []
+    },
+    {
+        "code": "st_met_whs",
+        "name": "?",
+        "output": [
+            "casper",
+            "san_angelo",
+            "spokane",
+            "hays",
+            "woodward",
+            "victoria",
+            "missoula",
+            "olympia",
+            "great_falls",
+            "ontario",
+            "the_dalles",
+            "enid",
+            "glendive",
+            "vancouver",
+            "eugene",
+            "pittsburg",
+            "lewiston",
+            "rock_springs",
+            "odessa",
+            "lubbock",
+            "el_centro"
+        ],
+        "input": [
+            "great_falls",
+            "casper",
+            "odessa",
+            "lubbock",
+            "lewiston",
+            "woodward",
+            "enid",
+            "spokane",
+            "eugene",
+            "vancouver",
+            "olympia",
+            "missoula",
+            "san_angelo",
+            "el_centro",
+            "the_dalles",
+            "glendive",
+            "rock_springs",
+            "victoria",
+            "ontario",
+            "hays",
+            "pittsburg"
+        ]
+    },
+    {
+        "code": "avs_met_scr",
+        "name": "?",
+        "output": [
+            "seattle",
+            "portland",
+            "rangely",
+            "junction_cty",
+            "laramie",
+            "los_angeles",
+            "everett",
+            "pendleton",
+            "modesto",
+            "port_angeles",
+            "coeur_dalene",
+            "oklahoma_cit",
+            "klamath_f",
+            "oakland",
+            "lewiston",
+            "salt_lake",
+            "glasgow_mt",
+            "logan",
+            "woodward",
+            "beaumont",
+            "fort_collins",
+            "moab",
+            "alamosa"
+        ],
+        "input": [
+            "oklahoma_cit",
+            "lewiston",
+            "pendleton",
+            "beaumont",
+            "laramie",
+            "los_angeles",
+            "moab",
+            "fort_collins",
+            "portland",
+            "coeur_dalene",
+            "everett",
+            "woodward",
+            "salt_lake",
+            "seattle",
+            "klamath_f",
+            "glasgow_mt",
+            "modesto",
+            "oakland",
+            "junction_cty"
+        ]
+    },
+    {
+        "code": "gp_farm",
+        "name": "?",
+        "output": [
+            "fort_worth",
+            "hays",
+            "guymon",
+            "emporia",
+            "waco",
+            "garden_city",
+            "san_antonio",
+            "amarillo",
+            "dalhart",
+            "lubbock"
+        ],
+        "input": [
+            "hays",
+            "fort_worth",
+            "lubbock",
+            "emporia",
+            "amarillo",
+            "guymon",
+            "garden_city",
+            "waco",
+            "dalhart",
+            "san_antonio"
+        ]
+    },
+    {
+        "code": "wal_mkt",
+        "name": "?",
+        "output": [
+            "hobbs",
+            "jackson",
+            "yakima",
+            "dallas",
+            "los_angeles",
+            "las_cruces",
+            "laurel",
+            "brownsville",
+            "laredo",
+            "redding",
+            "san_antonio",
+            "salem",
+            "pendleton",
+            "huntsville",
+            "coeur_dalene",
+            "astoria",
+            "ogden",
+            "helena",
+            "casper",
+            "seattle",
+            "sheridan",
+            "medford",
+            "ukiah",
+            "fort_collins",
+            "waco",
+            "havre",
+            "bellingham",
+            "provo",
+            "fresno",
+            "victoria",
+            "reno",
+            "mcalester",
+            "abilene",
+            "wichita",
+            "rock_springs",
+            "kalispell",
+            "fort_stockto",
+            "twin_falls",
+            "hays",
+            "topeka",
+            "colorado_spr",
+            "grand_juncti",
+            "guymon",
+            "tucson",
+            "santa_fe",
+            "show_low",
+            "cedar_city",
+            "alamosa",
+            "lamar",
+            "blythe",
+            "kingman",
+            "sierra_vista"
+        ],
+        "input": [
+            "abilene",
+            "victoria",
+            "ogden",
+            "colorado_spr",
+            "fresno",
+            "astoria",
+            "sheridan",
+            "tucson",
+            "salem",
+            "redding",
+            "fort_stockto",
+            "casper",
+            "blythe",
+            "fort_collins",
+            "guymon",
+            "coeur_dalene",
+            "havre",
+            "hays",
+            "lamar",
+            "provo",
+            "santa_fe",
+            "reno",
+            "ukiah",
+            "pendleton",
+            "hobbs",
+            "helena",
+            "waco",
+            "medford",
+            "twin_falls",
+            "dallas",
+            "rock_springs",
+            "kingman",
+            "show_low",
+            "los_angeles",
+            "alamosa",
+            "laredo",
+            "laurel",
+            "las_cruces",
+            "huntsville",
+            "cedar_city",
+            "mcalester",
+            "seattle",
+            "grand_juncti",
+            "topeka",
+            "wichita",
+            "brownsville"
+        ]
+    },
+    {
+        "code": "hms_con_svc",
+        "name": "?",
+        "output": [
+            "port_angeles",
+            "riverton",
+            "wenatchee",
+            "redding",
+            "everett",
+            "sandpoint",
+            "tacoma",
+            "bakersfield",
+            "pendleton",
+            "grangeville",
+            "great_falls",
+            "idaho_falls",
+            "missoula",
+            "oakland",
+            "rock_springs",
+            "steamboat_sp",
+            "vernal",
+            "coeur_dalene",
+            "salina",
+            "page",
+            "santa_fe",
+            "albuquerque",
+            "pueblo",
+            "flagstaff",
+            "san_diego",
+            "farmington",
+            "alamosa",
+            "kingman"
+        ],
+        "input": [
+            "steamboat_sp",
+            "bakersfield",
+            "page",
+            "tacoma",
+            "everett",
+            "pendleton",
+            "oakland",
+            "wenatchee",
+            "port_angeles",
+            "coeur_dalene",
+            "grangeville",
+            "redding",
+            "rock_springs",
+            "missoula",
+            "vernal",
+            "flagstaff",
+            "santa_fe",
+            "farmington",
+            "pueblo",
+            "salina",
+            "riverton",
+            "idaho_falls",
+            "great_falls",
+            "sandpoint",
+            "san_diego"
+        ]
+    },
+    {
+        "code": "asu_car_exp",
+        "name": "?",
+        "output": [
+            "san_antonio"
+        ],
+        "input": []
+    },
+    {
+        "code": "fb_farm_mkt",
+        "name": "?",
+        "output": [
+            "waco",
+            "woodward",
+            "sandpoint",
+            "grangeville",
+            "salmon",
+            "colby",
+            "rawlins",
+            "provo",
+            "gillette",
+            "huron",
+            "sidney",
+            "salina",
+            "nampa",
+            "lawton",
+            "tyler",
+            "kalispell",
+            "phillipsburg",
+            "jackson",
+            "montrose"
+        ],
+        "input": [
+            "sidney",
+            "tyler",
+            "salina",
+            "provo",
+            "sandpoint",
+            "waco",
+            "grangeville",
+            "woodward",
+            "huron"
+        ]
+    },
+    {
+        "code": "nls_rd_wrk",
+        "name": "?",
+        "output": [
+            "junction",
+            "lufkin",
+            "del_rio",
+            "galveston",
+            "victoria",
+            "hays",
+            "odessa",
+            "colby",
+            "longview_tx",
+            "pittsburg",
+            "laredo",
+            "hutchinson",
+            "fort_stockto",
+            "marysville",
+            "abilene"
+        ],
+        "input": [
+            "marysville",
+            "fort_stockto",
+            "del_rio",
+            "longview_tx",
+            "galveston",
+            "hutchinson",
+            "hays",
+            "victoria",
+            "colby",
+            "odessa",
+            "pittsburg",
+            "lufkin",
+            "laredo",
+            "junction"
+        ]
+    },
+    {
+        "code": "pnp_wd_pln",
+        "name": "?",
+        "output": [
+            "oxnard",
+            "aberdeen_wa",
+            "port_angeles",
+            "lewiston",
+            "lawton",
+            "longview",
+            "idabel",
+            "newport",
+            "eugene",
+            "hutchinson"
+        ],
+        "input": [
+            "aberdeen_wa",
+            "lewiston",
+            "longview",
+            "eugene",
+            "port_angeles",
+            "idabel",
+            "newport",
+            "hutchinson",
+            "lawton",
+            "oxnard"
+        ]
+    },
+    {
+        "code": "ai_car_whs",
+        "name": "?",
+        "output": [
+            "beaumont",
+            "steamboat_sp",
+            "oakland",
+            "sidney",
+            "lewiston",
+            "missoula",
+            "el_paso",
+            "hilt",
+            "junction_cty",
+            "del_rio",
+            "bakersfield",
+            "alamosa"
+        ],
+        "input": [
+            "lewiston",
+            "steamboat_sp",
+            "hilt",
+            "missoula",
+            "oakland",
+            "alamosa",
+            "beaumont",
+            "del_rio",
+            "sidney"
+        ]
+    },
+    {
+        "code": "gal_oil_str",
+        "name": "?",
+        "output": [
+            "cheyenne",
+            "fresno",
+            "glendive",
+            "winnemucca",
+            "tucson"
+        ],
+        "input": [
+            "fresno"
+        ]
+    },
+    {
+        "code": "dc_car_dlr",
+        "name": "?",
+        "output": [
+            "kalispell",
+            "pocatello",
+            "laramie",
+            "evanston",
+            "eureka",
+            "miles_city",
+            "tacoma",
+            "lewistown",
+            "salmon",
+            "rangely",
+            "jackson",
+            "redding",
+            "grand_juncti",
+            "glendive",
+            "coeur_dalene",
+            "colorado_spr",
+            "montrose",
+            "alamosa",
+            "pueblo",
+            "durango",
+            "burlington"
+        ],
+        "input": [
+            "rangely",
+            "miles_city",
+            "jackson",
+            "evanston",
+            "redding",
+            "laramie",
+            "coeur_dalene",
+            "eureka",
+            "tacoma",
+            "colorado_spr",
+            "durango",
+            "lewistown"
+        ]
+    },
+    {
+        "code": "tay_con_sit2",
+        "name": "?",
+        "output": [
+            "lufkin",
+            "texarkana",
+            "longview_tx",
+            "garden_city"
+        ],
+        "input": [
+            "texarkana",
+            "lufkin",
+            "longview_tx",
+            "garden_city"
+        ]
+    },
+    {
+        "code": "cm_min_plnt",
+        "name": "?",
+        "output": [
+            "astoria",
+            "pocatello",
+            "eugene",
+            "seattle",
+            "sacramento",
+            "ontario",
+            "mojave",
+            "twin_falls",
+            "st_george"
+        ],
+        "input": [
+            "eugene",
+            "astoria",
+            "seattle",
+            "sacramento",
+            "pocatello",
+            "st_george",
+            "mojave",
+            "ontario",
+            "twin_falls"
+        ]
+    },
+    {
+        "code": "lum_car_dlr",
+        "name": "?",
+        "output": [
+            "modesto",
+            "reno",
+            "san_francisc",
+            "port_angeles",
+            "santa_maria",
+            "los_angeles",
+            "oxnard",
+            "astoria",
+            "elko",
+            "newport",
+            "spokane",
+            "bend",
+            "san_jose",
+            "carlsbad_nm",
+            "medford",
+            "albuquerque",
+            "alamogordo",
+            "santa_fe",
+            "las_vegas",
+            "show_low"
+        ],
+        "input": [
+            "bend",
+            "elko",
+            "modesto",
+            "reno",
+            "astoria",
+            "show_low",
+            "los_angeles",
+            "alamogordo",
+            "oxnard",
+            "santa_maria"
+        ]
+    },
+    {
+        "code": "dg_wd_hrv",
+        "name": "?",
+        "output": [
+            "coeur_dalene",
+            "salem",
+            "bellingham",
+            "redding",
+            "medford",
+            "longview",
+            "bend",
+            "astoria",
+            "thompson_f",
+            "missoula",
+            "eureka",
+            "steamboat_sp",
+            "sandpoint",
+            "grangeville",
+            "aberdeen_wa",
+            "newport"
+        ],
+        "input": []
+    },
+    {
+        "code": "wld_frm_str",
+        "name": "?",
+        "output": [
+            "ardmore",
+            "missoula",
+            "bozeman",
+            "topeka",
+            "modesto",
+            "amarillo"
+        ],
+        "input": [
+            "missoula",
+            "topeka",
+            "bozeman",
+            "modesto",
+            "amarillo",
+            "ardmore"
+        ]
+    },
+    {
+        "code": "sg_whs",
+        "name": "?",
+        "output": [
+            "san_jose",
+            "sacramento",
+            "santa_maria",
+            "oakland",
+            "salt_lake",
+            "astoria",
+            "cody",
+            "cheyenne",
+            "coos_bay",
+            "fort_collins",
+            "redding",
+            "thompson_f",
+            "ketchum",
+            "olympia",
+            "jackpot",
+            "las_cruces",
+            "everett",
+            "glendive",
+            "wenatchee",
+            "butte",
+            "burns",
+            "colorado_spr",
+            "moab",
+            "barstow",
+            "camp_verde",
+            "kingman",
+            "santa_fe",
+            "nogales",
+            "alamogordo",
+            "phoenix",
+            "blythe",
+            "roswell"
+        ],
+        "input": [
+            "butte",
+            "ketchum",
+            "astoria",
+            "glendive",
+            "burns",
+            "thompson_f",
+            "san_jose",
+            "salt_lake",
+            "olympia",
+            "moab",
+            "colorado_spr",
+            "blythe",
+            "barstow",
+            "coos_bay",
+            "santa_fe",
+            "jackpot",
+            "kingman",
+            "sacramento",
+            "everett",
+            "wenatchee",
+            "fort_collins",
+            "phoenix",
+            "camp_verde",
+            "las_cruces",
+            "redding",
+            "roswell",
+            "nogales",
+            "alamogordo",
+            "cheyenne",
+            "cody",
+            "santa_maria",
+            "oakland"
+        ]
+    },
+    {
+        "code": "pt_trk_dlr",
+        "name": "?",
+        "output": [
+            "idaho_falls",
+            "tacoma",
+            "fort_worth",
+            "bakersfield",
+            "casper",
+            "billings",
+            "vernal",
+            "medford",
+            "garden_city",
+            "reno",
+            "lubbock",
+            "montrose",
+            "albuquerque",
+            "san_diego",
+            "yuma"
+        ],
+        "input": [
+            "albuquerque",
+            "medford"
+        ]
+    },
+    {
+        "code": "cm_min_qry",
+        "name": "?",
+        "output": [
+            "elko",
+            "vancouver",
+            "carson_city",
+            "vernal",
+            "clifton",
+            "holbrook",
+            "nogales",
+            "kayenta",
+            "cedar_city",
+            "sierra_vista"
+        ],
+        "input": [
+            "vancouver",
+            "cedar_city",
+            "kayenta",
+            "holbrook",
+            "sierra_vista",
+            "nogales",
+            "vernal",
+            "elko"
+        ]
+    },
+    {
+        "code": "pns_con_whs",
+        "name": "?",
+        "output": [
+            "hobbs",
+            "logan",
+            "lewistown",
+            "coos_bay",
+            "ely",
+            "evanston",
+            "salina",
+            "helena",
+            "san_jose",
+            "eureka",
+            "nogales",
+            "gallup",
+            "indio",
+            "tucson",
+            "st_george",
+            "socorro",
+            "raton"
+        ],
+        "input": [
+            "gallup",
+            "coos_bay",
+            "socorro",
+            "eureka",
+            "salina",
+            "nogales",
+            "ely",
+            "helena",
+            "evanston",
+            "tucson",
+            "logan",
+            "indio",
+            "lewistown",
+            "hobbs",
+            "raton",
+            "san_jose"
+        ]
+    },
+    {
+        "code": "hs_mkt",
+        "name": "?",
+        "output": [
+            "vernal",
+            "coeur_dalene",
+            "pittsburg",
+            "san_jose",
+            "the_dalles",
+            "wichita_fall",
+            "sterling",
+            "sandpoint",
+            "dallas",
+            "brownsville",
+            "billings",
+            "mcalester",
+            "spokane",
+            "kennewick",
+            "salem",
+            "corpus_chris",
+            "idaho_falls",
+            "newport",
+            "huntsville",
+            "del_rio",
+            "twin_falls",
+            "laramie",
+            "truckee",
+            "santa_cruz",
+            "modesto",
+            "great_falls",
+            "olympia",
+            "redding",
+            "lawton",
+            "fort_collins",
+            "los_angeles",
+            "cheyenne",
+            "topeka",
+            "abilene",
+            "ontario",
+            "pueblo",
+            "durango",
+            "st_george",
+            "grand_juncti"
+        ],
+        "input": [
+            "great_falls",
+            "twin_falls",
+            "coeur_dalene",
+            "the_dalles",
+            "grand_juncti",
+            "pueblo",
+            "durango",
+            "cheyenne",
+            "kennewick",
+            "spokane",
+            "santa_cruz",
+            "wichita_fall",
+            "redding",
+            "billings",
+            "mcalester",
+            "sandpoint",
+            "lawton",
+            "vernal",
+            "brownsville",
+            "ontario",
+            "olympia",
+            "st_george",
+            "los_angeles",
+            "idaho_falls",
+            "truckee",
+            "newport",
+            "laramie",
+            "fort_collins",
+            "dallas",
+            "salem",
+            "corpus_chris",
+            "huntsville"
+        ]
+    },
+    {
+        "code": "frd_epw_sit",
+        "name": "?",
+        "output": [
+            "idabel",
+            "butte",
+            "van_horn",
+            "enid",
+            "emporia",
+            "havre",
+            "glasgow_mt",
+            "longview_tx",
+            "dallas"
+        ],
+        "input": [
+            "glasgow_mt",
+            "enid",
+            "butte",
+            "havre",
+            "dallas",
+            "emporia",
+            "longview_tx",
+            "idabel"
+        ]
+    },
+    {
+        "code": "ent_whs",
+        "name": "?",
+        "output": [
+            "eugene",
+            "idaho_falls",
+            "bozeman",
+            "wenatchee",
+            "wichita_fall",
+            "wichita",
+            "oklahoma_cit",
+            "boise",
+            "elko",
+            "olympia",
+            "hobbs",
+            "gillette",
+            "guymon",
+            "denver",
+            "helena",
+            "portland",
+            "sacramento",
+            "tulsa",
+            "redding",
+            "cheyenne",
+            "tyler",
+            "austin",
+            "colville",
+            "las_cruces",
+            "dallas",
+            "fresno",
+            "waco",
+            "longview_tx",
+            "kansas_ci_ks",
+            "ogden",
+            "san_antonio",
+            "stockton",
+            "flagstaff",
+            "kingman",
+            "tucson",
+            "albuquerque",
+            "las_vegas",
+            "phoenix",
+            "clovis",
+            "los_angeles",
+            "colorado_spr",
+            "san_diego",
+            "montrose"
+        ],
+        "input": [
+            "wichita",
+            "clovis",
+            "guymon",
+            "san_diego",
+            "los_angeles",
+            "fresno",
+            "wenatchee",
+            "portland",
+            "tucson",
+            "phoenix",
+            "colville",
+            "helena",
+            "stockton",
+            "cheyenne",
+            "oklahoma_cit",
+            "kansas_ci_ks",
+            "waco",
+            "tulsa",
+            "austin",
+            "ogden",
+            "san_antonio",
+            "las_vegas",
+            "flagstaff",
+            "dallas",
+            "idaho_falls",
+            "olympia",
+            "montrose",
+            "eugene",
+            "sacramento",
+            "bozeman",
+            "denver",
+            "colorado_spr",
+            "boise",
+            "hobbs",
+            "las_cruces",
+            "elko",
+            "wichita_fall",
+            "tyler",
+            "longview_tx",
+            "albuquerque",
+            "kingman",
+            "redding"
+        ]
+    },
+    {
+        "code": "bit_rd_grg",
+        "name": "?",
+        "output": [
+            "san_francisc",
+            "los_angeles",
+            "truckee",
+            "flagstaff",
+            "g_canyon_vlg",
+            "raton",
+            "roswell",
+            "tucson",
+            "sierra_vista"
+        ],
+        "input": [
+            "truckee",
+            "g_canyon_vlg",
+            "raton",
+            "flagstaff",
+            "san_francisc",
+            "los_angeles"
+        ]
+    },
+    {
+        "code": "gal_oil_ref",
+        "name": "?",
+        "output": [
+            "oakland",
+            "rawlins",
+            "laurel",
+            "ely",
+            "tacoma",
+            "casper",
+            "los_angeles",
+            "oxnard",
+            "page"
+        ],
+        "input": [
+            "los_angeles",
+            "rawlins",
+            "casper",
+            "laurel",
+            "ely",
+            "oxnard",
+            "oakland"
+        ]
+    },
+    {
+        "code": "nmq_min_qry",
+        "name": "?",
+        "output": [
+            "emporia",
+            "fort_worth",
+            "ardmore",
+            "odessa",
+            "san_antonio",
+            "sheridan",
+            "tyler",
+            "bozeman",
+            "idabel",
+            "santa_fe",
+            "montrose",
+            "socorro",
+            "raton",
+            "colorado_spr"
+        ],
+        "input": [
+            "emporia",
+            "ardmore",
+            "socorro",
+            "colorado_spr",
+            "raton",
+            "montrose",
+            "san_antonio",
+            "fort_worth",
+            "santa_fe",
+            "sheridan",
+            "odessa",
+            "tyler",
+            "idabel"
+        ]
+    },
+    {
+        "code": "pet_oil_well",
+        "name": "?",
+        "output": [
+            "san_angelo",
+            "enid",
+            "hays",
+            "corpus_chris",
+            "waco",
+            "wichita_fall",
+            "san_antonio",
+            "victoria",
+            "odessa",
+            "fort_stockto",
+            "lubbock"
+        ],
+        "input": [
+            "san_antonio",
+            "hays",
+            "lubbock",
+            "wichita_fall",
+            "fort_stockto",
+            "victoria",
+            "corpus_chris",
+            "odessa",
+            "san_angelo"
+        ]
+    },
+    {
+        "code": "tch_el_pln",
+        "name": "?",
+        "output": [
+            "oklahoma_cit",
+            "wichita"
+        ],
+        "input": [
+            "oklahoma_cit",
+            "wichita"
+        ]
+    },
+    {
+        "code": "chm_che_plnt",
+        "name": "?",
+        "output": [
+            "pocatello",
+            "ogden",
+            "vernal",
+            "cheyenne",
+            "bakersfield",
+            "artesia",
+            "billings",
+            "phoenix",
+            "gallup"
+        ],
+        "input": [
+            "vernal",
+            "pocatello",
+            "bakersfield",
+            "artesia",
+            "gallup",
+            "phoenix",
+            "ogden"
+        ]
+    },
+    {
+        "code": "fb_farm_pln",
+        "name": "?",
+        "output": [
+            "dodge_city",
+            "fort_collins",
+            "miles_city",
+            "logan",
+            "great_falls",
+            "lewiston",
+            "guymon",
+            "sacramento",
+            "tyler",
+            "sterling",
+            "boise",
+            "el_centro",
+            "lamar"
+        ],
+        "input": [
+            "dodge_city",
+            "lamar",
+            "miles_city",
+            "sacramento",
+            "tyler",
+            "great_falls",
+            "el_centro",
+            "logan",
+            "boise",
+            "lewiston",
+            "fort_collins",
+            "guymon",
+            "sterling"
+        ]
+    },
+    {
+        "code": "hf_wd_pln",
+        "name": "?",
+        "output": [
+            "klamath_f",
+            "bend",
+            "pittsburg",
+            "oakland",
+            "san_angelo",
+            "medford",
+            "austin",
+            "sheridan",
+            "lakeview"
+        ],
+        "input": [
+            "austin",
+            "oakland",
+            "sheridan",
+            "bend",
+            "pittsburg",
+            "klamath_f",
+            "medford",
+            "lakeview"
+        ]
+    },
+    {
+        "code": "aro_oil_gst",
+        "name": "?",
+        "output": [
+            "san_jose",
+            "salina",
+            "garden_city",
+            "ontario",
+            "del_rio",
+            "tonopah",
+            "fresno"
+        ],
+        "input": []
+    },
+    {
+        "code": "mon_farm",
+        "name": "?",
+        "output": [
+            "ukiah",
+            "lubbock",
+            "nampa",
+            "salem",
+            "austin",
+            "sacramento",
+            "fresno",
+            "san_simon",
+            "san_diego",
+            "camp_verde"
+        ],
+        "input": [
+            "san_diego",
+            "ukiah",
+            "camp_verde"
+        ]
+    },
+    {
+        "code": "ven_whs",
+        "name": "?",
+        "output": [
+            "lufkin",
+            "evanston",
+            "san_francisc",
+            "los_angeles",
+            "tacoma",
+            "bend",
+            "winnemucca",
+            "medford",
+            "twin_falls",
+            "ogden",
+            "woodward",
+            "mcallen",
+            "grangeville",
+            "el_paso",
+            "steamboat_sp",
+            "denver",
+            "sacramento",
+            "longview_tx",
+            "eugene",
+            "wenatchee",
+            "helena",
+            "billings",
+            "dallas",
+            "junction_cty",
+            "garden_city",
+            "gillette",
+            "oklahoma_cit",
+            "junction",
+            "modesto",
+            "flagstaff",
+            "phoenix",
+            "yuma",
+            "cedar_city",
+            "albuquerque",
+            "lubbock",
+            "tucumcari"
+        ],
+        "input": [
+            "lubbock",
+            "billings",
+            "lufkin",
+            "helena",
+            "junction_cty",
+            "ogden",
+            "los_angeles",
+            "denver",
+            "eugene",
+            "cedar_city",
+            "sacramento",
+            "tacoma",
+            "medford",
+            "evanston",
+            "wenatchee",
+            "woodward",
+            "garden_city",
+            "oklahoma_cit",
+            "bend",
+            "mcallen",
+            "grangeville",
+            "el_paso",
+            "phoenix",
+            "san_francisc",
+            "longview_tx",
+            "twin_falls",
+            "dallas",
+            "modesto",
+            "winnemucca",
+            "tucumcari",
+            "flagstaff",
+            "yuma",
+            "albuquerque",
+            "gillette",
+            "junction",
+            "steamboat_sp"
+        ]
+    },
+    {
+        "code": "ed_mkt",
+        "name": "?",
+        "output": [
+            "spokane",
+            "san_francisc",
+            "reno",
+            "grangeville",
+            "elko",
+            "bend",
+            "salmon",
+            "cheyenne",
+            "omak",
+            "logan",
+            "aberdeen_wa",
+            "ketchum",
+            "san_diego",
+            "colville",
+            "ontario",
+            "burns",
+            "ely",
+            "eugene",
+            "sierra_vista",
+            "las_vegas",
+            "barstow",
+            "camp_verde",
+            "moab",
+            "tucumcari",
+            "alamogordo",
+            "yuma",
+            "raton",
+            "flagstaff",
+            "farmington",
+            "clovis",
+            "santa_fe"
+        ],
+        "input": [
+            "moab",
+            "ontario",
+            "burns",
+            "logan",
+            "spokane",
+            "santa_fe",
+            "bend",
+            "omak",
+            "eugene",
+            "flagstaff",
+            "tucumcari",
+            "san_francisc",
+            "elko",
+            "aberdeen_wa",
+            "farmington",
+            "clovis",
+            "barstow",
+            "camp_verde",
+            "raton",
+            "yuma",
+            "reno",
+            "salmon",
+            "cheyenne",
+            "alamogordo",
+            "san_diego"
+        ]
+    },
+    {
+        "code": "kw_trk_dlr",
+        "name": "?",
+        "output": [
+            "emporia",
+            "san_antonio",
+            "portland",
+            "abilene",
+            "hobbs",
+            "rock_springs",
+            "price",
+            "ogden",
+            "ardmore",
+            "los_angeles",
+            "missoula",
+            "seattle",
+            "elko",
+            "pueblo",
+            "phoenix"
+        ],
+        "input": [
+            "hobbs",
+            "missoula",
+            "los_angeles"
+        ]
+    },
+    {
+        "code": "pns_con_sit1",
+        "name": "?",
+        "output": [
+            "san_francisc",
+            "carson_city",
+            "carlsbad_nm",
+            "los_angeles",
+            "holbrook",
+            "nogales",
+            "clovis"
+        ],
+        "input": [
+            "clovis",
+            "san_francisc",
+            "holbrook",
+            "carlsbad_nm",
+            "los_angeles",
+            "carson_city"
+        ]
+    },
+    {
+        "code": "cm_min_str",
+        "name": "?",
+        "output": [
+            "logan",
+            "kennewick",
+            "spokane",
+            "colville",
+            "grangeville",
+            "pioche",
+            "burns",
+            "port_angeles",
+            "santa_maria",
+            "salmon",
+            "provo",
+            "yakima",
+            "sandpoint",
+            "olympia",
+            "salem",
+            "grand_coulee",
+            "twin_falls",
+            "redding",
+            "santa_cruz",
+            "stockton",
+            "salt_lake",
+            "lakeview",
+            "salina",
+            "san_diego",
+            "phoenix",
+            "moab"
+        ],
+        "input": [
+            "stockton",
+            "kennewick",
+            "twin_falls",
+            "san_diego",
+            "colville",
+            "sandpoint",
+            "salem",
+            "olympia",
+            "santa_maria",
+            "burns",
+            "moab",
+            "provo"
+        ]
+    },
+    {
+        "code": "gp_live_auc",
+        "name": "?",
+        "output": [
+            "mcalester",
+            "fort_worth",
+            "woodward",
+            "colby",
+            "dodge_city",
+            "victoria",
+            "lubbock",
+            "dalhart",
+            "guymon"
+        ],
+        "input": [
+            "guymon",
+            "victoria",
+            "colby",
+            "woodward",
+            "dodge_city",
+            "dalhart",
+            "lubbock",
+            "fort_worth",
+            "mcalester"
+        ]
+    },
+    {
+        "code": "pns_con_sit2",
+        "name": "?",
+        "output": [
+            "helena",
+            "idaho_falls",
+            "salt_lake",
+            "twin_falls",
+            "sandpoint",
+            "boise",
+            "coeur_dalene",
+            "eureka",
+            "burns",
+            "kalispell",
+            "casper",
+            "pocatello",
+            "medford",
+            "grand_coulee",
+            "lakeview",
+            "san_francisc",
+            "kennewick",
+            "bend",
+            "newport",
+            "ketchum",
+            "rawlins"
+        ],
+        "input": [
+            "idaho_falls",
+            "san_francisc",
+            "ketchum",
+            "bend",
+            "twin_falls",
+            "kennewick",
+            "boise",
+            "kalispell",
+            "lakeview",
+            "salt_lake",
+            "medford",
+            "coeur_dalene",
+            "casper",
+            "rawlins",
+            "newport",
+            "eureka",
+            "sandpoint",
+            "grand_coulee",
+            "pocatello",
+            "helena"
+        ]
+    },
+    {
+        "code": "port_sea",
+        "name": "?",
+        "output": [
+            "seattle"
+        ],
+        "input": [
+            "seattle"
+        ]
+    },
+    {
+        "code": "vor_oil_gst",
+        "name": "?",
+        "output": [
+            "san_antonio",
+            "victoria",
+            "woodward",
+            "stockton"
+        ],
+        "input": []
+    },
+    {
+        "code": "apa_car_whs",
+        "name": "?",
+        "output": [
+            "laramie",
+            "riverton",
+            "las_cruces",
+            "astoria",
+            "havre",
+            "thompson_f",
+            "fresno",
+            "reno",
+            "pendleton",
+            "carlsbad_nm",
+            "port_angeles",
+            "salt_lake",
+            "sacramento",
+            "eugene",
+            "idaho_falls",
+            "santa_fe",
+            "flagstaff",
+            "albuquerque",
+            "montrose",
+            "nogales",
+            "yuma",
+            "las_vegas"
+        ],
+        "input": [
+            "idaho_falls",
+            "astoria",
+            "pendleton",
+            "eugene",
+            "salt_lake",
+            "montrose",
+            "reno",
+            "sacramento",
+            "carlsbad_nm",
+            "riverton",
+            "albuquerque",
+            "santa_fe",
+            "fresno",
+            "las_vegas",
+            "yuma",
+            "nogales"
+        ]
+    },
+    {
+        "code": "gm_food_plnt",
+        "name": "?",
+        "output": [
+            "dodge_city",
+            "bozeman",
+            "san_antonio",
+            "guymon",
+            "lufkin",
+            "oklahoma_cit",
+            "billings",
+            "stockton",
+            "yakima",
+            "clinton",
+            "ontario",
+            "emporia",
+            "huron",
+            "hutchinson",
+            "sterling",
+            "dalhart",
+            "amarillo",
+            "indio",
+            "cedar_city",
+            "albuquerque",
+            "roswell"
+        ],
+        "input": [
+            "hutchinson",
+            "emporia",
+            "oklahoma_cit",
+            "roswell",
+            "clinton",
+            "amarillo",
+            "billings",
+            "dalhart",
+            "dodge_city",
+            "indio",
+            "huron",
+            "cedar_city",
+            "ontario",
+            "stockton",
+            "sterling",
+            "bozeman",
+            "guymon",
+            "yakima",
+            "lufkin",
+            "albuquerque"
+        ]
+    },
+    {
+        "code": "eg_che_str",
+        "name": "?",
+        "output": [
+            "enid",
+            "idabel",
+            "colby",
+            "dodge_city"
+        ],
+        "input": [
+            "colby",
+            "dodge_city",
+            "idabel",
+            "enid"
+        ]
+    },
+    {
+        "code": "vp_epw_pln",
+        "name": "?",
+        "output": [
+            "abilene",
+            "hutchinson",
+            "pueblo"
+        ],
+        "input": [
+            "hutchinson",
+            "pueblo"
+        ]
+    },
+    {
+        "code": "mr_cot_pln",
+        "name": "?",
+        "output": [
+            "san_antonio",
+            "corpus_chris",
+            "odessa",
+            "victoria",
+            "lawton",
+            "lubbock",
+            "amarillo"
+        ],
+        "input": [
+            "lubbock",
+            "odessa",
+            "corpus_chris",
+            "san_antonio",
+            "victoria"
+        ]
+    },
+    {
+        "code": "sh_shp_plnt",
+        "name": "?",
+        "output": [
+            "victoria",
+            "bellingham",
+            "everett"
+        ],
+        "input": [
+            "everett"
+        ]
+    },
+    {
+        "code": "dg_wd_saw1",
+        "name": "?",
+        "output": [
+            "eureka",
+            "jackson",
+            "longview",
+            "coos_bay",
+            "truckee",
+            "bellingham",
+            "thompson_f",
+            "astoria",
+            "pendleton",
+            "sandpoint",
+            "klamath_f",
+            "aberdeen_wa",
+            "olympia",
+            "colville",
+            "laurel",
+            "boise",
+            "montrose",
+            "pueblo"
+        ],
+        "input": [
+            "longview",
+            "astoria",
+            "sandpoint",
+            "pueblo",
+            "laurel",
+            "colville",
+            "klamath_f",
+            "bellingham",
+            "coos_bay",
+            "aberdeen_wa",
+            "eureka",
+            "pendleton",
+            "thompson_f",
+            "truckee",
+            "montrose"
+        ]
+    },
+    {
+        "code": "dpw_oil_svc",
+        "name": "?",
+        "output": [
+            "odessa",
+            "mcalester",
+            "hays",
+            "enid",
+            "fort_stockto",
+            "laredo",
+            "victoria"
+        ],
+        "input": [
+            "hays",
+            "odessa",
+            "victoria",
+            "mcalester",
+            "enid"
+        ]
+    },
+    {
+        "code": "aport_ult",
+        "name": "?",
+        "output": [
+            "fort_worth",
+            "los_angeles",
+            "houston",
+            "wichita",
+            "denver",
+            "albuquerque"
+        ],
+        "input": [
+            "denver",
+            "albuquerque",
+            "los_angeles",
+            "fort_worth"
+        ]
+    },
+    {
+        "code": "nmq_min_str",
+        "name": "?",
+        "output": [
+            "riverton",
+            "waco",
+            "corpus_chris",
+            "havre",
+            "huntsville",
+            "laramie",
+            "glendive",
+            "lufkin",
+            "pittsburg",
+            "junction",
+            "butte",
+            "sheridan",
+            "lubbock",
+            "burlington",
+            "gallup",
+            "santa_fe",
+            "farmington",
+            "raton"
+        ],
+        "input": [
+            "junction",
+            "lubbock",
+            "pittsburg",
+            "huntsville",
+            "farmington",
+            "gallup",
+            "sheridan",
+            "lufkin",
+            "waco",
+            "santa_fe",
+            "butte",
+            "riverton",
+            "burlington",
+            "raton"
+        ]
+    },
+    {
+        "code": "nmq_min_plnt",
+        "name": "?",
+        "output": [
+            "pittsburg",
+            "austin",
+            "raton",
+            "albuquerque"
+        ],
+        "input": [
+            "raton",
+            "albuquerque",
+            "austin"
+        ]
+    },
+    {
+        "code": "equ_whs",
+        "name": "?",
+        "output": [
+            "mcalester",
+            "longview_tx",
+            "marysville",
+            "laredo",
+            "lawton",
+            "salina_ks",
+            "brownsville",
+            "dallas",
+            "beaumont",
+            "mcallen",
+            "enid",
+            "odessa",
+            "dodge_city",
+            "austin"
+        ],
+        "input": [
+            "odessa",
+            "salina_ks",
+            "longview_tx",
+            "lawton",
+            "mcallen",
+            "laredo",
+            "austin",
+            "dallas",
+            "mcalester",
+            "brownsville",
+            "marysville",
+            "dodge_city",
+            "enid",
+            "beaumont"
+        ]
+    },
+    {
+        "code": "sht_mkt",
+        "name": "?",
+        "output": [
+            "santa_maria",
+            "portland",
+            "wichita_fall",
+            "austin",
+            "san_angelo",
+            "evanston",
+            "price",
+            "nampa",
+            "bozeman",
+            "truckee",
+            "emporia",
+            "steamboat_sp",
+            "modesto",
+            "del_rio",
+            "salt_lake",
+            "oklahoma_cit",
+            "dodge_city",
+            "el_paso",
+            "eureka",
+            "kennewick",
+            "bend",
+            "sterling",
+            "corpus_chris",
+            "great_falls",
+            "coos_bay",
+            "salina_ks",
+            "mcallen",
+            "olympia",
+            "cody",
+            "everett",
+            "rawlins",
+            "houston",
+            "sandpoint",
+            "miles_city",
+            "riverton",
+            "lufkin",
+            "roswell",
+            "durango",
+            "primm",
+            "denver",
+            "page",
+            "nogales",
+            "st_george",
+            "amarillo",
+            "socorro",
+            "las_vegas",
+            "pueblo",
+            "gallup"
+        ],
+        "input": [
+            "emporia",
+            "salina_ks",
+            "dodge_city",
+            "mcallen",
+            "great_falls",
+            "sandpoint",
+            "salt_lake",
+            "sterling",
+            "kennewick",
+            "riverton",
+            "nogales",
+            "socorro",
+            "austin",
+            "pueblo",
+            "san_angelo",
+            "coos_bay",
+            "portland",
+            "bozeman",
+            "gallup",
+            "santa_maria",
+            "page",
+            "oklahoma_cit",
+            "steamboat_sp",
+            "price",
+            "truckee",
+            "wichita_fall",
+            "durango",
+            "del_rio",
+            "rawlins",
+            "las_vegas",
+            "roswell",
+            "modesto",
+            "amarillo",
+            "miles_city",
+            "bend",
+            "st_george",
+            "primm",
+            "corpus_chris",
+            "evanston"
+        ]
+    },
+    {
+        "code": "tid_mkt",
+        "name": "?",
+        "output": [
+            "portland",
+            "butte",
+            "carlsbad_nm",
+            "helena",
+            "wenatchee",
+            "glasgow_mt",
+            "rangely",
+            "ontario",
+            "port_angeles",
+            "medford",
+            "vancouver",
+            "grand_coulee",
+            "newport",
+            "socorro",
+            "holbrook",
+            "clifton",
+            "g_canyon_vlg",
+            "albuquerque",
+            "durango",
+            "kayenta"
+        ],
+        "input": [
+            "glasgow_mt",
+            "helena",
+            "ontario",
+            "wenatchee",
+            "medford",
+            "vancouver",
+            "albuquerque",
+            "carlsbad_nm",
+            "g_canyon_vlg",
+            "newport",
+            "portland",
+            "grand_coulee",
+            "holbrook",
+            "port_angeles",
+            "kayenta",
+            "butte",
+            "rangely"
+        ]
+    },
+    {
+        "code": "sb_whs",
+        "name": "?",
+        "output": [
+            "bozeman",
+            "missoula",
+            "oxnard",
+            "casper",
+            "logan",
+            "santa_cruz",
+            "jackson",
+            "newport",
+            "san_jose",
+            "mojave",
+            "bellingham",
+            "wenatchee",
+            "carson_city",
+            "kennewick",
+            "sacramento",
+            "grand_juncti",
+            "lakeview",
+            "artesia",
+            "page",
+            "el_centro",
+            "show_low",
+            "lamar",
+            "phoenix",
+            "albuquerque"
+        ],
+        "input": [
+            "lamar",
+            "el_centro",
+            "mojave",
+            "jackson",
+            "missoula",
+            "casper",
+            "bellingham",
+            "kennewick",
+            "san_jose",
+            "santa_cruz",
+            "oxnard",
+            "sacramento",
+            "wenatchee",
+            "lakeview",
+            "logan",
+            "phoenix",
+            "grand_juncti",
+            "page",
+            "show_low",
+            "bozeman",
+            "artesia",
+            "newport",
+            "carson_city",
+            "albuquerque"
+        ]
+    },
+    {
+        "code": "myr_wd_mkt",
+        "name": "?",
+        "output": [
+            "emporia",
+            "oklahoma_cit",
+            "lawton",
+            "hays",
+            "ardmore"
+        ],
+        "input": [
+            "hays",
+            "emporia",
+            "oklahoma_cit",
+            "ardmore",
+            "lawton"
+        ]
+    },
+    {
+        "code": "42p_pck_pln",
+        "name": "?",
+        "output": [
+            "los_angeles",
+            "great_falls",
+            "pittsburg",
+            "abilene",
+            "colorado_spr"
+        ],
+        "input": [
+            "abilene",
+            "colorado_spr",
+            "los_angeles",
+            "pittsburg",
+            "great_falls"
+        ]
+    },
+    {
+        "code": "aml_rail_str",
+        "name": "?",
+        "output": [
+            "havre",
+            "cheyenne",
+            "bakersfield",
+            "laurel"
+        ],
+        "input": [
+            "havre",
+            "laurel",
+            "bakersfield",
+            "cheyenne"
+        ]
+    },
+    {
+        "code": "gol_trk_pln",
+        "name": "?",
+        "output": [
+            "casper"
+        ],
+        "input": [
+            "casper"
+        ]
+    },
+    {
+        "code": "gal_oil_well",
+        "name": "?",
+        "output": [
+            "bakersfield"
+        ],
+        "input": [
+            "bakersfield"
+        ]
+    },
+    {
+        "code": "nmq_min_qrys",
+        "name": "?",
+        "output": [
+            "hutchinson"
+        ],
+        "input": [
+            "hutchinson"
+        ]
+    },
+    {
+        "code": "elm_whs",
+        "name": "?",
+        "output": [
+            "clinton",
+            "ardmore",
+            "phillipsburg",
+            "mcallen",
+            "austin",
+            "abilene",
+            "san_antonio",
+            "emporia",
+            "brownsville",
+            "dallas"
+        ],
+        "input": [
+            "phillipsburg",
+            "dallas",
+            "abilene",
+            "san_antonio",
+            "emporia",
+            "ardmore",
+            "austin",
+            "clinton",
+            "mcallen",
+            "brownsville"
+        ]
+    },
+    {
+        "code": "aport_elp",
+        "name": "?",
+        "output": [
+            "el_paso"
+        ],
+        "input": [
+            "el_paso"
+        ]
+    },
+    {
+        "code": "ali_car_dlr",
+        "name": "?",
+        "output": [
+            "topeka",
+            "lawton",
+            "galveston",
+            "clinton",
+            "tyler",
+            "austin",
+            "el_paso",
+            "ardmore",
+            "mcalester",
+            "junction_cty",
+            "hays",
+            "wichita"
+        ],
+        "input": [
+            "wichita",
+            "hays",
+            "galveston"
+        ]
+    },
+    {
+        "code": "re_train",
+        "name": "?",
+        "output": [
+            "kennewick",
+            "yakima",
+            "stockton",
+            "los_angeles",
+            "denver",
+            "artesia",
+            "cheyenne",
+            "spokane",
+            "butte",
+            "casper",
+            "elko",
+            "ogden",
+            "pocatello",
+            "laurel",
+            "the_dalles",
+            "seattle",
+            "bakersfield",
+            "gillette",
+            "yuma",
+            "holbrook",
+            "socorro",
+            "tucumcari",
+            "clovis",
+            "raton",
+            "albuquerque",
+            "gallup"
+        ],
+        "input": [
+            "raton",
+            "bakersfield",
+            "laurel",
+            "tucumcari",
+            "los_angeles",
+            "elko",
+            "pocatello",
+            "ogden",
+            "yakima",
+            "kennewick",
+            "stockton",
+            "spokane",
+            "denver",
+            "seattle",
+            "albuquerque",
+            "holbrook",
+            "artesia",
+            "the_dalles",
+            "clovis",
+            "casper",
+            "gillette",
+            "yuma",
+            "cheyenne",
+            "butte",
+            "gallup",
+            "socorro"
+        ]
+    },
+    {
+        "code": "18w_trl_svc",
+        "name": "?",
+        "output": [
+            "modesto",
+            "cody",
+            "billings",
+            "kansas_ci_ks",
+            "pittsburg",
+            "missoula",
+            "clinton"
+        ],
+        "input": [
+            "billings",
+            "kansas_ci_ks",
+            "missoula",
+            "modesto",
+            "cody"
+        ]
+    },
+    {
+        "code": "pns_con_sit",
+        "name": "?",
+        "output": [
+            "santa_cruz",
+            "boise",
+            "provo",
+            "truckee",
+            "spokane",
+            "reno",
+            "elko",
+            "huron",
+            "price",
+            "steamboat_sp",
+            "bozeman",
+            "kalispell",
+            "butte",
+            "oakland",
+            "san_diego",
+            "yuma",
+            "flagstaff"
+        ],
+        "input": [
+            "price",
+            "santa_cruz",
+            "bozeman",
+            "boise",
+            "san_diego",
+            "reno",
+            "elko",
+            "provo",
+            "truckee",
+            "butte",
+            "huron",
+            "flagstaff",
+            "oakland",
+            "yuma",
+            "spokane"
+        ]
+    },
+    {
+        "code": "ftf_food_pln",
+        "name": "?",
+        "output": [
+            "los_angeles",
+            "brownsville",
+            "bellingham"
+        ],
+        "input": [
+            "los_angeles",
+            "brownsville",
+            "bellingham"
+        ]
+    },
+    {
+        "code": "ws_trk_dlr",
+        "name": "?",
+        "output": [
+            "corpus_chris",
+            "helena",
+            "salina_ks",
+            "el_paso",
+            "stockton",
+            "salina",
+            "lewiston",
+            "alamosa"
+        ],
+        "input": [
+            "el_paso",
+            "salina",
+            "salina_ks",
+            "corpus_chris",
+            "helena"
+        ]
+    },
+    {
+        "code": "dg_wd_saw",
+        "name": "?",
+        "output": [
+            "medford",
+            "bend",
+            "grangeville",
+            "kalispell",
+            "redding",
+            "newport",
+            "lakeview",
+            "missoula",
+            "port_angeles"
+        ],
+        "input": [
+            "newport",
+            "grangeville",
+            "lakeview",
+            "port_angeles",
+            "kalispell",
+            "missoula",
+            "bend",
+            "redding",
+            "medford"
+        ]
+    },
+    {
+        "code": "vor_oil_ref",
+        "name": "?",
+        "output": [
+            "beaumont",
+            "ardmore",
+            "corpus_chris",
+            "salina_ks"
+        ],
+        "input": [
+            "ardmore",
+            "salina_ks",
+            "corpus_chris"
+        ]
+    },
+    {
+        "code": "flv_food_pln",
+        "name": "?",
+        "output": [
+            "hays",
+            "topeka",
+            "salina_ks",
+            "junction_cty"
+        ],
+        "input": [
+            "junction_cty",
+            "salina_ks",
+            "hays",
+            "topeka"
+        ]
+    },
+    {
+        "code": "vor_oil_sit",
+        "name": "?",
+        "output": [
+            "laredo",
+            "longview_tx",
+            "waco",
+            "junction",
+            "amarillo"
+        ],
+        "input": [
+            "longview_tx",
+            "amarillo",
+            "laredo",
+            "junction"
+        ]
+    },
+    {
+        "code": "mon_food_pln",
+        "name": "?",
+        "output": [
+            "modesto",
+            "stockton",
+            "fresno",
+            "indio"
+        ],
+        "input": [
+            "fresno",
+            "indio",
+            "modesto",
+            "stockton"
+        ]
+    },
+    {
+        "code": "lsf_crg_fwd",
+        "name": "?",
+        "output": [
+            "laredo",
+            "del_rio",
+            "san_diego"
+        ],
+        "input": [
+            "san_diego",
+            "laredo",
+            "del_rio"
+        ]
+    },
+    {
+        "code": "usb_food_pln",
+        "name": "?",
+        "output": [
+            "redding",
+            "san_jose",
+            "san_antonio",
+            "great_falls",
+            "rock_springs",
+            "denver",
+            "waco",
+            "abilene"
+        ],
+        "input": [
+            "denver",
+            "great_falls",
+            "san_jose",
+            "waco",
+            "san_antonio",
+            "abilene",
+            "rock_springs",
+            "redding"
+        ]
+    },
+    {
+        "code": "oh_con_hom",
+        "name": "?",
+        "output": [
+            "tyler",
+            "san_antonio",
+            "clinton",
+            "coos_bay",
+            "laramie",
+            "boise",
+            "ontario"
+        ],
+        "input": [
+            "tyler",
+            "laramie",
+            "boise",
+            "coos_bay",
+            "clinton",
+            "san_antonio"
+        ]
+    },
+    {
+        "code": "nmq_min_svc",
+        "name": "?",
+        "output": [
+            "billings",
+            "fort_worth",
+            "gillette",
+            "colorado_spr"
+        ],
+        "input": [
+            "gillette",
+            "billings",
+            "colorado_spr"
+        ]
+    },
+    {
+        "code": "sh_shp_mar",
+        "name": "?",
+        "output": [
+            "colville",
+            "galveston",
+            "coeur_dalene",
+            "aberdeen_wa",
+            "olympia",
+            "port_angeles"
+        ],
+        "input": [
+            "olympia",
+            "coeur_dalene",
+            "port_angeles",
+            "aberdeen_wa"
+        ]
+    },
+    {
+        "code": "tay_con_grg",
+        "name": "?",
+        "output": [
+            "woodward",
+            "victoria",
+            "junction_cty",
+            "amarillo"
+        ],
+        "input": [
+            "victoria",
+            "junction_cty",
+            "amarillo"
+        ]
+    },
+    {
+        "code": "st_met_wrk",
+        "name": "?",
+        "output": [
+            "odessa",
+            "pendleton",
+            "san_angelo",
+            "sterling",
+            "stockton",
+            "vancouver",
+            "sheridan",
+            "gillette",
+            "alamosa"
+        ],
+        "input": [
+            "pendleton",
+            "vancouver",
+            "san_angelo",
+            "odessa",
+            "sheridan",
+            "stockton",
+            "gillette",
+            "sterling"
+        ]
+    },
+    {
+        "code": "xtm_con_svc",
+        "name": "?",
+        "output": [
+            "fort_stockto",
+            "colby",
+            "lufkin",
+            "topeka",
+            "enid",
+            "mcalester",
+            "amarillo"
+        ],
+        "input": [
+            "lufkin",
+            "topeka",
+            "mcalester",
+            "colby",
+            "amarillo",
+            "enid",
+            "fort_stockto"
+        ]
+    },
+    {
+        "code": "tay_con_whs",
+        "name": "?",
+        "output": [
+            "huntsville",
+            "tyler",
+            "del_rio",
+            "junction",
+            "ardmore",
+            "austin",
+            "guymon"
+        ],
+        "input": [
+            "huntsville",
+            "ardmore",
+            "junction",
+            "austin",
+            "tyler",
+            "del_rio",
+            "guymon"
+        ]
+    },
+    {
+        "code": "ath_trk_dlr",
+        "name": "?",
+        "output": [
+            "fort_worth"
+        ],
+        "input": [
+            "fort_worth"
+        ]
+    },
+    {
+        "code": "nmq_min_qrya",
+        "name": "?",
+        "output": [
+            "rock_springs"
+        ],
+        "input": []
+    },
+    {
+        "code": "gas_che_str",
+        "name": "?",
+        "output": [
+            "santa_maria",
+            "blythe",
+            "el_centro",
+            "primm",
+            "indio"
+        ],
+        "input": [
+            "blythe",
+            "el_centro",
+            "primm",
+            "santa_maria"
+        ]
+    },
+    {
+        "code": "bit_rd_svc",
+        "name": "?",
+        "output": [
+            "san_jose",
+            "kalispell",
+            "santa_cruz",
+            "fort_collins",
+            "denver",
+            "ketchum",
+            "truckee",
+            "lewistown",
+            "san_francisc",
+            "evanston",
+            "winnemucca",
+            "aberdeen_wa",
+            "yakima",
+            "santa_maria",
+            "ukiah",
+            "alamosa",
+            "las_vegas",
+            "kingman",
+            "moab",
+            "las_cruces",
+            "barstow",
+            "g_canyon_vlg",
+            "albuquerque",
+            "phoenix",
+            "san_diego"
+        ],
+        "input": [
+            "g_canyon_vlg",
+            "yakima",
+            "barstow",
+            "denver",
+            "lewistown",
+            "truckee",
+            "san_diego",
+            "ketchum",
+            "san_francisc",
+            "kalispell",
+            "moab",
+            "phoenix",
+            "aberdeen_wa",
+            "albuquerque",
+            "winnemucca",
+            "las_cruces",
+            "santa_maria",
+            "santa_cruz",
+            "ukiah",
+            "kingman",
+            "alamosa",
+            "evanston",
+            "san_jose",
+            "fort_collins",
+            "las_vegas"
+        ]
+    },
+    {
+        "code": "naf_oil_gst",
+        "name": "?",
+        "output": [
+            "portland",
+            "colorado_spr"
+        ],
+        "input": []
+    },
+    {
+        "code": "vp_epw_sit",
+        "name": "?",
+        "output": [
+            "laramie",
+            "abilene",
+            "fort_stockto",
+            "clinton",
+            "corpus_chris",
+            "garden_city",
+            "denver",
+            "odessa",
+            "dodge_city",
+            "evanston",
+            "san_angelo",
+            "marysville",
+            "mojave",
+            "amarillo",
+            "pueblo"
+        ],
+        "input": [
+            "marysville",
+            "abilene",
+            "mojave",
+            "odessa",
+            "clinton",
+            "dodge_city",
+            "pueblo",
+            "laramie",
+            "denver",
+            "garden_city",
+            "amarillo",
+            "fort_stockto"
+        ]
+    },
+    {
+        "code": "cal_farm_alm",
+        "name": "?",
+        "output": [
+            "fresno",
+            "bakersfield",
+            "modesto"
+        ],
+        "input": [
+            "modesto",
+            "bakersfield"
+        ]
+    },
+    {
+        "code": "vor_oil_str1",
+        "name": "?",
+        "output": [
+            "oklahoma_cit",
+            "woodward",
+            "fort_stockto",
+            "amarillo"
+        ],
+        "input": [
+            "fort_stockto",
+            "oklahoma_cit",
+            "woodward"
+        ]
+    },
+    {
+        "code": "yel_bus_pln",
+        "name": "?",
+        "output": [
+            "tulsa"
+        ],
+        "input": [
+            "tulsa"
+        ]
+    },
+    {
+        "code": "ch_wd_saw",
+        "name": "?",
+        "output": [
+            "lufkin",
+            "texarkana",
+            "junction",
+            "huntsville"
+        ],
+        "input": [
+            "junction",
+            "huntsville",
+            "lufkin"
+        ]
+    },
+    {
+        "code": "mwm_wst_whs",
+        "name": "?",
+        "output": [
+            "junction_cty",
+            "hutchinson",
+            "odessa",
+            "lewistown",
+            "bozeman",
+            "idabel",
+            "tulsa",
+            "fresno",
+            "wichita",
+            "longview_tx",
+            "oklahoma_cit",
+            "cody"
+        ],
+        "input": [
+            "hutchinson",
+            "tulsa",
+            "bozeman",
+            "oklahoma_cit",
+            "longview_tx",
+            "cody",
+            "lewistown",
+            "odessa",
+            "junction_cty",
+            "wichita",
+            "idabel",
+            "fresno"
+        ]
+    },
+    {
+        "code": "tay_con_sit",
+        "name": "?",
+        "output": [
+            "austin",
+            "corpus_chris",
+            "salina_ks",
+            "mcalester",
+            "ardmore",
+            "brownsville",
+            "huntsville",
+            "idabel",
+            "van_horn"
+        ],
+        "input": [
+            "austin",
+            "corpus_chris",
+            "mcalester",
+            "salina_ks",
+            "ardmore",
+            "idabel",
+            "van_horn"
+        ]
+    },
+    {
+        "code": "az_gls_pln",
+        "name": "?",
+        "output": [
+            "waco",
+            "fresno",
+            "dallas",
+            "wichita_fall"
+        ],
+        "input": [
+            "fresno",
+            "dallas",
+            "waco"
+        ]
+    },
+    {
+        "code": "bn_live_auc",
+        "name": "?",
+        "output": [
+            "fresno",
+            "cody",
+            "sidney",
+            "glasgow_mt",
+            "sheridan",
+            "miles_city",
+            "fort_collins",
+            "riverton",
+            "redding",
+            "lewistown",
+            "grand_juncti",
+            "billings"
+        ],
+        "input": [
+            "miles_city",
+            "sidney",
+            "glasgow_mt",
+            "lewistown",
+            "fresno",
+            "cody",
+            "billings",
+            "riverton",
+            "redding",
+            "fort_collins",
+            "grand_juncti",
+            "sheridan"
+        ]
+    },
+    {
+        "code": "garc_train",
+        "name": "?",
+        "output": [
+            "kansas_ci_ks",
+            "dallas",
+            "texarkana",
+            "laredo",
+            "houston"
+        ],
+        "input": [
+            "kansas_ci_ks",
+            "houston",
+            "laredo",
+            "dallas",
+            "texarkana"
+        ]
+    },
+    {
+        "code": "jns_rail_wrk",
+        "name": "?",
+        "output": [
+            "enid",
+            "kansas_ci_ks",
+            "tulsa",
+            "laredo",
+            "emporia"
+        ],
+        "input": [
+            "tulsa",
+            "laredo",
+            "kansas_ci_ks",
+            "emporia",
+            "enid"
+        ]
+    },
+    {
+        "code": "gpw_rd_grg",
+        "name": "?",
+        "output": [
+            "san_diego",
+            "indio"
+        ],
+        "input": [
+            "indio",
+            "san_diego"
+        ]
+    },
+    {
+        "code": "syn_che_plnt",
+        "name": "?",
+        "output": [
+            "tulsa",
+            "longview_tx",
+            "houston"
+        ],
+        "input": [
+            "longview_tx",
+            "tulsa",
+            "houston"
+        ]
+    },
+    {
+        "code": "pcp_car_whs",
+        "name": "?",
+        "output": [
+            "van_horn",
+            "mcalester",
+            "wichita",
+            "mcallen"
+        ],
+        "input": [
+            "van_horn",
+            "mcalester",
+            "wichita",
+            "mcallen"
+        ]
+    },
+    {
+        "code": "aml_rail_wrk",
+        "name": "?",
+        "output": [
+            "rawlins",
+            "rock_springs",
+            "thompson_f",
+            "barstow"
+        ],
+        "input": [
+            "rawlins",
+            "thompson_f",
+            "barstow",
+            "rock_springs"
+        ]
+    },
+    {
+        "code": "nls_rd_svc",
+        "name": "?",
+        "output": [
+            "fort_worth",
+            "van_horn",
+            "colby",
+            "topeka"
+        ],
+        "input": [
+            "van_horn",
+            "colby",
+            "fort_worth"
+        ]
+    },
+    {
+        "code": "bit_rd_wrk",
+        "name": "?",
+        "output": [
+            "santa_maria",
+            "bakersfield",
+            "huron",
+            "stockton",
+            "ely",
+            "truckee",
+            "los_angeles",
+            "sacramento",
+            "hilt",
+            "fresno",
+            "page",
+            "tucson",
+            "g_canyon_vlg",
+            "kingman",
+            "indio"
+        ],
+        "input": [
+            "ely",
+            "fresno",
+            "tucson",
+            "bakersfield",
+            "page",
+            "truckee",
+            "sacramento",
+            "stockton",
+            "kingman",
+            "huron"
+        ]
+    },
+    {
+        "code": "pns_con_grg",
+        "name": "?",
+        "output": [
+            "stockton",
+            "ogden",
+            "provo",
+            "miles_city",
+            "idaho_falls",
+            "coos_bay",
+            "kingman",
+            "farmington",
+            "gallup",
+            "phoenix"
+        ],
+        "input": [
+            "idaho_falls",
+            "phoenix",
+            "miles_city",
+            "gallup",
+            "stockton",
+            "farmington",
+            "kingman",
+            "provo"
+        ]
+    },
+    {
+        "code": "gal_oil_sit",
+        "name": "?",
+        "output": [
+            "rangely",
+            "price",
+            "vernal",
+            "rock_springs",
+            "moab"
+        ],
+        "input": [
+            "rock_springs",
+            "vernal",
+            "rangely",
+            "price",
+            "moab"
+        ]
+    },
+    {
+        "code": "hds_met_shp",
+        "name": "?",
+        "output": [
+            "portland",
+            "houston"
+        ],
+        "input": [
+            "portland",
+            "houston"
+        ]
+    },
+    {
+        "code": "sc_frm_grg",
+        "name": "?",
+        "output": [
+            "coos_bay",
+            "glendive",
+            "colville",
+            "oxnard",
+            "tonopah",
+            "carson_city",
+            "kalispell",
+            "bakersfield",
+            "huron",
+            "glasgow_mt",
+            "blythe",
+            "nogales",
+            "san_simon",
+            "tucumcari",
+            "kayenta",
+            "burlington"
+        ],
+        "input": [
+            "glasgow_mt",
+            "tucumcari",
+            "huron",
+            "bakersfield",
+            "burlington",
+            "blythe",
+            "oxnard",
+            "san_simon",
+            "nogales"
+        ]
+    },
+    {
+        "code": "bm_con_pln",
+        "name": "?",
+        "output": [
+            "phillipsburg",
+            "wichita"
+        ],
+        "input": [
+            "wichita"
+        ]
+    },
+    {
+        "code": "port_la",
+        "name": "?",
+        "output": [
+            "los_angeles"
+        ],
+        "input": [
+            "los_angeles"
+        ]
+    },
+    {
+        "code": "ws_trk_pln",
+        "name": "?",
+        "output": [
+            "portland"
+        ],
+        "input": [
+            "portland"
+        ]
+    },
+    {
+        "code": "blo_frm_str",
+        "name": "?",
+        "output": [
+            "oxnard"
+        ],
+        "input": [
+            "oxnard"
+        ]
+    },
+    {
+        "code": "jns_rail_str",
+        "name": "?",
+        "output": [
+            "dodge_city",
+            "tulsa",
+            "kansas_ci_ks"
+        ],
+        "input": [
+            "kansas_ci_ks",
+            "dodge_city"
+        ]
+    },
+    {
+        "code": "chm_che_str",
+        "name": "?",
+        "output": [
+            "portland",
+            "barstow"
+        ],
+        "input": [
+            "portland",
+            "barstow"
+        ]
+    },
+    {
+        "code": "gss_air_svc",
+        "name": "?",
+        "output": [
+            "salina_ks",
+            "wichita"
+        ],
+        "input": [
+            "salina_ks",
+            "wichita"
+        ]
+    },
+    {
+        "code": "elv_el_pln",
+        "name": "?",
+        "output": [
+            "hays",
+            "tulsa",
+            "boise",
+            "salina_ks"
+        ],
+        "input": [
+            "tulsa",
+            "boise",
+            "salina_ks"
+        ]
+    },
+    {
+        "code": "swb_sug_plnt",
+        "name": "?",
+        "output": [
+            "billings",
+            "sidney"
+        ],
+        "input": [
+            "billings",
+            "sidney"
+        ]
+    },
+    {
+        "code": "gal_oil_str1",
+        "name": "?",
+        "output": [
+            "oxnard",
+            "rangely",
+            "rock_springs",
+            "price",
+            "sidney",
+            "vernal",
+            "moab"
+        ],
+        "input": [
+            "vernal",
+            "rangely",
+            "oxnard",
+            "moab",
+            "rock_springs",
+            "price"
+        ]
+    },
+    {
+        "code": "vor_oil_str",
+        "name": "?",
+        "output": [
+            "oklahoma_cit"
+        ],
+        "input": []
+    },
+    {
+        "code": "port_bea",
+        "name": "?",
+        "output": [
+            "beaumont"
+        ],
+        "input": []
+    },
+    {
+        "code": "ele_epw_sit",
+        "name": "?",
+        "output": [
+            "mojave",
+            "san_diego"
+        ],
+        "input": [
+            "mojave",
+            "san_diego"
+        ]
+    },
+    {
+        "code": "cha_el_mkt",
+        "name": "?",
+        "output": [
+            "price",
+            "hobbs",
+            "las_cruces",
+            "vancouver",
+            "santa_fe",
+            "phoenix",
+            "las_vegas",
+            "tucson"
+        ],
+        "input": [
+            "las_vegas",
+            "price",
+            "tucson",
+            "las_cruces",
+            "hobbs",
+            "phoenix"
+        ]
+    },
+    {
+        "code": "gld_frm_grg",
+        "name": "?",
+        "output": [
+            "pittsburg",
+            "victoria",
+            "phillipsburg",
+            "dalhart",
+            "lubbock",
+            "amarillo"
+        ],
+        "input": [
+            "dalhart",
+            "amarillo",
+            "victoria",
+            "lubbock"
+        ]
+    },
+    {
+        "code": "pns_con_sit3",
+        "name": "?",
+        "output": [
+            "cody",
+            "butte",
+            "the_dalles",
+            "coeur_dalene",
+            "salem"
+        ],
+        "input": [
+            "cody",
+            "butte",
+            "the_dalles",
+            "coeur_dalene",
+            "salem"
+        ]
+    },
+    {
+        "code": "ccw_rd_grg",
+        "name": "?",
+        "output": [
+            "salina_ks",
+            "ardmore",
+            "oklahoma_cit",
+            "hays"
+        ],
+        "input": [
+            "hays",
+            "salina_ks",
+            "ardmore",
+            "oklahoma_cit"
+        ]
+    },
+    {
+        "code": "pic_mkt",
+        "name": "?",
+        "output": [
+            "junction",
+            "tyler",
+            "van_horn",
+            "hays",
+            "tulsa",
+            "hutchinson",
+            "garden_city",
+            "colby"
+        ],
+        "input": [
+            "garden_city",
+            "van_horn",
+            "tulsa",
+            "hutchinson",
+            "hays",
+            "colby",
+            "junction"
+        ]
+    },
+    {
+        "code": "ch_wd_hrv",
+        "name": "?",
+        "output": [
+            "lufkin",
+            "beaumont",
+            "longview_tx"
+        ],
+        "input": []
+    },
+    {
+        "code": "sf_port",
+        "name": "?",
+        "output": [
+            "san_francisc"
+        ],
+        "input": [
+            "san_francisc"
+        ]
+    },
+    {
+        "code": "vm_car_exp",
+        "name": "?",
+        "output": [
+            "san_jose"
+        ],
+        "input": []
+    },
+    {
+        "code": "port_gal",
+        "name": "?",
+        "output": [
+            "galveston"
+        ],
+        "input": [
+            "galveston"
+        ]
+    },
+    {
+        "code": "avs_met_sml",
+        "name": "?",
+        "output": [
+            "salt_lake",
+            "beaumont",
+            "salem",
+            "cheyenne",
+            "longview_tx",
+            "pueblo"
+        ],
+        "input": [
+            "cheyenne",
+            "salt_lake",
+            "pueblo",
+            "salem",
+            "longview_tx",
+            "beaumont"
+        ]
+    },
+    {
+        "code": "port_tac",
+        "name": "?",
+        "output": [
+            "tacoma"
+        ],
+        "input": [
+            "tacoma"
+        ]
+    },
+    {
+        "code": "aport_pcc",
+        "name": "?",
+        "output": [
+            "portland"
+        ],
+        "input": [
+            "portland"
+        ]
+    },
+    {
+        "code": "dw_air_pln",
+        "name": "?",
+        "output": [
+            "everett",
+            "wichita",
+            "los_angeles"
+        ],
+        "input": [
+            "los_angeles",
+            "everett",
+            "wichita"
+        ]
+    },
+    {
+        "code": "vm_car_pln",
+        "name": "?",
+        "output": [
+            "san_jose"
+        ],
+        "input": [
+            "san_jose"
+        ]
+    },
+    {
+        "code": "frd_epw_svc",
+        "name": "?",
+        "output": [
+            "topeka",
+            "butte",
+            "havre",
+            "odessa",
+            "guymon"
+        ],
+        "input": [
+            "guymon",
+            "topeka",
+            "butte"
+        ]
+    },
+    {
+        "code": "rp_port",
+        "name": "?",
+        "output": [
+            "tulsa"
+        ],
+        "input": [
+            "tulsa"
+        ]
+    },
+    {
+        "code": "port_bro",
+        "name": "?",
+        "output": [
+            "brownsville"
+        ],
+        "input": [
+            "brownsville"
+        ]
+    },
+    {
+        "code": "ai_car_pln",
+        "name": "?",
+        "output": [
+            "oxnard",
+            "oklahoma_cit"
+        ],
+        "input": []
+    },
+    {
+        "code": "aport_gtf",
+        "name": "?",
+        "output": [
+            "great_falls"
+        ],
+        "input": [
+            "great_falls"
+        ]
+    },
+    {
+        "code": "tay_con_sit1",
+        "name": "?",
+        "output": [
+            "dallas",
+            "oklahoma_cit"
+        ],
+        "input": [
+            "oklahoma_cit",
+            "dallas"
+        ]
+    },
+    {
+        "code": "aport_tul",
+        "name": "?",
+        "output": [
+            "tulsa"
+        ],
+        "input": [
+            "tulsa"
+        ]
+    },
+    {
+        "code": "aport_lax",
+        "name": "?",
+        "output": [
+            "los_angeles"
+        ],
+        "input": [
+            "los_angeles"
+        ]
+    },
+    {
+        "code": "ter_met_shp",
+        "name": "?",
+        "output": [
+            "corpus_chris",
+            "brownsville"
+        ],
+        "input": [
+            "brownsville",
+            "corpus_chris"
+        ]
+    },
+    {
+        "code": "chm_che_plns",
+        "name": "?",
+        "output": [
+            "butte"
+        ],
+        "input": [
+            "butte"
+        ]
+    },
+    {
+        "code": "dyn_car_pln",
+        "name": "?",
+        "output": [
+            "ardmore",
+            "lawton"
+        ],
+        "input": [
+            "lawton",
+            "ardmore"
+        ]
+    },
+    {
+        "code": "nmq_min_pln1",
+        "name": "?",
+        "output": [
+            "bozeman",
+            "butte"
+        ],
+        "input": [
+            "bozeman",
+            "butte"
+        ]
+    },
+    {
+        "code": "aport_dfw",
+        "name": "?",
+        "output": [
+            "fort_worth"
+        ],
+        "input": [
+            "fort_worth"
+        ]
+    },
+    {
+        "code": "grp_oil_gst",
+        "name": "?",
+        "output": [
+            "glendive"
+        ],
+        "input": []
+    },
+    {
+        "code": "wds_wst_whs",
+        "name": "?",
+        "output": [
+            "oxnard"
+        ],
+        "input": [
+            "oxnard"
+        ]
+    },
+    {
+        "code": "oak_port",
+        "name": "?",
+        "output": [
+            "oakland"
+        ],
+        "input": [
+            "oakland"
+        ]
+    },
+    {
+        "code": "aport_ict",
+        "name": "?",
+        "output": [
+            "wichita"
+        ],
+        "input": [
+            "wichita"
+        ]
+    },
+    {
+        "code": "dmc_car_dlr",
+        "name": "?",
+        "output": [
+            "price",
+            "cedar_city",
+            "st_george"
+        ],
+        "input": [
+            "price"
+        ]
+    },
+    {
+        "code": "cal_car_pln",
+        "name": "?",
+        "output": [
+            "kansas_ci_ks"
+        ],
+        "input": [
+            "kansas_ci_ks"
+        ]
+    },
+    {
+        "code": "port_cor",
+        "name": "?",
+        "output": [
+            "corpus_chris"
+        ],
+        "input": [
+            "corpus_chris"
+        ]
+    },
+    {
+        "code": "fus_oil_gst",
+        "name": "?",
+        "output": [
+            "el_paso",
+            "colby"
+        ],
+        "input": []
+    },
+    {
+        "code": "port_hou",
+        "name": "?",
+        "output": [
+            "houston"
+        ],
+        "input": [
+            "houston"
+        ]
+    },
+    {
+        "code": "aport_iah",
+        "name": "?",
+        "output": [
+            "houston"
+        ],
+        "input": [
+            "houston"
+        ]
+    },
+    {
+        "code": "gal_oil_svc",
+        "name": "?",
+        "output": [
+            "bakersfield"
+        ],
+        "input": []
+    },
+    {
+        "code": "42p_print",
+        "name": "?",
+        "output": [
+            "eugene",
+            "phoenix",
+            "las_vegas",
+            "albuquerque"
+        ],
+        "input": [
+            "eugene",
+            "albuquerque",
+            "las_vegas"
+        ]
+    },
+    {
+        "code": "asu_car_pln",
+        "name": "?",
+        "output": [
+            "fort_worth",
+            "san_antonio"
+        ],
+        "input": []
+    },
+    {
+        "code": "kw_trk_pln",
+        "name": "?",
+        "output": [
+            "seattle"
+        ],
+        "input": [
+            "seattle"
+        ]
+    },
+    {
+        "code": "cal_car_exp",
+        "name": "?",
+        "output": [
+            "kansas_ci_ks"
+        ],
+        "input": []
+    },
+    {
+        "code": "cm_min_svc",
+        "name": "?",
+        "output": [
+            "salt_lake"
+        ],
+        "input": []
+    },
+    {
+        "code": "aport_den",
+        "name": "?",
+        "output": [
+            "denver"
+        ],
+        "input": [
+            "denver"
+        ]
+    },
+    {
+        "code": "spc_whs",
+        "name": "?",
+        "output": [
+            "houston"
+        ],
+        "input": []
+    },
+    {
+        "code": "plu_el_mkt",
+        "name": "?",
+        "output": [
+            "wichita_fall"
+        ],
+        "input": []
+    },
+    {
+        "code": "cm_min_qryp",
+        "name": "?",
+        "output": [
+            "moab"
+        ],
+        "input": [
+            "moab"
+        ]
+    },
+    {
+        "code": "tay_con_sit3",
+        "name": "?",
+        "output": [
+            "lubbock"
+        ],
+        "input": [
+            "lubbock"
+        ]
+    },
+    {
+        "code": "aport_abq",
+        "name": "?",
+        "output": [
+            "albuquerque"
+        ],
+        "input": [
+            "albuquerque"
+        ]
+    },
+    {
+        "code": "ele_epw_svc",
+        "name": "?",
+        "output": [
+            "barstow"
+        ],
+        "input": [
+            "barstow"
+        ]
+    },
+    {
+        "code": "gm_chs_plnt",
+        "name": "?",
+        "output": [
+            "clovis"
+        ],
+        "input": [
+            "clovis"
+        ]
+    },
+    {
+        "code": "aport_phx",
+        "name": "?",
+        "output": [
+            "phoenix"
+        ],
+        "input": [
+            "phoenix"
+        ]
+    },
+    {
+        "code": "cm_brx_pln",
+        "name": "?",
+        "output": [
+            "barstow"
+        ],
+        "input": [
+            "barstow"
+        ]
+    }
+]

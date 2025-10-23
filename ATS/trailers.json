@@ -1,0 +1,2044 @@
+[
+    {
+        "code": "single_45sp",
+        "baseType": "flatbed",
+        "types": [
+            {
+                "name": "curtain",
+                "code": "trailer.scs_curt45s",
+                "cargo": [
+                    "cargo.flour",
+                    "cargo.almond_box",
+                    "cargo.food",
+                    "cargo.dry_milk",
+                    "cargo.used_pack",
+                    "cargo.waste_paper",
+                    "cargo.guard_rails",
+                    "cargo.gypsum",
+                    "cargo.ibc_cont",
+                    "cargo.home_acc",
+                    "cargo.colors",
+                    "cargo.grain",
+                    "cargo.salt",
+                    "cargo.empty_palet",
+                    "cargo.mortar",
+                    "cargo.rice",
+                    "cargo.paper",
+                    "cargo.dry_fruit",
+                    "cargo.sawpanels",
+                    "cargo.talc_pwdr",
+                    "cargo.furniture"
+                ]
+            },
+            {
+                "name": "flatbed",
+                "code": "trailer.scs_flat45s",
+                "cargo": [
+                    "cargo.hay",
+                    "cargo.moving_cont",
+                    "cargo.alu_profile",
+                    "cargo.train_part",
+                    "cargo.scrap_cars",
+                    "cargo.hipresstank",
+                    "cargo.mtl_coil",
+                    "cargo.emptytank",
+                    "cargo.scaffolding",
+                    "cargo.empty_palet",
+                    "cargo.waste_paper",
+                    "cargo.plows",
+                    "cargo.volvo_rims",
+                    "cargo.gen_set",
+                    "cargo.dumpster",
+                    "cargo.trees",
+                    "cargo.roof_tiles",
+                    "cargo.cott_lint",
+                    "cargo.house_pref",
+                    "cargo.lumber",
+                    "cargo.lumber_b",
+                    "cargo.pumpjack",
+                    "cargo.aircraft_eng",
+                    "cargo.ins_panel",
+                    "cargo.ventilation",
+                    "cargo.moor_buoy",
+                    "cargo.largetubes",
+                    "cargo.pipes",
+                    "cargo.wire_rod",
+                    "cargo.oil_pipes",
+                    "cargo.conc_barr",
+                    "cargo.transform2",
+                    "cargo.fertilizer",
+                    "cargo.sq_tub",
+                    "cargo.aircon"
+                ]
+            },
+            {
+                "name": "flatbed",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_48_3",
+        "baseType": "dropdeck",
+        "types": [
+            {
+                "name": "curtain",
+                "code": "trailer.scs_droc483a",
+                "cargo": [
+                    "cargo.food",
+                    "cargo.grain",
+                    "cargo.battery",
+                    "cargo.waste_paper",
+                    "cargo.used_pack",
+                    "cargo.tyres",
+                    "cargo.gypsum",
+                    "cargo.almond_box",
+                    "cargo.salt",
+                    "cargo.empty_palet",
+                    "cargo.clothes",
+                    "cargo.colors",
+                    "cargo.sawpanels",
+                    "cargo.dry_milk",
+                    "cargo.silica",
+                    "cargo.mortar",
+                    "cargo.ibc_cont",
+                    "cargo.nuts",
+                    "cargo.guard_rails",
+                    "cargo.soda_ash",
+                    "cargo.office_suppl",
+                    "cargo.toys"
+                ]
+            },
+            {
+                "name": "dropdeck_alu",
+                "code": "trailer.scs_drop483a",
+                "cargo": [
+                    "cargo.moving_cont",
+                    "cargo.hay",
+                    "cargo.scaffolding",
+                    "cargo.moor_buoy",
+                    "cargo.ventilation",
+                    "cargo.fert_tank",
+                    "cargo.aircon",
+                    "cargo.empty_palet",
+                    "cargo.waste_paper",
+                    "cargo.mixtank",
+                    "cargo.cable",
+                    "cargo.wire_rod",
+                    "cargo.glass_rack",
+                    "cargo.dumpster",
+                    "cargo.big_tyres",
+                    "cargo.lumber",
+                    "cargo.emptytank",
+                    "cargo.ctubes",
+                    "cargo.hipresstank",
+                    "cargo.transform2",
+                    "cargo.fertilizer",
+                    "cargo.rails"
+                ]
+            },
+            {
+                "name": "dropdeck_alu",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            },
+            {
+                "name": "dropdeck_alu",
+                "code": "trailer.scs_drop48os",
+                "cargo": [
+                    "cargo.air_eng2"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_50_3",
+        "baseType": "grainhopper",
+        "types": [
+            {
+                "name": "belt",
+                "code": "trailer.scs_grainh50",
+                "cargo": [
+                    "cargo.grain_b",
+                    "cargo.potatoes_b",
+                    "cargo.sugar_beet_b",
+                    "cargo.corn_b",
+                    "cargo.soybean_b"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_32e",
+        "baseType": "gooseneck",
+        "types": [
+            {
+                "name": "container",
+                "code": "trailer.scs_gosck32",
+                "cargo": [
+                    "cargo.dry_fruit",
+                    "cargo.carcomp",
+                    "cargo.machine_pts",
+                    "cargo.sugar",
+                    "cargo.const_house",
+                    "cargo.boric_acid",
+                    "cargo.soda_ash",
+                    "cargo.salt",
+                    "cargo.dry_milk"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_43r",
+        "baseType": "foodtank",
+        "types": [
+            {
+                "name": "foodtank",
+                "code": "trailer.scs_fodt40",
+                "cargo": [
+                    "cargo.fruit_juic_t",
+                    "cargo.rawmilk",
+                    "cargo.milk_t"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "double_p",
+        "baseType": "flatbed",
+        "types": [
+            {
+                "name": "curtain",
+                "code": "trailer.scs_curt_2",
+                "cargo": [
+                    "cargo.grain",
+                    "cargo.flour",
+                    "cargo.dry_milk",
+                    "cargo.waste_paper",
+                    "cargo.empty_palet",
+                    "cargo.used_pack",
+                    "cargo.salt",
+                    "cargo.curtains",
+                    "cargo.mortar",
+                    "cargo.ibc_cont",
+                    "cargo.food",
+                    "cargo.silica",
+                    "cargo.home_acc",
+                    "cargo.office_suppl",
+                    "cargo.almond_box",
+                    "cargo.sawpanels",
+                    "cargo.furniture",
+                    "cargo.sugar",
+                    "cargo.gypsum",
+                    "cargo.battery",
+                    "cargo.rice"
+                ]
+            },
+            {
+                "name": "curtain",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            },
+            {
+                "name": "flatbed",
+                "code": "trailer.scs_flat_2",
+                "cargo": [
+                    "cargo.scaffolding",
+                    "cargo.moving_cont",
+                    "cargo.plows",
+                    "cargo.ventilation",
+                    "cargo.oil_pipes",
+                    "cargo.hipresstank",
+                    "cargo.alu_profile",
+                    "cargo.aircon",
+                    "cargo.rails",
+                    "cargo.waste_paper",
+                    "cargo.aircraft_eng",
+                    "cargo.pumpjack",
+                    "cargo.volvo_rims",
+                    "cargo.dumpster",
+                    "cargo.conc_barr",
+                    "cargo.wire_rod",
+                    "cargo.cott_lint",
+                    "cargo.fertilizer",
+                    "cargo.gen_set",
+                    "cargo.largetubes",
+                    "cargo.ctubes",
+                    "cargo.lumber_p",
+                    "cargo.roof_tiles",
+                    "cargo.empty_palet",
+                    "cargo.house_pref",
+                    "cargo.emptytank",
+                    "cargo.train_part",
+                    "cargo.ctubes_b",
+                    "cargo.cable",
+                    "cargo.pipes",
+                    "cargo.lumber_b",
+                    "cargo.mtl_coil",
+                    "cargo.sq_tub",
+                    "cargo.scrap_cars"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_40e",
+        "baseType": "gooseneck",
+        "types": [
+            {
+                "name": "container",
+                "code": "trailer.scs_gosck40",
+                "cargo": [
+                    "cargo.food",
+                    "cargo.flour",
+                    "cargo.potatoes",
+                    "cargo.dry_fruit",
+                    "cargo.carcomp",
+                    "cargo.const_house",
+                    "cargo.paper",
+                    "cargo.machine_pts",
+                    "cargo.boric_acid",
+                    "cargo.clothes",
+                    "cargo.sugar"
+                ]
+            },
+            {
+                "name": "container",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_53_3",
+        "baseType": "dropdeck",
+        "types": [
+            {
+                "name": "curtain",
+                "code": "trailer.scs_droc533a",
+                "cargo": [
+                    "cargo.flour",
+                    "cargo.dry_fruit",
+                    "cargo.nuts",
+                    "cargo.paper",
+                    "cargo.food",
+                    "cargo.silica",
+                    "cargo.mortar",
+                    "cargo.used_pack",
+                    "cargo.ibc_cont",
+                    "cargo.colors",
+                    "cargo.grain",
+                    "cargo.guard_rails",
+                    "cargo.gypsum",
+                    "cargo.waste_paper",
+                    "cargo.battery",
+                    "cargo.toys",
+                    "cargo.sawpanels",
+                    "cargo.sugar",
+                    "cargo.empty_palet",
+                    "cargo.tyres",
+                    "cargo.soda_ash",
+                    "cargo.almond_box",
+                    "cargo.salt",
+                    "cargo.home_acc"
+                ]
+            },
+            {
+                "name": "dropdeck_alu",
+                "code": "trailer.scs_drop533a",
+                "cargo": [
+                    "cargo.moving_cont",
+                    "cargo.scaffolding",
+                    "cargo.trees",
+                    "cargo.rails",
+                    "cargo.aircon",
+                    "cargo.fert_tank",
+                    "cargo.empty_palet",
+                    "cargo.waste_paper",
+                    "cargo.mixtank",
+                    "cargo.dumpster",
+                    "cargo.wire_rod",
+                    "cargo.glass_rack",
+                    "cargo.big_tyres",
+                    "cargo.emptytank",
+                    "cargo.ins_panel",
+                    "cargo.lumber_p",
+                    "cargo.almond_box",
+                    "cargo.fertilizer",
+                    "cargo.ventilation",
+                    "cargo.cable",
+                    "cargo.lumber",
+                    "cargo.ctubes_b",
+                    "cargo.transform2",
+                    "cargo.alu_profile"
+                ]
+            },
+            {
+                "name": "dropdeck_alu",
+                "code": "trailer.scs_drop53os",
+                "cargo": [
+                    "cargo.air_eng2"
+                ]
+            },
+            {
+                "name": "curtain",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_48_3",
+        "baseType": "chipvan",
+        "types": [
+            {
+                "name": "bellyvan",
+                "code": "trailer.scs_chipvan3",
+                "cargo": [
+                    "cargo.hay",
+                    "cargo.scrap_metals",
+                    "cargo.used_pack",
+                    "cargo.wshavings",
+                    "cargo.waste_paper",
+                    "cargo.cott_seed"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_45r",
+        "baseType": "flatbed",
+        "types": [
+            {
+                "name": "flatbed",
+                "code": "trailer.scs_flat45r",
+                "cargo": [
+                    "cargo.scaffolding",
+                    "cargo.scrap_cars",
+                    "cargo.largetubes",
+                    "cargo.oil_pipes",
+                    "cargo.aircon",
+                    "cargo.moor_buoy",
+                    "cargo.moving_cont",
+                    "cargo.pumpjack",
+                    "cargo.gen_set",
+                    "cargo.volvo_rims",
+                    "cargo.dumpster",
+                    "cargo.fertilizer",
+                    "cargo.conc_barr",
+                    "cargo.roof_tiles",
+                    "cargo.cott_lint",
+                    "cargo.wire_rod",
+                    "cargo.hipresstank",
+                    "cargo.ctubes",
+                    "cargo.waste_paper",
+                    "cargo.emptytank",
+                    "cargo.almond_box",
+                    "cargo.plows",
+                    "cargo.lumber_p",
+                    "cargo.rails",
+                    "cargo.ctubes_b",
+                    "cargo.lumber_b",
+                    "cargo.house_pref",
+                    "cargo.train_part",
+                    "cargo.pipes",
+                    "cargo.ins_panel",
+                    "cargo.transform2",
+                    "cargo.aircraft_eng",
+                    "cargo.empty_palet",
+                    "cargo.alu_ingot",
+                    "cargo.mtl_coil"
+                ]
+            },
+            {
+                "name": "flatbed",
+                "code": "trailer.scs_flat45os",
+                "cargo": [
+                    "cargo.air_eng2",
+                    "cargo.ind_palet"
+                ]
+            },
+            {
+                "name": "flatbed",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_45f",
+        "baseType": "box",
+        "types": [
+            {
+                "name": "reefer",
+                "code": "trailer.scs_ref45f",
+                "cargo": [
+                    "cargo.frozen_veget",
+                    "cargo.grain",
+                    "cargo.frozen_fruit",
+                    "cargo.yogurt",
+                    "cargo.cheese",
+                    "cargo.food",
+                    "cargo.frozen_food",
+                    "cargo.buttermilk",
+                    "cargo.waste_paper",
+                    "cargo.vegetable",
+                    "cargo.milk",
+                    "cargo.almond_box",
+                    "cargo.empty_palet",
+                    "cargo.cans",
+                    "cargo.fruits",
+                    "cargo.pellet_afood",
+                    "cargo.furniture",
+                    "cargo.used_pack",
+                    "cargo.paper",
+                    "cargo.potatoes",
+                    "cargo.rice",
+                    "cargo.butter",
+                    "cargo.salt",
+                    "cargo.icecream",
+                    "cargo.soda_ash"
+                ]
+            },
+            {
+                "name": "insulated",
+                "code": "trailer.scs_ins45f",
+                "cargo": [
+                    "cargo.fruits",
+                    "cargo.grain",
+                    "cargo.vegetable",
+                    "cargo.potatoes",
+                    "cargo.used_pack",
+                    "cargo.waste_paper",
+                    "cargo.nuts",
+                    "cargo.empty_palet",
+                    "cargo.food",
+                    "cargo.fertilizer",
+                    "cargo.almond_box",
+                    "cargo.pellet_afood",
+                    "cargo.battery",
+                    "cargo.dry_fruit",
+                    "cargo.soda_ash",
+                    "cargo.borates"
+                ]
+            },
+            {
+                "name": "dryvan",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            },
+            {
+                "name": "dryvan",
+                "code": "trailer.scs_dry45f",
+                "cargo": [
+                    "cargo.almond_box",
+                    "cargo.empty_palet",
+                    "cargo.fertilizer",
+                    "cargo.tyres",
+                    "cargo.ibc_cont",
+                    "cargo.grain",
+                    "cargo.toys",
+                    "cargo.used_pack",
+                    "cargo.borates",
+                    "cargo.battery",
+                    "cargo.boric_acid",
+                    "cargo.waste_paper",
+                    "cargo.office_suppl",
+                    "cargo.pellet_afood",
+                    "cargo.food",
+                    "cargo.cans",
+                    "cargo.potatoes",
+                    "cargo.home_acc",
+                    "cargo.furniture",
+                    "cargo.guard_rails",
+                    "cargo.paper"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "triple",
+        "baseType": "flatbed",
+        "types": [
+            {
+                "name": "flatbed",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            },
+            {
+                "name": "flatbed",
+                "code": "trailer.scs_flat_3",
+                "cargo": [
+                    "cargo.scaffolding",
+                    "cargo.moor_buoy",
+                    "cargo.scrap_cars",
+                    "cargo.moving_cont",
+                    "cargo.plows",
+                    "cargo.hay",
+                    "cargo.lumber_b",
+                    "cargo.roof_tiles",
+                    "cargo.cott_lint",
+                    "cargo.empty_palet",
+                    "cargo.lumber",
+                    "cargo.train_part",
+                    "cargo.sq_tub",
+                    "cargo.alu_ingot"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_40r",
+        "baseType": "grainhopper",
+        "types": [
+            {
+                "name": "grainhopper",
+                "code": "trailer.scs_grainh40",
+                "cargo": [
+                    "cargo.potatoes_b",
+                    "cargo.sugar_beet_b",
+                    "cargo.soybean_b",
+                    "cargo.corn_b",
+                    "cargo.grain_b",
+                    "cargo.pellet_afd_b"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_53sp",
+        "baseType": "dropdeck",
+        "types": [
+            {
+                "name": "dropdeck_alu",
+                "code": "trailer.scs_drop53sp",
+                "cargo": [
+                    "cargo.almond_box",
+                    "cargo.scaffolding",
+                    "cargo.moving_cont",
+                    "cargo.alu_ingot",
+                    "cargo.moor_buoy",
+                    "cargo.waste_paper",
+                    "cargo.big_tyres",
+                    "cargo.wire_rod",
+                    "cargo.dumpster",
+                    "cargo.empty_palet",
+                    "cargo.glass_rack",
+                    "cargo.aircon",
+                    "cargo.ctubes",
+                    "cargo.fert_tank",
+                    "cargo.cable",
+                    "cargo.lumber_p",
+                    "cargo.ins_panel",
+                    "cargo.transform2",
+                    "cargo.hipresstank",
+                    "cargo.mixtank",
+                    "cargo.emptytank",
+                    "cargo.alu_profile"
+                ]
+            },
+            {
+                "name": "curtain",
+                "code": "trailer.scs_droc53sp",
+                "cargo": [
+                    "cargo.grain",
+                    "cargo.empty_palet",
+                    "cargo.ibc_cont",
+                    "cargo.gypsum",
+                    "cargo.rice",
+                    "cargo.mortar",
+                    "cargo.sugar",
+                    "cargo.sawpanels",
+                    "cargo.used_pack",
+                    "cargo.waste_paper",
+                    "cargo.almond_box",
+                    "cargo.dry_fruit",
+                    "cargo.silica",
+                    "cargo.tyres"
+                ]
+            },
+            {
+                "name": "curtain",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_53f",
+        "baseType": "box",
+        "types": [
+            {
+                "name": "reefer",
+                "code": "trailer.scs_ref53f",
+                "cargo": [
+                    "cargo.frozen_fruit",
+                    "cargo.frozen_food",
+                    "cargo.vegetable",
+                    "cargo.frozen_veget",
+                    "cargo.fruits",
+                    "cargo.meat",
+                    "cargo.yogurt",
+                    "cargo.milk",
+                    "cargo.butter",
+                    "cargo.cheese",
+                    "cargo.empty_palet",
+                    "cargo.waste_paper",
+                    "cargo.paper",
+                    "cargo.buttermilk",
+                    "cargo.used_pack",
+                    "cargo.dry_fruit",
+                    "cargo.pellet_afood",
+                    "cargo.office_suppl",
+                    "cargo.curtains",
+                    "cargo.grain",
+                    "cargo.tyres",
+                    "cargo.almond_box",
+                    "cargo.icecream",
+                    "cargo.salt",
+                    "cargo.food",
+                    "cargo.sugar"
+                ]
+            },
+            {
+                "name": "dryvan",
+                "code": "trailer.scs_dry53f",
+                "cargo": [
+                    "cargo.grain",
+                    "cargo.dry_milk",
+                    "cargo.empty_palet",
+                    "cargo.fertilizer",
+                    "cargo.pellet_afood",
+                    "cargo.paper",
+                    "cargo.used_pack",
+                    "cargo.furniture",
+                    "cargo.sugar",
+                    "cargo.cans",
+                    "cargo.borates",
+                    "cargo.dry_fruit",
+                    "cargo.food",
+                    "cargo.ibc_cont",
+                    "cargo.waste_paper",
+                    "cargo.potatoes",
+                    "cargo.soda_ash",
+                    "cargo.talc_pwdr"
+                ]
+            },
+            {
+                "name": "insulated",
+                "code": "trailer.scs_ins53f",
+                "cargo": [
+                    "cargo.flour",
+                    "cargo.dry_milk",
+                    "cargo.empty_palet",
+                    "cargo.waste_paper",
+                    "cargo.fertilizer",
+                    "cargo.battery",
+                    "cargo.tyres",
+                    "cargo.rice",
+                    "cargo.used_pack",
+                    "cargo.paper",
+                    "cargo.almond_box",
+                    "cargo.vegetable",
+                    "cargo.nuts",
+                    "cargo.soda_ash",
+                    "cargo.pellet_afood",
+                    "cargo.home_acc",
+                    "cargo.fruits",
+                    "cargo.potatoes",
+                    "cargo.food",
+                    "cargo.borates",
+                    "cargo.cans",
+                    "cargo.grain",
+                    "cargo.salt"
+                ]
+            },
+            {
+                "name": "reefer",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_53sp",
+        "baseType": "flatbed",
+        "types": [
+            {
+                "name": "flatbed",
+                "code": "trailer.scs_flat53s",
+                "cargo": [
+                    "cargo.hay",
+                    "cargo.scaffolding",
+                    "cargo.trees",
+                    "cargo.plows",
+                    "cargo.moving_cont",
+                    "cargo.hipresstank",
+                    "cargo.rails",
+                    "cargo.ventilation",
+                    "cargo.pipes",
+                    "cargo.scrap_cars",
+                    "cargo.empty_palet",
+                    "cargo.volvo_rims",
+                    "cargo.aircraft_eng",
+                    "cargo.dumpster",
+                    "cargo.waste_paper",
+                    "cargo.cable",
+                    "cargo.conc_barr",
+                    "cargo.largetubes",
+                    "cargo.cott_lint",
+                    "cargo.house_pref",
+                    "cargo.roof_tiles",
+                    "cargo.lumber_b",
+                    "cargo.ins_panel",
+                    "cargo.lumber_p",
+                    "cargo.fertilizer",
+                    "cargo.train_part",
+                    "cargo.oil_pipes",
+                    "cargo.emptytank",
+                    "cargo.pumpjack",
+                    "cargo.ctubes",
+                    "cargo.wire_rod",
+                    "cargo.gen_set",
+                    "cargo.moor_buoy",
+                    "cargo.sq_tub"
+                ]
+            },
+            {
+                "name": "curtain",
+                "code": "trailer.scs_curt53s",
+                "cargo": [
+                    "cargo.guard_rails",
+                    "cargo.battery",
+                    "cargo.fertilizer",
+                    "cargo.paper",
+                    "cargo.mortar",
+                    "cargo.used_pack",
+                    "cargo.waste_paper",
+                    "cargo.soda_ash",
+                    "cargo.dry_fruit",
+                    "cargo.sawpanels",
+                    "cargo.empty_palet",
+                    "cargo.gypsum",
+                    "cargo.rice",
+                    "cargo.silica",
+                    "cargo.almond_box",
+                    "cargo.ibc_cont",
+                    "cargo.office_suppl"
+                ]
+            },
+            {
+                "name": "flatbed",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_53_3",
+        "baseType": "box",
+        "types": [
+            {
+                "name": "insulated",
+                "code": "trailer.scs_ins53_3a",
+                "cargo": [
+                    "cargo.grain",
+                    "cargo.almond_box",
+                    "cargo.potatoes",
+                    "cargo.dry_fruit",
+                    "cargo.battery",
+                    "cargo.empty_palet",
+                    "cargo.used_pack",
+                    "cargo.paper",
+                    "cargo.waste_paper",
+                    "cargo.food",
+                    "cargo.cans",
+                    "cargo.toys",
+                    "cargo.fertilizer",
+                    "cargo.pellet_afood",
+                    "cargo.vegetable",
+                    "cargo.office_suppl",
+                    "cargo.nuts",
+                    "cargo.sugar",
+                    "cargo.furniture",
+                    "cargo.salt",
+                    "cargo.fruits",
+                    "cargo.soda_ash",
+                    "cargo.tyres",
+                    "cargo.home_acc"
+                ]
+            },
+            {
+                "name": "reefer",
+                "code": "trailer.scs_ref53_3a",
+                "cargo": [
+                    "cargo.flour",
+                    "cargo.frozen_veget",
+                    "cargo.potatoes",
+                    "cargo.vegetable",
+                    "cargo.milk",
+                    "cargo.cheese",
+                    "cargo.yogurt",
+                    "cargo.meat",
+                    "cargo.buttermilk",
+                    "cargo.butter",
+                    "cargo.food",
+                    "cargo.used_pack",
+                    "cargo.empty_palet",
+                    "cargo.frozen_fruit",
+                    "cargo.frozen_food",
+                    "cargo.paper",
+                    "cargo.grain",
+                    "cargo.fruits",
+                    "cargo.home_acc",
+                    "cargo.sugar",
+                    "cargo.curtains",
+                    "cargo.nuts",
+                    "cargo.waste_paper",
+                    "cargo.pellet_afood",
+                    "cargo.toys",
+                    "cargo.cans",
+                    "cargo.clothes",
+                    "cargo.rice"
+                ]
+            },
+            {
+                "name": "dryvan",
+                "code": "trailer.scs_dry53_3a",
+                "cargo": [
+                    "cargo.flour",
+                    "cargo.dry_milk",
+                    "cargo.battery",
+                    "cargo.used_pack",
+                    "cargo.empty_palet",
+                    "cargo.cans",
+                    "cargo.soda_ash",
+                    "cargo.office_suppl",
+                    "cargo.grain",
+                    "cargo.ibc_cont",
+                    "cargo.curtains",
+                    "cargo.almond_box",
+                    "cargo.nuts",
+                    "cargo.sugar",
+                    "cargo.food",
+                    "cargo.fertilizer",
+                    "cargo.boric_acid",
+                    "cargo.guard_rails"
+                ]
+            },
+            {
+                "name": "reefer",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_48sp",
+        "baseType": "dropdeck",
+        "types": [
+            {
+                "name": "curtain",
+                "code": "trailer.scs_droc48sp",
+                "cargo": [
+                    "cargo.dry_fruit",
+                    "cargo.flour",
+                    "cargo.nuts",
+                    "cargo.almond_box",
+                    "cargo.food",
+                    "cargo.empty_palet",
+                    "cargo.paper",
+                    "cargo.sugar",
+                    "cargo.office_suppl",
+                    "cargo.gypsum",
+                    "cargo.mortar",
+                    "cargo.waste_paper",
+                    "cargo.used_pack",
+                    "cargo.colors",
+                    "cargo.dry_milk",
+                    "cargo.battery",
+                    "cargo.salt",
+                    "cargo.home_acc",
+                    "cargo.silica",
+                    "cargo.sawpanels",
+                    "cargo.furniture",
+                    "cargo.ibc_cont",
+                    "cargo.tyres"
+                ]
+            },
+            {
+                "name": "dropdeck_alu",
+                "code": "trailer.scs_drop48sp",
+                "cargo": [
+                    "cargo.moving_cont",
+                    "cargo.scaffolding",
+                    "cargo.mtl_coil",
+                    "cargo.ventilation",
+                    "cargo.rails",
+                    "cargo.empty_palet",
+                    "cargo.waste_paper",
+                    "cargo.mixtank",
+                    "cargo.aircraft_eng",
+                    "cargo.dumpster",
+                    "cargo.wire_rod",
+                    "cargo.big_tyres",
+                    "cargo.fertilizer",
+                    "cargo.almond_box",
+                    "cargo.cable",
+                    "cargo.lumber_p",
+                    "cargo.hipresstank",
+                    "cargo.glass_rack",
+                    "cargo.aircon",
+                    "cargo.emptytank",
+                    "cargo.ctubes_b",
+                    "cargo.transform2"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_28",
+        "baseType": "box",
+        "types": [
+            {
+                "name": "insulated",
+                "code": "trailer.scs_ins28",
+                "cargo": [
+                    "cargo.potatoes",
+                    "cargo.grain",
+                    "cargo.dry_fruit",
+                    "cargo.nuts",
+                    "cargo.empty_palet",
+                    "cargo.fertilizer",
+                    "cargo.borates",
+                    "cargo.vegetable",
+                    "cargo.soda_ash",
+                    "cargo.clothes",
+                    "cargo.pellet_afood",
+                    "cargo.battery",
+                    "cargo.fruits",
+                    "cargo.salt",
+                    "cargo.almond_box",
+                    "cargo.boric_acid",
+                    "cargo.waste_paper",
+                    "cargo.cans",
+                    "cargo.used_pack",
+                    "cargo.sugar"
+                ]
+            },
+            {
+                "name": "dryvan",
+                "code": "trailer.scs_dry28",
+                "cargo": [
+                    "cargo.grain",
+                    "cargo.potatoes",
+                    "cargo.empty_palet",
+                    "cargo.pellet_afood",
+                    "cargo.used_pack",
+                    "cargo.toys",
+                    "cargo.dry_milk",
+                    "cargo.home_acc",
+                    "cargo.ibc_cont",
+                    "cargo.office_suppl",
+                    "cargo.battery",
+                    "cargo.nuts",
+                    "cargo.food",
+                    "cargo.borates",
+                    "cargo.cans",
+                    "cargo.waste_paper",
+                    "cargo.almond_box",
+                    "cargo.boric_acid",
+                    "cargo.tyres",
+                    "cargo.guard_rails"
+                ]
+            },
+            {
+                "name": "reefer",
+                "code": "trailer.scs_ref28",
+                "cargo": [
+                    "cargo.almond_box",
+                    "cargo.nuts",
+                    "cargo.dry_fruit",
+                    "cargo.vegetable",
+                    "cargo.yogurt",
+                    "cargo.buttermilk",
+                    "cargo.meat",
+                    "cargo.frozen_food",
+                    "cargo.milk",
+                    "cargo.butter",
+                    "cargo.cheese",
+                    "cargo.used_pack",
+                    "cargo.empty_palet",
+                    "cargo.waste_paper",
+                    "cargo.fertilizer",
+                    "cargo.frozen_fruit",
+                    "cargo.fruits",
+                    "cargo.furniture",
+                    "cargo.clothes",
+                    "cargo.cans",
+                    "cargo.dry_milk",
+                    "cargo.toys",
+                    "cargo.food",
+                    "cargo.icecream",
+                    "cargo.grain",
+                    "cargo.sugar",
+                    "cargo.tyres"
+                ]
+            },
+            {
+                "name": "reefer",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_42",
+        "baseType": "drybulk",
+        "types": [
+            {
+                "name": "drybulk",
+                "code": "trailer.scs_dry",
+                "cargo": [
+                    "cargo.corn_b",
+                    "cargo.grain_b",
+                    "cargo.soybean_b",
+                    "cargo.cement",
+                    "cargo.sand",
+                    "cargo.pellet_afd_b"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_45r",
+        "baseType": "bulkfeed",
+        "types": [
+            {
+                "name": "bulkfeed",
+                "code": "trailer.scs_bulfed45",
+                "cargo": [
+                    "cargo.soybean_b",
+                    "cargo.grain_b",
+                    "cargo.corn_b",
+                    "cargo.pellet_afd_b",
+                    "cargo.cott_seed"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_48f",
+        "baseType": "dropdeck",
+        "types": [
+            {
+                "name": "dropdeck_alu",
+                "code": "trailer.scs_drop48f",
+                "cargo": [
+                    "cargo.moving_cont",
+                    "cargo.scaffolding",
+                    "cargo.fert_tank",
+                    "cargo.alu_profile",
+                    "cargo.ventilation",
+                    "cargo.alu_ingot",
+                    "cargo.moor_buoy",
+                    "cargo.waste_paper",
+                    "cargo.mixtank",
+                    "cargo.big_tyres",
+                    "cargo.glass_rack",
+                    "cargo.aircon",
+                    "cargo.lumber",
+                    "cargo.ins_panel",
+                    "cargo.dumpster",
+                    "cargo.empty_palet",
+                    "cargo.fertilizer",
+                    "cargo.wire_rod",
+                    "cargo.emptytank",
+                    "cargo.lumber_p",
+                    "cargo.rails",
+                    "cargo.ctubes_b",
+                    "cargo.cable"
+                ]
+            },
+            {
+                "name": "curtain",
+                "code": "trailer.scs_droc48f",
+                "cargo": [
+                    "cargo.grain",
+                    "cargo.battery",
+                    "cargo.used_pack",
+                    "cargo.waste_paper",
+                    "cargo.gypsum",
+                    "cargo.salt",
+                    "cargo.colors",
+                    "cargo.mortar",
+                    "cargo.food",
+                    "cargo.nuts",
+                    "cargo.ibc_cont",
+                    "cargo.silica",
+                    "cargo.sawpanels",
+                    "cargo.curtains",
+                    "cargo.office_suppl",
+                    "cargo.empty_palet",
+                    "cargo.paper",
+                    "cargo.flour",
+                    "cargo.furniture",
+                    "cargo.talc_pwdr",
+                    "cargo.fertilizer"
+                ]
+            }
+        ]
+    },
+    {
+        "baseType": "null",
+        "types": [
+            {
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "rm_double_p",
+        "baseType": "grainhopper",
+        "types": [
+            {
+                "name": "grainhopper",
+                "code": "trailer.scs_grainhrm",
+                "cargo": [
+                    "cargo.soybean_b",
+                    "cargo.potatoes_b",
+                    "cargo.corn_b",
+                    "cargo.grain_b",
+                    "cargo.sugar_beet_b"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "rmdouble",
+        "baseType": "drybulk",
+        "types": [
+            {
+                "name": "drybulk",
+                "code": "trailer.scs_dryb_rm",
+                "cargo": [
+                    "cargo.corn_b",
+                    "cargo.soybean_b",
+                    "cargo.grain_b",
+                    "cargo.cement",
+                    "cargo.borates"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "double",
+        "baseType": "drybulk",
+        "types": [
+            {
+                "name": "drybulk",
+                "code": "trailer.scs_dry_d",
+                "cargo": [
+                    "cargo.grain_b",
+                    "cargo.corn_b",
+                    "cargo.soybean_b",
+                    "cargo.sand",
+                    "cargo.cement",
+                    "cargo.pellet_afd_b",
+                    "cargo.cott_seed"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_45r",
+        "baseType": "box",
+        "types": [
+            {
+                "name": "insulated",
+                "code": "trailer.scs_ins45r",
+                "cargo": [
+                    "cargo.flour",
+                    "cargo.potatoes",
+                    "cargo.empty_palet",
+                    "cargo.fertilizer",
+                    "cargo.used_pack",
+                    "cargo.vegetable",
+                    "cargo.battery",
+                    "cargo.paper",
+                    "cargo.pellet_afood",
+                    "cargo.fruits",
+                    "cargo.salt",
+                    "cargo.grain",
+                    "cargo.cans",
+                    "cargo.tyres",
+                    "cargo.waste_paper",
+                    "cargo.curtains",
+                    "cargo.talc_pwdr",
+                    "cargo.soda_ash",
+                    "cargo.clothes"
+                ]
+            },
+            {
+                "name": "reefer",
+                "code": "trailer.scs_ref45r",
+                "cargo": [
+                    "cargo.fruits",
+                    "cargo.cheese",
+                    "cargo.yogurt",
+                    "cargo.milk",
+                    "cargo.food",
+                    "cargo.meat",
+                    "cargo.frozen_food",
+                    "cargo.buttermilk",
+                    "cargo.used_pack",
+                    "cargo.empty_palet",
+                    "cargo.vegetable",
+                    "cargo.icecream",
+                    "cargo.fertilizer",
+                    "cargo.sugar",
+                    "cargo.pellet_afood",
+                    "cargo.butter",
+                    "cargo.frozen_veget",
+                    "cargo.frozen_fruit",
+                    "cargo.waste_paper",
+                    "cargo.cans",
+                    "cargo.soda_ash",
+                    "cargo.grain"
+                ]
+            },
+            {
+                "name": "reefer",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            },
+            {
+                "name": "dryvan",
+                "code": "trailer.scs_dry45r",
+                "cargo": [
+                    "cargo.empty_palet",
+                    "cargo.tyres",
+                    "cargo.paper",
+                    "cargo.toys",
+                    "cargo.used_pack",
+                    "cargo.borates",
+                    "cargo.ibc_cont",
+                    "cargo.sugar",
+                    "cargo.curtains",
+                    "cargo.dry_fruit",
+                    "cargo.fertilizer",
+                    "cargo.battery",
+                    "cargo.waste_paper",
+                    "cargo.nuts",
+                    "cargo.food",
+                    "cargo.clothes",
+                    "cargo.potatoes",
+                    "cargo.furniture",
+                    "cargo.home_acc",
+                    "cargo.cans",
+                    "cargo.flour",
+                    "cargo.grain"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_48_3",
+        "baseType": "foodtank",
+        "types": [
+            {
+                "name": "foodtank",
+                "code": "trailer.scs_fodt48",
+                "cargo": [
+                    "cargo.fruit_juic_t",
+                    "cargo.rawmilk",
+                    "cargo.milk_t"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "double_p",
+        "baseType": "box",
+        "types": [
+            {
+                "name": "dryvan",
+                "code": "trailer.scs_dry2",
+                "cargo": [
+                    "cargo.flour",
+                    "cargo.guard_rails",
+                    "cargo.used_pack",
+                    "cargo.empty_palet",
+                    "cargo.paper",
+                    "cargo.borates",
+                    "cargo.sugar",
+                    "cargo.waste_paper",
+                    "cargo.almond_box",
+                    "cargo.dry_milk",
+                    "cargo.potatoes",
+                    "cargo.boric_acid",
+                    "cargo.home_acc",
+                    "cargo.food",
+                    "cargo.fertilizer",
+                    "cargo.nuts",
+                    "cargo.ibc_cont",
+                    "cargo.furniture",
+                    "cargo.tyres"
+                ]
+            },
+            {
+                "name": "insulated",
+                "code": "trailer.scs_ins2",
+                "cargo": [
+                    "cargo.potatoes",
+                    "cargo.vegetable",
+                    "cargo.fruits",
+                    "cargo.used_pack",
+                    "cargo.paper",
+                    "cargo.dry_fruit",
+                    "cargo.furniture",
+                    "cargo.cans",
+                    "cargo.grain",
+                    "cargo.waste_paper",
+                    "cargo.empty_palet",
+                    "cargo.borates",
+                    "cargo.toys",
+                    "cargo.nuts",
+                    "cargo.almond_box",
+                    "cargo.food",
+                    "cargo.sugar",
+                    "cargo.soda_ash",
+                    "cargo.tyres",
+                    "cargo.fertilizer"
+                ]
+            },
+            {
+                "name": "reefer",
+                "code": "trailer.scs_ref2",
+                "cargo": [
+                    "cargo.frozen_veget",
+                    "cargo.yogurt",
+                    "cargo.cheese",
+                    "cargo.milk",
+                    "cargo.buttermilk",
+                    "cargo.butter",
+                    "cargo.empty_palet",
+                    "cargo.used_pack",
+                    "cargo.waste_paper",
+                    "cargo.tyres",
+                    "cargo.frozen_food",
+                    "cargo.meat",
+                    "cargo.fruits",
+                    "cargo.curtains",
+                    "cargo.vegetable",
+                    "cargo.fertilizer",
+                    "cargo.icecream",
+                    "cargo.potatoes",
+                    "cargo.nuts",
+                    "cargo.dry_milk",
+                    "cargo.grain",
+                    "cargo.frozen_fruit",
+                    "cargo.cans",
+                    "cargo.salt"
+                ]
+            },
+            {
+                "name": "reefer",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_45f",
+        "baseType": "flatbed",
+        "types": [
+            {
+                "name": "curtain",
+                "code": "trailer.scs_curt45f",
+                "cargo": [
+                    "cargo.dry_fruit",
+                    "cargo.used_pack",
+                    "cargo.empty_palet",
+                    "cargo.sugar",
+                    "cargo.rice",
+                    "cargo.silica",
+                    "cargo.waste_paper",
+                    "cargo.sawpanels",
+                    "cargo.flour",
+                    "cargo.gypsum",
+                    "cargo.ibc_cont",
+                    "cargo.battery",
+                    "cargo.dry_milk",
+                    "cargo.grain",
+                    "cargo.home_acc",
+                    "cargo.furniture",
+                    "cargo.mortar",
+                    "cargo.soda_ash",
+                    "cargo.nuts",
+                    "cargo.colors"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "triple_p",
+        "baseType": "box",
+        "types": [
+            {
+                "name": "reefer",
+                "code": "trailer.scs_ref3",
+                "cargo": [
+                    "cargo.potatoes",
+                    "cargo.milk",
+                    "cargo.meat",
+                    "cargo.pellet_afood",
+                    "cargo.waste_paper",
+                    "cargo.frozen_fruit",
+                    "cargo.home_acc"
+                ]
+            },
+            {
+                "name": "dryvan",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            },
+            {
+                "name": "dryvan",
+                "code": "trailer.scs_dry3",
+                "cargo": [
+                    "cargo.empty_palet",
+                    "cargo.nuts",
+                    "cargo.pellet_afood",
+                    "cargo.used_pack",
+                    "cargo.dry_fruit",
+                    "cargo.waste_paper"
+                ]
+            },
+            {
+                "name": "insulated",
+                "code": "trailer.scs_ins3",
+                "cargo": [
+                    "cargo.paper"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "rm_double",
+        "baseType": "flatbed",
+        "types": [
+            {
+                "name": "flatbed",
+                "code": "trailer.scs_flat_rm2",
+                "cargo": [
+                    "cargo.hay",
+                    "cargo.moving_cont",
+                    "cargo.scaffolding",
+                    "cargo.alu_ingot",
+                    "cargo.train_part",
+                    "cargo.oil_pipes",
+                    "cargo.plows",
+                    "cargo.volvo_rims",
+                    "cargo.fertilizer",
+                    "cargo.lumber_b",
+                    "cargo.ctubes",
+                    "cargo.hipresstank",
+                    "cargo.roof_tiles",
+                    "cargo.waste_paper",
+                    "cargo.dumpster",
+                    "cargo.house_pref",
+                    "cargo.cott_lint",
+                    "cargo.lumber",
+                    "cargo.empty_palet",
+                    "cargo.ins_panel",
+                    "cargo.wire_rod",
+                    "cargo.transform2",
+                    "cargo.lumber_p",
+                    "cargo.moor_buoy",
+                    "cargo.pipes",
+                    "cargo.conc_barr",
+                    "cargo.ctubes_b"
+                ]
+            },
+            {
+                "name": "curtain",
+                "code": "trailer.scs_curt_rm2",
+                "cargo": [
+                    "cargo.battery",
+                    "cargo.used_pack",
+                    "cargo.guard_rails",
+                    "cargo.gypsum",
+                    "cargo.sawpanels",
+                    "cargo.waste_paper",
+                    "cargo.fertilizer",
+                    "cargo.toys",
+                    "cargo.ibc_cont",
+                    "cargo.empty_palet"
+                ]
+            },
+            {
+                "name": "flatbed",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "rm_double_p",
+        "baseType": "box",
+        "types": [
+            {
+                "name": "reefer",
+                "code": "trailer.scs_ref_rm",
+                "cargo": [
+                    "cargo.frozen_veget",
+                    "cargo.frozen_food",
+                    "cargo.meat",
+                    "cargo.empty_palet",
+                    "cargo.frozen_fruit",
+                    "cargo.used_pack",
+                    "cargo.office_suppl",
+                    "cargo.yogurt",
+                    "cargo.fruits",
+                    "cargo.toys",
+                    "cargo.icecream",
+                    "cargo.buttermilk"
+                ]
+            },
+            {
+                "name": "reefer",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            },
+            {
+                "name": "dryvan",
+                "code": "trailer.scs_dry_rm",
+                "cargo": [
+                    "cargo.used_pack",
+                    "cargo.dry_milk",
+                    "cargo.food",
+                    "cargo.boric_acid",
+                    "cargo.empty_palet",
+                    "cargo.ibc_cont",
+                    "cargo.grain",
+                    "cargo.furniture"
+                ]
+            },
+            {
+                "name": "insulated",
+                "code": "trailer.scs_ins_rm",
+                "cargo": [
+                    "cargo.empty_palet",
+                    "cargo.furniture",
+                    "cargo.soda_ash",
+                    "cargo.toys",
+                    "cargo.food",
+                    "cargo.waste_paper"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_28",
+        "baseType": "flatbed",
+        "types": [
+            {
+                "name": "flatbed",
+                "code": "trailer.scs_flat28",
+                "cargo": [
+                    "cargo.plows",
+                    "cargo.scaffolding",
+                    "cargo.scrap_cars",
+                    "cargo.moving_cont",
+                    "cargo.waste_paper",
+                    "cargo.empty_palet",
+                    "cargo.volvo_rims",
+                    "cargo.gen_set",
+                    "cargo.pumpjack",
+                    "cargo.aircraft_eng",
+                    "cargo.dumpster",
+                    "cargo.roof_tiles",
+                    "cargo.cott_lint",
+                    "cargo.ctubes_b",
+                    "cargo.lumber_b",
+                    "cargo.ctubes",
+                    "cargo.ins_panel",
+                    "cargo.almond_box",
+                    "cargo.fertilizer",
+                    "cargo.house_pref",
+                    "cargo.aircon",
+                    "cargo.hipresstank",
+                    "cargo.emptytank",
+                    "cargo.lumber_p",
+                    "cargo.transform2",
+                    "cargo.moor_buoy",
+                    "cargo.pipes",
+                    "cargo.cable",
+                    "cargo.conc_barr",
+                    "cargo.wire_rod"
+                ]
+            },
+            {
+                "name": "curtain",
+                "code": "trailer.scs_curt28",
+                "cargo": [
+                    "cargo.grain",
+                    "cargo.waste_paper",
+                    "cargo.used_pack",
+                    "cargo.ibc_cont",
+                    "cargo.empty_palet",
+                    "cargo.colors",
+                    "cargo.mortar",
+                    "cargo.fertilizer",
+                    "cargo.dry_fruit",
+                    "cargo.dry_milk",
+                    "cargo.clothes",
+                    "cargo.food",
+                    "cargo.silica",
+                    "cargo.gypsum",
+                    "cargo.office_suppl",
+                    "cargo.salt",
+                    "cargo.sawpanels",
+                    "cargo.home_acc"
+                ]
+            },
+            {
+                "name": "flatbed",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_45_3",
+        "baseType": "bottomdumper",
+        "types": [
+            {
+                "name": "horizontal",
+                "code": "trailer.bottom_dump",
+                "cargo": [
+                    "cargo.scrap_metals",
+                    "cargo.soil",
+                    "cargo.limestone",
+                    "cargo.stones",
+                    "cargo.wshavings",
+                    "cargo.gravel",
+                    "cargo.sand"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_40r",
+        "baseType": "log",
+        "types": [
+            {
+                "name": "log_4",
+                "code": "trailer.scs_log",
+                "cargo": [
+                    "cargo.largetubes",
+                    "cargo.logs",
+                    "cargo.util_pole",
+                    "cargo.lumber_b"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_30",
+        "baseType": "dumper",
+        "types": [
+            {
+                "name": "end",
+                "code": "trailer.scs_dumper",
+                "cargo": [
+                    "cargo.scrap_metals",
+                    "cargo.stones",
+                    "cargo.soil",
+                    "cargo.wshavings",
+                    "cargo.limestone",
+                    "cargo.sand",
+                    "cargo.gravel"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "double",
+        "baseType": "bottomdumper",
+        "types": [
+            {
+                "name": "horizontal",
+                "code": "trailer.bdump_pup_2",
+                "cargo": [
+                    "cargo.scrap_metals",
+                    "cargo.wshavings",
+                    "cargo.sand",
+                    "cargo.stones",
+                    "cargo.soil",
+                    "cargo.limestone",
+                    "cargo.gravel"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "rm_double2",
+        "baseType": "bottomdumper",
+        "types": [
+            {
+                "name": "horizontal",
+                "code": "trailer.bdump_rm_2",
+                "cargo": [
+                    "cargo.scrap_metals",
+                    "cargo.soil",
+                    "cargo.limestone",
+                    "cargo.wshavings",
+                    "cargo.gravel"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_36",
+        "baseType": "dumper",
+        "types": [
+            {
+                "name": "side",
+                "code": "trailer.scs_dumpers",
+                "cargo": [
+                    "cargo.scrap_metals",
+                    "cargo.sand",
+                    "cargo.gravel",
+                    "cargo.soil",
+                    "cargo.wshavings",
+                    "cargo.limestone",
+                    "cargo.stones"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "triple_p",
+        "baseType": "flatbed",
+        "types": [
+            {
+                "name": "curtain",
+                "code": "trailer.scs_curt_3",
+                "cargo": [
+                    "cargo.battery",
+                    "cargo.gypsum",
+                    "cargo.empty_palet",
+                    "cargo.fertilizer",
+                    "cargo.mortar",
+                    "cargo.silica",
+                    "cargo.dry_fruit",
+                    "cargo.used_pack"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_53_3",
+        "baseType": "flatbed",
+        "types": [
+            {
+                "name": "curtain",
+                "code": "trailer.scs_curt53_3",
+                "cargo": [
+                    "cargo.used_pack",
+                    "cargo.waste_paper",
+                    "cargo.empty_palet",
+                    "cargo.gypsum",
+                    "cargo.colors",
+                    "cargo.battery",
+                    "cargo.ibc_cont",
+                    "cargo.fertilizer",
+                    "cargo.furniture",
+                    "cargo.mortar",
+                    "cargo.silica",
+                    "cargo.tyres",
+                    "cargo.sawpanels",
+                    "cargo.flour",
+                    "cargo.grain"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "frac_tank",
+        "baseType": "trailer_def",
+        "types": [
+            {
+                "name": "frac_tank_g",
+                "code": "trailer.frac_tank_g",
+                "cargo": [
+                    "cargo.frac_tank"
+                ]
+            },
+            {
+                "name": "frac_tank_y",
+                "code": "trailer.frac_tank_y",
+                "cargo": [
+                    "cargo.frac_tank"
+                ]
+            },
+            {
+                "name": "frac_tank_r",
+                "code": "trailer.frac_tank_r",
+                "cargo": [
+                    "cargo.frac_tank"
+                ]
+            },
+            {
+                "name": "frac_tank_b",
+                "code": "trailer.frac_tank_b",
+                "cargo": [
+                    "cargo.frac_tank"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_45",
+        "baseType": "lowboy",
+        "types": [
+            {
+                "name": "wood",
+                "code": "trailer.scs_lboy_2",
+                "cargo": [
+                    "cargo.jet_wing",
+                    "cargo.mixtank",
+                    "cargo.cable",
+                    "cargo.cool_tower"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "single_50_3",
+        "baseType": "lowboy",
+        "types": [
+            {
+                "name": "wood",
+                "code": "trailer.scs_lboy_3w",
+                "cargo": [
+                    "cargo.jet_wing",
+                    "cargo.mixtank",
+                    "cargo.cool_tower",
+                    "cargo.cable",
+                    "cargo.windml_tube"
+                ]
+            },
+            {
+                "name": "wood",
+                "code": "trailer.scs_lboy_3",
+                "cargo": [
+                    "cargo.mixtank",
+                    "cargo.jet_wing",
+                    "cargo.cable",
+                    "cargo.cool_tower",
+                    "cargo.windml_tube"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "double_2_3",
+        "baseType": "lowboy",
+        "types": [
+            {
+                "name": "wood",
+                "code": "trailer.scs_lboy_23",
+                "cargo": [
+                    "cargo.coil"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "triple_2_2_2",
+        "baseType": "lowboy",
+        "types": [
+            {
+                "name": "wood",
+                "code": "trailer.scs_lboy_222",
+                "cargo": [
+                    "cargo.coil"
+                ]
+            },
+            {
+                "name": "wood",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "triple_3_3_3",
+        "baseType": "lowboy",
+        "types": [
+            {
+                "name": "wood",
+                "code": "trailer.scs_lb_333_s",
+                "cargo": [
+                    "cargo.coil",
+                    "cargo.transformer"
+                ]
+            },
+            {
+                "name": "wood",
+                "code": "null",
+                "cargo": [
+                    "null"
+                ]
+            }
+        ]
+    }
+]

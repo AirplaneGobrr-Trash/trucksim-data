@@ -1,3 +1,6 @@
+# Custom
+*.sii
+
 # Logs
 logs
 *.log
